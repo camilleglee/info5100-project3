@@ -1,0 +1,253 @@
+Dis1,Industry21,Educ,_TYPE_,_FREQ_,n_Est,Base_Pop,Sample,p_est
+,,Less than High School,1,109936,12846916,144626987,1395403,0.0888279308
+,,High School,1,344033,36322013,144626987,1395403,0.2511427069
+,,Some College,1,457608,47701968,144626987,1395403,0.3298275722
+,,Bachelors Degree or more,1,483826,47756090,144626987,1395403,0.3302017901
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Less than High School,3,6462,699675,2828841,31117,0.2473362766
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",High School,3,10867,947943,2828841,31117,0.3350994276
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Some College,3,8233,697488,2828841,31117,0.2465631684
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Bachelors Degree or more,3,5555,483735,2828841,31117,0.1710011273
+,Utilities,Less than High School,3,446,44684,1242114,13130,0.0359741537
+,Utilities,High School,3,3798,356214,1242114,13130,0.2867804404
+,Utilities,Some College,3,5091,475853,1242114,13130,0.3830992968
+,Utilities,Bachelors Degree or more,3,3795,365363,1242114,13130,0.294146109
+,Construction         ,Less than High School,3,14182,1804297,8890440,80676,0.2029479981
+,Construction         ,High School,3,31468,3448145,8890440,80676,0.3878486329
+,Construction         ,Some College,3,24548,2581402,8890440,80676,0.2903570577
+,Construction         ,Bachelors Degree or more,3,10478,1056596,8890440,80676,0.1188463113
+,Manufacturing,Less than High School,3,15745,1766919,15239477,151077,0.1159435458
+,Manufacturing,High School,3,49741,4963735,15239477,151077,0.3257155741
+,Manufacturing,Some College,3,45273,4511269,15239477,151077,0.2960251851
+,Manufacturing,Bachelors Degree or more,3,40318,3997554,15239477,151077,0.262315695
+,Wholesale Trade,Less than High School,3,3463,381207,3914929,38133,0.0973726471
+,Wholesale Trade,High School,3,10839,1124879,3914929,38133,0.2873306259
+,Wholesale Trade,Some College,3,12450,1262787,3914929,38133,0.3225568075
+,Wholesale Trade,Bachelors Degree or more,3,11381,1146056,3914929,38133,0.2927399194
+,Retail Trade,Less than High School,3,13217,1493393,16548278,152097,0.0902446164
+,Retail Trade,High School,3,50074,5409978,16548278,152097,0.3269209038
+,Retail Trade,Some College,3,58685,6481828,16548278,152097,0.3916919936
+,Retail Trade,Bachelors Degree or more,3,30121,3163079,16548278,152097,0.1911424862
+,"Transportation, Warehousing & Storage",Less than High School,3,5348,586880,5815462,55178,0.1009171756
+,"Transportation, Warehousing & Storage",High School,3,20561,2171346,5815462,55178,0.3733746347
+,"Transportation, Warehousing & Storage",Some College,3,20126,2115642,5815462,55178,0.363796032
+,"Transportation, Warehousing & Storage",Bachelors Degree or more,3,9143,941594,5815462,55178,0.1619121576
+,Information,Less than High School,3,666,69444,3052278,29604,0.0227515318
+,Information,High School,3,4696,492132,3052278,29604,0.1612343306
+,Information,Some College,3,9868,1039531,3052278,29604,0.3405754653
+,Information,Bachelors Degree or more,3,14374,1451171,3052278,29604,0.4754386724
+,"Finance, Insurance",Less than High School,3,784,79505,6837093,66657,0.0116284801
+,"Finance, Insurance",High School,3,10484,1059210,6837093,66657,0.1549211046
+,"Finance, Insurance",Some College,3,21691,2260116,6837093,66657,0.3305668067
+,"Finance, Insurance",Bachelors Degree or more,3,33698,3438262,6837093,66657,0.5028836086
+,"Real Estate, Rental & Leasing",Less than High School,3,1578,190699,2682674,25333,0.071085417
+,"Real Estate, Rental & Leasing",High School,3,5563,612838,2682674,25333,0.228442964
+,"Real Estate, Rental & Leasing",Some College,3,8974,952155,2682674,25333,0.3549275834
+,"Real Estate, Rental & Leasing",Bachelors Degree or more,3,9218,926982,2682674,25333,0.3455440355
+,"Professional, Scientific, Management",Less than High School,3,1210,130697,9767411,97480,0.0133809256
+,"Professional, Scientific, Management",High School,3,8227,855255,9767411,97480,0.0875620981
+,"Professional, Scientific, Management",Some College,3,22815,2325451,9767411,97480,0.2380826403
+,"Professional, Scientific, Management",Bachelors Degree or more,3,65228,6456008,9767411,97480,0.660974336
+,Administrative & Waste Management Services,Less than High School,3,8802,1139491,6199418,54026,0.183806125
+,Administrative & Waste Management Services,High School,3,16492,1941252,6199418,54026,0.3131345555
+,Administrative & Waste Management Services,Some College,3,17793,1991865,6199418,54026,0.321298709
+,Administrative & Waste Management Services,Bachelors Degree or more,3,10939,1126810,6199418,54026,0.1817606104
+,Educational Services,Less than High School,3,3021,313170,13413553,143909,0.0233472817
+,Educational Services,High School,3,16106,1494665,13413553,143909,0.1114294624
+,Educational Services,Some College,3,30780,2843365,13413553,143909,0.2119770206
+,Educational Services,Bachelors Degree or more,3,94002,8762353,13413553,143909,0.6532462354
+,Health Care,Less than High School,3,6471,696234,16541320,161273,0.0420905949
+,Health Care,High School,3,27570,2923305,16541320,161273,0.1767274317
+,Health Care,Some College,3,63452,6572935,16541320,161273,0.3973645997
+,Health Care,Bachelors Degree or more,3,63780,6348846,16541320,161273,0.3838173737
+,Social Assistance Services,Less than High School,3,2775,289055,3368123,33032,0.0858207969
+,Social Assistance Services,High School,3,7619,760080,3368123,33032,0.2256687182
+,Social Assistance Services,Some College,3,11156,1158927,3368123,33032,0.3440868994
+,Social Assistance Services,Bachelors Degree or more,3,11482,1160061,3368123,33032,0.3444235855
+,"Arts, Entertainment, Recreation",Less than High School,3,2022,224961,3013757,28846,0.0746447043
+,"Arts, Entertainment, Recreation",High School,3,6636,708591,3013757,28846,0.2351188234
+,"Arts, Entertainment, Recreation",Some College,3,10456,1100698,3013757,28846,0.3652245354
+,"Arts, Entertainment, Recreation",Bachelors Degree or more,3,9732,979507,3013757,28846,0.3250119369
+,Accommodation and Food Services,Less than High School,3,14151,1857276,10314019,84746,0.1800729667
+,Accommodation and Food Services,High School,3,27299,3352331,10314019,84746,0.3250266458
+,Accommodation and Food Services,Some College,3,32450,3880202,10314019,84746,0.376206598
+,Accommodation and Food Services,Bachelors Degree or more,3,10846,1224210,10314019,84746,0.1186937895
+,Other Services (except Public Administration)       ,Less than High School,3,8057,931605,7127971,68142,0.1306970806
+,Other Services (except Public Administration)       ,High School,3,20890,2270412,7127971,68142,0.3185214979
+,Other Services (except Public Administration)       ,Some College,3,22306,2337288,7127971,68142,0.327903691
+,Other Services (except Public Administration)       ,Bachelors Degree or more,3,16889,1588666,7127971,68142,0.2228777306
+,Public Administration,Less than High School,3,1463,140462,6844188,70390,0.0205228144
+,Public Administration,High School,3,12143,1162347,6844188,70390,0.1698297884
+,Public Administration,Some College,3,26632,2652709,6844188,70390,0.387585642
+,Public Administration,Bachelors Degree or more,3,30152,2888670,6844188,70390,0.4220617552
+,Active Duty Military,Less than High School,3,73,7262,985641,10557,0.0073677942
+,Active Duty Military,High School,3,2960,267355,985641,10557,0.271249877
+,Active Duty Military,Some College,3,4829,460457,985641,10557,0.4671650226
+,Active Duty Military,Bachelors Degree or more,3,2695,250567,985641,10557,0.2542173063
+0,,Less than High School,5,98743,11732325,136414654,1309165,0.0860048731
+0,,High School,5,317406,33806415,136414654,1309165,0.2478209929
+0,,Some College,5,428265,44872557,136414654,1309165,0.328942351
+0,,Bachelors Degree or more,5,464751,46003357,136414654,1309165,0.337231783
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Less than High School,7,5885,644711,2633715,28739,0.2447914828
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",High School,7,9959,878127,2633715,28739,0.3334176249
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Some College,7,7621,649048,2633715,28739,0.2464382061
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Bachelors Degree or more,7,5274,461829,2633715,28739,0.1753526862
+0,Utilities,Less than High School,7,408,41956,1176615,12385,0.035658223
+0,Utilities,High School,7,3526,332607,1176615,12385,0.2826812509
+0,Utilities,Some College,7,4788,449216,1176615,12385,0.3817867357
+0,Utilities,Bachelors Degree or more,7,3663,352836,1176615,12385,0.2998737905
+0,Construction         ,Less than High School,7,13189,1696332,8398766,75700,0.2019739567
+0,Construction         ,High School,7,29485,3259540,8398766,75700,0.3880974896
+0,Construction         ,Some College,7,22992,2427577,8398766,75700,0.2890397232
+0,Construction         ,Bachelors Degree or more,7,10034,1015317,8398766,75700,0.1208888306
+0,Manufacturing,Less than High School,7,14205,1623071,14382164,141684,0.1128530449
+0,Manufacturing,High School,7,46140,4638321,14382164,141684,0.3225050834
+0,Manufacturing,Some College,7,42357,4245521,14382164,141684,0.2951934771
+0,Manufacturing,Bachelors Degree or more,7,38982,3875251,14382164,141684,0.2694483946
+0,Wholesale Trade,Less than High School,7,3183,354534,3722122,36026,0.095250505
+0,Wholesale Trade,High School,7,10139,1059640,3722122,36026,0.2846870683
+0,Wholesale Trade,Some College,7,11710,1196109,3722122,36026,0.3213513689
+0,Wholesale Trade,Bachelors Degree or more,7,10994,1111839,3722122,36026,0.2987110578
+0,Retail Trade,Less than High School,7,11814,1350978,15499077,141437,0.0871650615
+0,Retail Trade,High School,7,46041,5019571,15499077,141437,0.3238625758
+0,Retail Trade,Some College,7,54826,6094385,15499077,141437,0.393209544
+0,Retail Trade,Bachelors Degree or more,7,28756,3034143,15499077,141437,0.1957628187
+0,"Transportation, Warehousing & Storage",Less than High School,7,4843,537054,5454818,51397,0.0984549805
+0,"Transportation, Warehousing & Storage",High School,7,19090,2035641,5454818,51397,0.3731822033
+0,"Transportation, Warehousing & Storage",Some College,7,18707,1977942,5454818,51397,0.3626045819
+0,"Transportation, Warehousing & Storage",Bachelors Degree or more,7,8757,904181,5454818,51397,0.1657582343
+0,Information,Less than High School,7,589,62290,2904819,28088,0.0214436769
+0,Information,High School,7,4324,456327,2904819,28088,0.1570930925
+0,Information,Some College,7,9276,980766,2904819,28088,0.3376341177
+0,Information,Bachelors Degree or more,7,13899,1405436,2904819,28088,0.4838291129
+0,"Finance, Insurance",Less than High School,7,714,73381,6571735,63838,0.0111661532
+0,"Finance, Insurance",High School,7,9861,1002743,6571735,63838,0.152584211
+0,"Finance, Insurance",Some College,7,20586,2153475,6571735,63838,0.3276874372
+0,"Finance, Insurance",Bachelors Degree or more,7,32677,3342136,6571735,63838,0.5085621986
+0,"Real Estate, Rental & Leasing",Less than High School,7,1367,165658,2504962,23564,0.0661319413
+0,"Real Estate, Rental & Leasing",High School,7,5115,567424,2504962,23564,0.2265200031
+0,"Real Estate, Rental & Leasing",Some College,7,8322,888919,2504962,23564,0.3548632674
+0,"Real Estate, Rental & Leasing",Bachelors Degree or more,7,8760,882961,2504962,23564,0.3524847882
+0,"Professional, Scientific, Management",Less than High School,7,1093,118970,9367559,93154,0.0127002136
+0,"Professional, Scientific, Management",High School,7,7654,801738,9367559,93154,0.0855866507
+0,"Professional, Scientific, Management",Some College,7,21395,2191075,9367559,93154,0.2339003149
+0,"Professional, Scientific, Management",Bachelors Degree or more,7,63012,6255776,9367559,93154,0.6678128208
+0,Administrative & Waste Management Services,Less than High School,7,7912,1043534,5760394,49747,0.1811567056
+0,Administrative & Waste Management Services,High School,7,15058,1792438,5760394,49747,0.3111658682
+0,Administrative & Waste Management Services,Some College,7,16409,1852934,5760394,49747,0.3216679276
+0,Administrative & Waste Management Services,Bachelors Degree or more,7,10368,1071488,5760394,49747,0.1860094987
+0,Educational Services,Less than High School,7,2654,278537,12771052,136726,0.0218100279
+0,Educational Services,High School,7,14837,1383962,12771052,136726,0.1083671102
+0,Educational Services,Some College,7,28927,2672081,12771052,136726,0.2092295137
+0,Educational Services,Bachelors Degree or more,7,90308,8436472,12771052,136726,0.6605933481
+0,Health Care,Less than High School,7,5553,608235,15614524,151787,0.0389531567
+0,Health Care,High School,7,25281,2701256,15614524,151787,0.1729963718
+0,Health Care,Some College,7,59596,6189607,15614524,151787,0.3964006203
+0,Health Care,Bachelors Degree or more,7,61357,6115426,15614524,151787,0.3916498511
+0,Social Assistance Services,Less than High School,7,2010,225629,3043984,29346,0.0741229257
+0,Social Assistance Services,High School,7,6275,647361,3043984,29346,0.2126689891
+0,Social Assistance Services,Some College,7,10179,1068236,3043984,29346,0.3509335134
+0,Social Assistance Services,Bachelors Degree or more,7,10882,1102758,3043984,29346,0.3622745717
+0,"Arts, Entertainment, Recreation",Less than High School,7,1811,204721,2839959,27076,0.0720858998
+0,"Arts, Entertainment, Recreation",High School,7,6123,656109,2839959,27076,0.231027631
+0,"Arts, Entertainment, Recreation",Some College,7,9817,1037523,2839959,27076,0.3653302741
+0,"Arts, Entertainment, Recreation",Bachelors Degree or more,7,9325,941606,2839959,27076,0.331556195
+0,Accommodation and Food Services,Less than High School,7,13063,1732218,9747431,79570,0.177710209
+0,Accommodation and Food Services,High School,7,25304,3133700,9747431,79570,0.3214898367
+0,Accommodation and Food Services,Some College,7,30720,3694877,9747431,79570,0.3790616215
+0,Accommodation and Food Services,Bachelors Degree or more,7,10483,1186636,9747431,79570,0.1217383329
+0,Other Services (except Public Administration)       ,Less than High School,7,7178,845523,6649516,63109,0.1271555704
+0,Other Services (except Public Administration)       ,High School,7,19215,2107238,6649516,63109,0.3169009594
+0,Other Services (except Public Administration)       ,Some College,7,20745,2188523,6649516,63109,0.3291251574
+0,Other Services (except Public Administration)       ,Bachelors Degree or more,7,15971,1508232,6649516,63109,0.2268183128
+0,Public Administration,Less than High School,7,1205,118714,6426764,65671,0.0184718157
+0,Public Administration,High School,7,11136,1075672,6426764,65671,0.1673738136
+0,Public Administration,Some College,7,24704,2476363,6426764,65671,0.3853203572
+0,Public Administration,Bachelors Degree or more,7,28626,2756015,6426764,65671,0.4288340135
+0,Active Duty Military,Less than High School,7,67,6279,944678,10121,0.0066467092
+0,Active Duty Military,High School,7,2843,257000,944678,10121,0.2720503706
+0,Active Duty Military,Some College,7,4588,438380,944678,10121,0.4640523014
+0,Active Duty Military,Bachelors Degree or more,7,2623,243019,944678,10121,0.2572506187
+1,,Less than High School,5,11193,1114591,8212333,86238,0.1357216031
+1,,High School,5,26627,2515598,8212333,86238,0.3063195319
+1,,Some College,5,29343,2829411,8212333,86238,0.3445319375
+1,,Bachelors Degree or more,5,19075,1752733,8212333,86238,0.2134269275
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Less than High School,7,577,54964,195126,2378,0.281684655
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",High School,7,908,69816,195126,2378,0.3577995757
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Some College,7,612,48440,195126,2378,0.2482498488
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Bachelors Degree or more,7,281,21906,195126,2378,0.1122659205
+1,Utilities,Less than High School,7,38,2728,65499,745,0.0416494908
+1,Utilities,High School,7,272,23607,65499,745,0.3604177163
+1,Utilities,Some College,7,303,26637,65499,745,0.4066779645
+1,Utilities,Bachelors Degree or more,7,132,12527,65499,745,0.1912548283
+1,Construction         ,Less than High School,7,993,107965,491674,4976,0.2195865553
+1,Construction         ,High School,7,1983,188605,491674,4976,0.3835976684
+1,Construction         ,Some College,7,1556,153825,491674,4976,0.3128597404
+1,Construction         ,Bachelors Degree or more,7,444,41279,491674,4976,0.0839560359
+1,Manufacturing,Less than High School,7,1540,143848,857313,9393,0.1677893605
+1,Manufacturing,High School,7,3601,325414,857313,9393,0.3795743212
+1,Manufacturing,Some College,7,2916,265748,857313,9393,0.3099778027
+1,Manufacturing,Bachelors Degree or more,7,1336,122303,857313,9393,0.1426585156
+1,Wholesale Trade,Less than High School,7,280,26673,192807,2107,0.138340413
+1,Wholesale Trade,High School,7,700,65239,192807,2107,0.338364271
+1,Wholesale Trade,Some College,7,740,66678,192807,2107,0.345827693
+1,Wholesale Trade,Bachelors Degree or more,7,387,34217,192807,2107,0.1774676231
+1,Retail Trade,Less than High School,7,1403,142415,1049201,10660,0.1357366224
+1,Retail Trade,High School,7,4033,390407,1049201,10660,0.3720993404
+1,Retail Trade,Some College,7,3859,387443,1049201,10660,0.3692743335
+1,Retail Trade,Bachelors Degree or more,7,1365,128936,1049201,10660,0.1228897037
+1,"Transportation, Warehousing & Storage",Less than High School,7,505,49826,360644,3781,0.1381584055
+1,"Transportation, Warehousing & Storage",High School,7,1471,135705,360644,3781,0.3762852009
+1,"Transportation, Warehousing & Storage",Some College,7,1419,137700,360644,3781,0.3818169719
+1,"Transportation, Warehousing & Storage",Bachelors Degree or more,7,386,37413,360644,3781,0.1037394217
+1,Information,Less than High School,7,77,7154,147459,1516,0.0485151805
+1,Information,High School,7,372,35805,147459,1516,0.2428132566
+1,Information,Some College,7,592,58765,147459,1516,0.398517554
+1,Information,Bachelors Degree or more,7,475,45735,147459,1516,0.3101540089
+1,"Finance, Insurance",Less than High School,7,70,6124,265358,2819,0.0230782565
+1,"Finance, Insurance",High School,7,623,56467,265358,2819,0.2127955441
+1,"Finance, Insurance",Some College,7,1105,106641,265358,2819,0.4018759563
+1,"Finance, Insurance",Bachelors Degree or more,7,1021,96126,265358,2819,0.3622502431
+1,"Real Estate, Rental & Leasing",Less than High School,7,211,25041,177712,1769,0.1409077609
+1,"Real Estate, Rental & Leasing",High School,7,448,45414,177712,1769,0.2555483029
+1,"Real Estate, Rental & Leasing",Some College,7,652,63236,177712,1769,0.3558341586
+1,"Real Estate, Rental & Leasing",Bachelors Degree or more,7,458,44021,177712,1769,0.2477097776
+1,"Professional, Scientific, Management",Less than High School,7,117,11727,399852,4326,0.0293283515
+1,"Professional, Scientific, Management",High School,7,573,53517,399852,4326,0.1338420215
+1,"Professional, Scientific, Management",Some College,7,1420,134376,399852,4326,0.3360643438
+1,"Professional, Scientific, Management",Bachelors Degree or more,7,2216,200232,399852,4326,0.5007652832
+1,Administrative & Waste Management Services,Less than High School,7,890,95957,439024,4279,0.2185689165
+1,Administrative & Waste Management Services,High School,7,1434,148814,439024,4279,0.3389655235
+1,Administrative & Waste Management Services,Some College,7,1384,138931,439024,4279,0.3164542257
+1,Administrative & Waste Management Services,Bachelors Degree or more,7,571,55322,439024,4279,0.1260113342
+1,Educational Services,Less than High School,7,367,34633,642501,7183,0.053903418
+1,Educational Services,High School,7,1269,110703,642501,7183,0.1723001209
+1,Educational Services,Some College,7,1853,171284,642501,7183,0.2665894683
+1,Educational Services,Bachelors Degree or more,7,3694,325881,642501,7183,0.5072069927
+1,Health Care,Less than High School,7,918,87999,926796,9486,0.0949496977
+1,Health Care,High School,7,2289,222049,926796,9486,0.2395877842
+1,Health Care,Some College,7,3856,383328,926796,9486,0.4136055831
+1,Health Care,Bachelors Degree or more,7,2423,233420,926796,9486,0.2518569351
+1,Social Assistance Services,Less than High School,7,765,63426,324139,3686,0.1956753121
+1,Social Assistance Services,High School,7,1344,112719,324139,3686,0.3477489596
+1,Social Assistance Services,Some College,7,977,90691,324139,3686,0.2797904603
+1,Social Assistance Services,Bachelors Degree or more,7,600,57303,324139,3686,0.176785268
+1,"Arts, Entertainment, Recreation",Less than High School,7,211,20240,173798,1770,0.1164570363
+1,"Arts, Entertainment, Recreation",High School,7,513,52482,173798,1770,0.301971254
+1,"Arts, Entertainment, Recreation",Some College,7,639,63175,173798,1770,0.3634967031
+1,"Arts, Entertainment, Recreation",Bachelors Degree or more,7,407,37901,173798,1770,0.2180750066
+1,Accommodation and Food Services,Less than High School,7,1088,125058,566588,5176,0.2207212295
+1,Accommodation and Food Services,High School,7,1995,218631,566588,5176,0.38587298
+1,Accommodation and Food Services,Some College,7,1730,185325,566588,5176,0.3270895254
+1,Accommodation and Food Services,Bachelors Degree or more,7,363,37574,566588,5176,0.0663162651
+1,Other Services (except Public Administration)       ,Less than High School,7,879,86082,478455,5033,0.1799166066
+1,Other Services (except Public Administration)       ,High School,7,1675,163174,478455,5033,0.3410435673
+1,Other Services (except Public Administration)       ,Some College,7,1561,148765,478455,5033,0.3109278825
+1,Other Services (except Public Administration)       ,Bachelors Degree or more,7,918,80434,478455,5033,0.1681119437
+1,Public Administration,Less than High School,7,258,21748,417424,4719,0.0521005021
+1,Public Administration,High School,7,1007,86675,417424,4719,0.2076425888
+1,Public Administration,Some College,7,1928,176346,417424,4719,0.4224625321
+1,Public Administration,Bachelors Degree or more,7,1526,132655,417424,4719,0.3177943769
+1,Active Duty Military,Less than High School,7,6,983,40963,436,0.0239972658
+1,Active Duty Military,High School,7,117,10355,40963,436,0.2527891024
+1,Active Duty Military,Some College,7,241,22077,40963,436,0.538949784
+1,Active Duty Military,Bachelors Degree or more,7,72,7548,40963,436,0.1842638479

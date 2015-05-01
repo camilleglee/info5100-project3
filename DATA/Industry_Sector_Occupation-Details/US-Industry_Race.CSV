@@ -1,0 +1,316 @@
+Dis1,Industry21,raceX,_TYPE_,_FREQ_,n_Est,Base_Pop,Sample,p_est
+,,White only,1,1105177,109859119,144626987,1395403,0.7596031783
+,,Black/African American only,1,125849,16105257,144626987,1395403,0.1113572047
+,,Native American only,1,11455,930298,144626987,1395403,0.0064323956
+,,Asian only,1,73809,7881315,144626987,1395403,0.0544940828
+,,Some other race(s),1,79113,9850998,144626987,1395403,0.0681131385
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",White only,3,27316,2401324,2828841,31117,0.8488720292
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Black/African American only,3,837,99241,2828841,31117,0.0350818586
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Native American only,3,411,28279,2828841,31117,0.0099966735
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Asian only,3,408,45956,2828841,31117,0.0162455225
+,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Some other race(s),3,2145,254041,2828841,31117,0.0898039162
+,Utilities,White only,3,11076,1015544,1242114,13130,0.8175932322
+,Utilities,Black/African American only,3,985,123643,1242114,13130,0.099542393
+,Utilities,Native American only,3,170,11866,1242114,13130,0.0095530684
+,Utilities,Asian only,3,413,40414,1242114,13130,0.0325364661
+,Utilities,Some other race(s),3,486,50647,1242114,13130,0.0407748403
+,Construction         ,White only,3,68726,7302882,8890440,80676,0.8214308853
+,Construction         ,Black/African American only,3,3440,465257,8890440,80676,0.0523322805
+,Construction         ,Native American only,3,872,73296,8890440,80676,0.0082443614
+,Construction         ,Asian only,3,1270,143014,8890440,80676,0.0160862679
+,Construction         ,Some other race(s),3,6368,905991,8890440,80676,0.1019062049
+,Manufacturing,White only,3,122220,11818316,15239477,151077,0.775506666
+,Manufacturing,Black/African American only,3,10810,1366899,15239477,151077,0.0896946135
+,Manufacturing,Native American only,3,811,73960,15239477,151077,0.0048531849
+,Manufacturing,Asian only,3,9130,973974,15239477,151077,0.0639112484
+,Manufacturing,Some other race(s),3,8106,1006328,15239477,151077,0.0660342871
+,Wholesale Trade,White only,3,31521,3123938,3914929,38133,0.797955212
+,Wholesale Trade,Black/African American only,3,2151,286770,3914929,38133,0.0732503706
+,Wholesale Trade,Native American only,3,216,18244,3914929,38133,0.0046601101
+,Wholesale Trade,Asian only,3,1986,209912,3914929,38133,0.0536183415
+,Wholesale Trade,Some other race(s),3,2259,276065,3914929,38133,0.0705159659
+,Retail Trade,White only,3,120822,12574647,16548278,152097,0.7598764657
+,Retail Trade,Black/African American only,3,13404,1852196,16548278,152097,0.111926812
+,Retail Trade,Native American only,3,1106,101838,16548278,152097,0.0061539938
+,Retail Trade,Asian only,3,7467,841339,16548278,152097,0.0508414833
+,Retail Trade,Some other race(s),3,9298,1178258,16548278,152097,0.0712012452
+,"Transportation, Warehousing & Storage",White only,3,41236,4102278,5815462,55178,0.7054087878
+,"Transportation, Warehousing & Storage",Black/African American only,3,7833,1023082,5815462,55178,0.1759244579
+,"Transportation, Warehousing & Storage",Native American only,3,400,34076,5815462,55178,0.0058595517
+,"Transportation, Warehousing & Storage",Asian only,3,2402,256168,5815462,55178,0.0440494667
+,"Transportation, Warehousing & Storage",Some other race(s),3,3307,399858,5815462,55178,0.0687577358
+,Information,White only,3,23631,2346489,3052278,29604,0.7687664754
+,Information,Black/African American only,3,2516,327318,3052278,29604,0.1072372831
+,Information,Native American only,3,138,12189,3052278,29604,0.0039934108
+,Information,Asian only,3,1934,203247,3052278,29604,0.0665886266
+,Information,Some other race(s),3,1385,163035,3052278,29604,0.0534142041
+,"Finance, Insurance",White only,3,54094,5352935,6837093,66657,0.7829255796
+,"Finance, Insurance",Black/African American only,3,5326,684864,6837093,66657,0.1001688876
+,"Finance, Insurance",Native American only,3,219,20752,6837093,66657,0.0030352081
+,"Finance, Insurance",Asian only,3,4455,474904,6837093,66657,0.0694599298
+,"Finance, Insurance",Some other race(s),3,2563,303638,6837093,66657,0.0444103949
+,"Real Estate, Rental & Leasing",White only,3,20841,2134350,2682674,25333,0.7956054295
+,"Real Estate, Rental & Leasing",Black/African American only,3,1884,251248,2682674,25333,0.0936558076
+,"Real Estate, Rental & Leasing",Native American only,3,198,17024,2682674,25333,0.0063459071
+,"Real Estate, Rental & Leasing",Asian only,3,1039,106158,2682674,25333,0.0395717109
+,"Real Estate, Rental & Leasing",Some other race(s),3,1371,173894,2682674,25333,0.0648211449
+,"Professional, Scientific, Management",White only,3,80601,7855988,9767411,97480,0.8043060746
+,"Professional, Scientific, Management",Black/African American only,3,4559,562776,9767411,97480,0.0576177249
+,"Professional, Scientific, Management",Native American only,3,312,27827,9767411,97480,0.0028489638
+,"Professional, Scientific, Management",Asian only,3,8682,943536,9767411,97480,0.0966004195
+,"Professional, Scientific, Management",Some other race(s),3,3326,377284,9767411,97480,0.0386268173
+,Administrative & Waste Management Services,White only,3,39797,4336080,6199418,54026,0.6994333984
+,Administrative & Waste Management Services,Black/African American only,3,6982,935811,6199418,54026,0.150951428
+,Administrative & Waste Management Services,Native American only,3,412,39207,6199418,54026,0.0063243033
+,Administrative & Waste Management Services,Asian only,3,1699,184218,6199418,54026,0.0297153701
+,Administrative & Waste Management Services,Some other race(s),3,5136,704102,6199418,54026,0.1135755002
+,Educational Services,White only,3,118087,10688614,13413553,143909,0.796851811
+,Educational Services,Black/African American only,3,12614,1429508,13413553,143909,0.1065719128
+,Educational Services,Native American only,3,1154,82835,13413553,143909,0.0061754704
+,Educational Services,Asian only,3,6397,622582,13413553,143909,0.0464143989
+,Educational Services,Some other race(s),3,5657,590014,13413553,143909,0.0439864069
+,Health Care,White only,3,121773,11835874,16541320,161273,0.7155338268
+,Health Care,Black/African American only,3,20261,2627907,16541320,161273,0.1588692438
+,Health Care,Native American only,3,1270,103756,16541320,161273,0.0062725345
+,Health Care,Asian only,3,10883,1136214,16541320,161273,0.0686894395
+,Health Care,Some other race(s),3,7086,837569,16541320,161273,0.0506349554
+,Social Assistance Services,White only,3,23663,2278705,3368123,33032,0.676550411
+,Social Assistance Services,Black/African American only,3,5373,659344,3368123,33032,0.1957600717
+,Social Assistance Services,Native American only,3,432,33151,3368123,33032,0.009842574
+,Social Assistance Services,Asian only,3,1352,134984,3368123,33032,0.0400769212
+,Social Assistance Services,Some other race(s),3,2212,261939,3368123,33032,0.0777700221
+,"Arts, Entertainment, Recreation",White only,3,23150,2351679,3013757,28846,0.7803147367
+,"Arts, Entertainment, Recreation",Black/African American only,3,1997,263597,3013757,28846,0.0874645832
+,"Arts, Entertainment, Recreation",Native American only,3,695,48349,3013757,28846,0.0160427666
+,"Arts, Entertainment, Recreation",Asian only,3,1218,131682,3013757,28846,0.0436936356
+,"Arts, Entertainment, Recreation",Some other race(s),3,1786,218450,3013757,28846,0.0724842779
+,Accommodation and Food Services,White only,3,60664,7114996,10314019,84746,0.6898373951
+,Accommodation and Food Services,Black/African American only,3,8889,1254177,10314019,84746,0.1215992524
+,Accommodation and Food Services,Native American only,3,790,72480,10314019,84746,0.0070273285
+,Accommodation and Food Services,Asian only,3,5989,681322,10314019,84746,0.0660578578
+,Accommodation and Food Services,Some other race(s),3,8414,1191044,10314019,84746,0.1154781662
+,Other Services (except Public Administration)       ,White only,3,53704,5379322,7127971,68142,0.754677874
+,Other Services (except Public Administration)       ,Black/African American only,3,5396,675639,7127971,68142,0.0947870018
+,Other Services (except Public Administration)       ,Native American only,3,450,42093,7127971,68142,0.0059053271
+,Other Services (except Public Administration)       ,Asian only,3,4117,466583,7127971,68142,0.0654580385
+,Other Services (except Public Administration)       ,Some other race(s),3,4475,564334,7127971,68142,0.0791717587
+,Public Administration,White only,3,54224,5110616,6844188,70390,0.7467088864
+,Public Administration,Black/African American only,3,9252,1076775,6844188,70390,0.1573269174
+,Public Administration,Native American only,3,1334,82544,6844188,70390,0.0120604519
+,Public Administration,Asian only,3,2633,254988,6844188,70390,0.0372561362
+,Public Administration,Some other race(s),3,2947,319265,6844188,70390,0.0466476082
+,Active Duty Military,White only,3,8031,734542,985641,10557,0.7452429434
+,Active Duty Military,Black/African American only,3,1340,139205,985641,10557,0.1412329641
+,Active Duty Military,Native American only,3,65,6532,985641,10557,0.0066271594
+,Active Duty Military,Asian only,3,335,30120,985641,10557,0.0305587937
+,Active Duty Military,Some other race(s),3,786,75242,985641,10557,0.0763381393
+0,,White only,5,1036171,103452749,136414654,1309165,0.7583697643
+0,,Black/African American only,5,116819,15133406,136414654,1309165,0.110936806
+0,,Native American only,5,10297,841796,136414654,1309165,0.006170862
+0,,Asian only,5,71491,7655352,136414654,1309165,0.0561182525
+0,,Some other race(s),5,74387,9331351,136414654,1309165,0.0684043153
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",White only,7,25237,2234501,2633715,28739,0.8484217161
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Black/African American only,7,764,92805,2633715,28739,0.0352372979
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Native American only,7,376,26038,2633715,28739,0.0098864152
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Asian only,7,383,43502,2633715,28739,0.0165173529
+0,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Some other race(s),7,1979,236869,2633715,28739,0.089937218
+0,Utilities,White only,7,10454,961682,1176615,12385,0.8173293728
+0,Utilities,Black/African American only,7,926,116956,1176615,12385,0.0994003986
+0,Utilities,Native American only,7,152,10457,1176615,12385,0.0088873591
+0,Utilities,Asian only,7,406,39993,1176615,12385,0.0339898777
+0,Utilities,Some other race(s),7,447,47527,1176615,12385,0.0403929918
+0,Construction         ,White only,7,64416,6884618,8398766,75700,0.8197178014
+0,Construction         ,Black/African American only,7,3206,439705,8398766,75700,0.0523535243
+0,Construction         ,Native American only,7,788,66434,8398766,75700,0.0079099715
+0,Construction         ,Asian only,7,1216,137625,8398766,75700,0.0163863358
+0,Construction         ,Some other race(s),7,6074,870384,8398766,75700,0.1036323669
+0,Manufacturing,White only,7,114324,11115640,14382164,141684,0.7728767382
+0,Manufacturing,Black/African American only,7,10108,1291214,14382164,141684,0.08977884
+0,Manufacturing,Native American only,7,725,67180,14382164,141684,0.0046710634
+0,Manufacturing,Asian only,7,8880,951712,14382164,141684,0.0661730738
+0,Manufacturing,Some other race(s),7,7647,956418,14382164,141684,0.0665002847
+0,Wholesale Trade,White only,7,29751,2966268,3722122,36026,0.7969292785
+0,Wholesale Trade,Black/African American only,7,2026,272172,3722122,36026,0.0731228047
+0,Wholesale Trade,Native American only,7,199,16847,3722122,36026,0.0045261816
+0,Wholesale Trade,Asian only,7,1925,204443,3722122,36026,0.054926464
+0,Wholesale Trade,Some other race(s),7,2125,262392,3722122,36026,0.0704952712
+0,Retail Trade,White only,7,112027,11728234,15499077,141437,0.7567053186
+0,Retail Trade,Black/African American only,7,12503,1753034,15499077,141437,0.113105703
+0,Retail Trade,Native American only,7,994,92554,15499077,141437,0.0059715814
+0,Retail Trade,Asian only,7,7177,808465,15499077,141437,0.0521621384
+0,Retail Trade,Some other race(s),7,8736,1116790,15499077,141437,0.0720552585
+0,"Transportation, Warehousing & Storage",White only,7,38285,3829588,5454818,51397,0.7020560539
+0,"Transportation, Warehousing & Storage",Black/African American only,7,7323,966759,5454818,51397,0.1772302944
+0,"Transportation, Warehousing & Storage",Native American only,7,361,31572,5454818,51397,0.0057879108
+0,"Transportation, Warehousing & Storage",Asian only,7,2323,248370,5454818,51397,0.0455322249
+0,"Transportation, Warehousing & Storage",Some other race(s),7,3105,378529,5454818,51397,0.069393516
+0,Information,White only,7,22399,2228359,2904819,28088,0.7671249052
+0,Information,Black/African American only,7,2368,311157,2904819,28088,0.1071175175
+0,Information,Native American only,7,119,10429,2904819,28088,0.0035902409
+0,Information,Asian only,7,1888,198209,2904819,28088,0.068234544
+0,Information,Some other race(s),7,1314,156665,2904819,28088,0.0539327924
+0,"Finance, Insurance",White only,7,51746,5138261,6571735,63838,0.7818728235
+0,"Finance, Insurance",Black/African American only,7,5067,656963,6571735,63838,0.0999679689
+0,"Finance, Insurance",Native American only,7,199,18491,6571735,63838,0.0028137166
+0,"Finance, Insurance",Asian only,7,4351,464613,6571735,63838,0.0706986816
+0,"Finance, Insurance",Some other race(s),7,2475,293407,6571735,63838,0.0446468094
+0,"Real Estate, Rental & Leasing",White only,7,19366,1991456,2504962,23564,0.7950044751
+0,"Real Estate, Rental & Leasing",Black/African American only,7,1752,234699,2504962,23564,0.0936936369
+0,"Real Estate, Rental & Leasing",Native American only,7,182,15575,2504962,23564,0.0062176592
+0,"Real Estate, Rental & Leasing",Asian only,7,997,101844,2504962,23564,0.0406569042
+0,"Real Estate, Rental & Leasing",Some other race(s),7,1267,161388,2504962,23564,0.0644273246
+0,"Professional, Scientific, Management",White only,7,76851,7513732,9367559,93154,0.8021013799
+0,"Professional, Scientific, Management",Black/African American only,7,4313,538389,9367559,93154,0.0574737773
+0,"Professional, Scientific, Management",Native American only,7,283,26285,9367559,93154,0.0028059604
+0,"Professional, Scientific, Management",Asian only,7,8524,927154,9367559,93154,0.0989749838
+0,"Professional, Scientific, Management",Some other race(s),7,3183,361999,9367559,93154,0.0386438986
+0,Administrative & Waste Management Services,White only,7,36600,4018828,5760394,49747,0.6976654722
+0,Administrative & Waste Management Services,Black/African American only,7,6377,867424,5760394,49747,0.1505841441
+0,Administrative & Waste Management Services,Native American only,7,363,35003,5760394,49747,0.0060764941
+0,Administrative & Waste Management Services,Asian only,7,1634,177115,5760394,49747,0.0307470288
+0,Administrative & Waste Management Services,Some other race(s),7,4773,662024,5760394,49747,0.1149268609
+0,Educational Services,White only,7,112346,10186114,12771052,136726,0.7975939649
+0,Educational Services,Black/African American only,7,11769,1344155,12771052,136726,0.1052501391
+0,Educational Services,Native American only,7,1050,74956,12771052,136726,0.0058692111
+0,Educational Services,Asian only,7,6215,606929,12771052,136726,0.0475238062
+0,Educational Services,Some other race(s),7,5346,558898,12771052,136726,0.0437628787
+0,Health Care,White only,7,114756,11172988,15614524,151787,0.7155509832
+0,Health Care,Black/African American only,7,18729,2456235,15614524,151787,0.157304507
+0,Health Care,Native American only,7,1147,93604,15614524,151787,0.0059946752
+0,Health Care,Asian only,7,10540,1105222,15614524,151787,0.0707816646
+0,Health Care,Some other race(s),7,6615,786475,15614524,151787,0.05036817
+0,Social Assistance Services,White only,7,20929,2048305,3043984,29346,0.6729026828
+0,Social Assistance Services,Black/African American only,7,4757,597074,3043984,29346,0.1961488628
+0,Social Assistance Services,Native American only,7,379,28087,3043984,29346,0.0092270524
+0,Social Assistance Services,Asian only,7,1267,128212,3043984,29346,0.0421198009
+0,Social Assistance Services,Some other race(s),7,2014,242306,3043984,29346,0.0796016011
+0,"Arts, Entertainment, Recreation",White only,7,21726,2212405,2839959,27076,0.7790270916
+0,"Arts, Entertainment, Recreation",Black/African American only,7,1873,250706,2839959,27076,0.088278035
+0,"Arts, Entertainment, Recreation",Native American only,7,631,43449,2839959,27076,0.0152991645
+0,"Arts, Entertainment, Recreation",Asian only,7,1172,127743,2839959,27076,0.0449805789
+0,"Arts, Entertainment, Recreation",Some other race(s),7,1674,205656,2839959,27076,0.0724151299
+0,Accommodation and Food Services,White only,7,56901,6710251,9747431,79570,0.6884122596
+0,Accommodation and Food Services,Black/African American only,7,8222,1177002,9747431,79570,0.1207499699
+0,Accommodation and Food Services,Native American only,7,708,66309,9747431,79570,0.0068027155
+0,Accommodation and Food Services,Asian only,7,5764,657806,9747431,79570,0.0674850635
+0,Accommodation and Food Services,Some other race(s),7,7975,1136063,9747431,79570,0.1165499915
+0,Other Services (except Public Administration)       ,White only,7,49713,5008988,6649516,63109,0.7532861038
+0,Other Services (except Public Administration)       ,Black/African American only,7,4851,621485,6649516,63109,0.0934631934
+0,Other Services (except Public Administration)       ,Native American only,7,407,38571,6649516,63109,0.0058005726
+0,Other Services (except Public Administration)       ,Asian only,7,3969,451985,6649516,63109,0.0679726164
+0,Other Services (except Public Administration)       ,Some other race(s),7,4169,528487,6649516,63109,0.0794775139
+0,Public Administration,White only,7,50649,4799414,6426764,65671,0.746785474
+0,Public Administration,Black/African American only,7,8586,1010083,6426764,65671,0.1571682109
+0,Public Administration,Native American only,7,1173,73564,6426764,65671,0.0114465071
+0,Public Administration,Asian only,7,2530,244964,6426764,65671,0.0381162277
+0,Public Administration,Some other race(s),7,2733,298739,6426764,65671,0.0464835802
+0,Active Duty Military,White only,7,7695,703117,944678,10121,0.7442927643
+0,Active Duty Military,Black/African American only,7,1299,135389,944678,10121,0.1433176172
+0,Active Duty Military,Native American only,7,61,6391,944678,10121,0.0067652682
+0,Active Duty Military,Asian only,7,330,29446,944678,10121,0.0311704094
+0,Active Duty Military,Some other race(s),7,736,70335,944678,10121,0.0744539409
+1,,White only,5,69006,6406370,8212333,86238,0.7800913577
+1,,Black/African American only,5,9030,971851,8212333,86238,0.1183404277
+1,,Native American only,5,1158,88502,8212333,86238,0.0107767184
+1,,Asian only,5,2318,225963,8212333,86238,0.0275150801
+1,,Some other race(s),5,4726,519647,8212333,86238,0.0632764161
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",White only,7,2079,166823,195126,2378,0.8549501348
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Black/African American only,7,73,6436,195126,2378,0.0329838156
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Native American only,7,35,2241,195126,2378,0.0114848867
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Asian only,7,25,2454,195126,2378,0.012576489
+1,"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",Some other race(s),7,166,17172,195126,2378,0.0880046739
+1,Utilities,White only,7,622,53862,65499,745,0.8223331654
+1,Utilities,Black/African American only,7,59,6687,65499,745,0.1020931617
+1,Utilities,Native American only,7,18,1409,65499,745,0.0215117788
+1,Utilities,Asian only,7,7,421,65499,745,0.006427579
+1,Utilities,Some other race(s),7,39,3120,65499,745,0.047634315
+1,Construction         ,White only,7,4310,418264,491674,4976,0.8506937524
+1,Construction         ,Black/African American only,7,234,25552,491674,4976,0.0519693944
+1,Construction         ,Native American only,7,84,6862,491674,4976,0.013956402
+1,Construction         ,Asian only,7,54,5389,491674,4976,0.0109605145
+1,Construction         ,Some other race(s),7,294,35607,491674,4976,0.0724199368
+1,Manufacturing,White only,7,7896,702676,857313,9393,0.8196259709
+1,Manufacturing,Black/African American only,7,702,75685,857313,9393,0.0882816428
+1,Manufacturing,Native American only,7,86,6780,857313,9393,0.0079084302
+1,Manufacturing,Asian only,7,250,22262,857313,9393,0.0259671788
+1,Manufacturing,Some other race(s),7,459,49910,857313,9393,0.0582167773
+1,Wholesale Trade,White only,7,1770,157670,192807,2107,0.8177607659
+1,Wholesale Trade,Black/African American only,7,125,14598,192807,2107,0.0757130187
+1,Wholesale Trade,Native American only,7,17,1397,192807,2107,0.0072455876
+1,Wholesale Trade,Asian only,7,61,5469,192807,2107,0.0283651527
+1,Wholesale Trade,Some other race(s),7,134,13673,192807,2107,0.0709154751
+1,Retail Trade,White only,7,8795,846413,1049201,10660,0.8067214957
+1,Retail Trade,Black/African American only,7,901,99162,1049201,10660,0.0945119191
+1,Retail Trade,Native American only,7,112,9284,1049201,10660,0.0088486382
+1,Retail Trade,Asian only,7,290,32874,1049201,10660,0.0313324139
+1,Retail Trade,Some other race(s),7,562,61468,1049201,10660,0.0585855332
+1,"Transportation, Warehousing & Storage",White only,7,2951,272690,360644,3781,0.7561196083
+1,"Transportation, Warehousing & Storage",Black/African American only,7,510,56323,360644,3781,0.1561734009
+1,"Transportation, Warehousing & Storage",Native American only,7,39,2504,360644,3781,0.0069431351
+1,"Transportation, Warehousing & Storage",Asian only,7,79,7798,360644,3781,0.021622431
+1,"Transportation, Warehousing & Storage",Some other race(s),7,202,21329,360644,3781,0.0591414248
+1,Information,White only,7,1232,118130,147459,1516,0.8011040357
+1,Information,Black/African American only,7,148,16161,147459,1516,0.1095965658
+1,Information,Native American only,7,19,1760,147459,1516,0.0119355211
+1,Information,Asian only,7,46,5038,147459,1516,0.034165429
+1,Information,Some other race(s),7,71,6370,147459,1516,0.0431984484
+1,"Finance, Insurance",White only,7,2348,214674,265358,2819,0.808997656
+1,"Finance, Insurance",Black/African American only,7,259,27901,265358,2819,0.1051447479
+1,"Finance, Insurance",Native American only,7,20,2261,265358,2819,0.0085205647
+1,"Finance, Insurance",Asian only,7,104,10291,265358,2819,0.0387815706
+1,"Finance, Insurance",Some other race(s),7,88,10231,265358,2819,0.0385554609
+1,"Real Estate, Rental & Leasing",White only,7,1475,142894,177712,1769,0.8040762582
+1,"Real Estate, Rental & Leasing",Black/African American only,7,132,16549,177712,1769,0.0931225804
+1,"Real Estate, Rental & Leasing",Native American only,7,16,1449,177712,1769,0.0081536418
+1,"Real Estate, Rental & Leasing",Asian only,7,42,4314,177712,1769,0.0242752318
+1,"Real Estate, Rental & Leasing",Some other race(s),7,104,12506,177712,1769,0.0703722877
+1,"Professional, Scientific, Management",White only,7,3750,342256,399852,4326,0.855956704
+1,"Professional, Scientific, Management",Black/African American only,7,246,24387,399852,4326,0.0609900663
+1,"Professional, Scientific, Management",Native American only,7,29,1542,399852,4326,0.0038564269
+1,"Professional, Scientific, Management",Asian only,7,158,16382,399852,4326,0.040970159
+1,"Professional, Scientific, Management",Some other race(s),7,143,15285,399852,4326,0.0382266439
+1,Administrative & Waste Management Services,White only,7,3197,317252,439024,4279,0.7226301979
+1,Administrative & Waste Management Services,Black/African American only,7,605,68387,439024,4279,0.1557705274
+1,Administrative & Waste Management Services,Native American only,7,49,4204,439024,4279,0.0095757863
+1,Administrative & Waste Management Services,Asian only,7,65,7103,439024,4279,0.0161790699
+1,Administrative & Waste Management Services,Some other race(s),7,363,42078,439024,4279,0.0958444185
+1,Educational Services,White only,7,5741,502500,642501,7183,0.78209995
+1,Educational Services,Black/African American only,7,845,85353,642501,7183,0.1328449294
+1,Educational Services,Native American only,7,104,7879,642501,7183,0.0122630159
+1,Educational Services,Asian only,7,182,15653,642501,7183,0.024362608
+1,Educational Services,Some other race(s),7,311,31116,642501,7183,0.0484294966
+1,Health Care,White only,7,7017,662886,926796,9486,0.7152447788
+1,Health Care,Black/African American only,7,1532,171672,926796,9486,0.1852317015
+1,Health Care,Native American only,7,123,10152,926796,9486,0.0109538669
+1,Health Care,Asian only,7,343,30992,926796,9486,0.0334399372
+1,Health Care,Some other race(s),7,471,51094,926796,9486,0.0551297157
+1,Social Assistance Services,White only,7,2734,230400,324139,3686,0.7108061665
+1,Social Assistance Services,Black/African American only,7,616,62270,324139,3686,0.1921089409
+1,Social Assistance Services,Native American only,7,53,5064,324139,3686,0.0156229272
+1,Social Assistance Services,Asian only,7,85,6772,324139,3686,0.0208922715
+1,Social Assistance Services,Some other race(s),7,198,19633,324139,3686,0.0605696939
+1,"Arts, Entertainment, Recreation",White only,7,1424,139274,173798,1770,0.8013555967
+1,"Arts, Entertainment, Recreation",Black/African American only,7,124,12891,173798,1770,0.074172315
+1,"Arts, Entertainment, Recreation",Native American only,7,64,4900,173798,1770,0.0281936501
+1,"Arts, Entertainment, Recreation",Asian only,7,46,3939,173798,1770,0.0226642424
+1,"Arts, Entertainment, Recreation",Some other race(s),7,112,12794,173798,1770,0.0736141958
+1,Accommodation and Food Services,White only,7,3763,404745,566588,5176,0.7143550516
+1,Accommodation and Food Services,Black/African American only,7,667,77175,566588,5176,0.1362100856
+1,Accommodation and Food Services,Native American only,7,82,6171,566588,5176,0.010891512
+1,Accommodation and Food Services,Asian only,7,225,23516,566588,5176,0.0415045853
+1,Accommodation and Food Services,Some other race(s),7,439,54981,566588,5176,0.0970387654
+1,Other Services (except Public Administration)       ,White only,7,3991,370334,478455,5033,0.7740205453
+1,Other Services (except Public Administration)       ,Black/African American only,7,545,54154,478455,5033,0.113185148
+1,Other Services (except Public Administration)       ,Native American only,7,43,3522,478455,5033,0.0073611938
+1,Other Services (except Public Administration)       ,Asian only,7,148,14598,478455,5033,0.0305107063
+1,Other Services (except Public Administration)       ,Some other race(s),7,306,35847,478455,5033,0.0749224065
+1,Public Administration,White only,7,3575,311202,417424,4719,0.7455297252
+1,Public Administration,Black/African American only,7,666,66692,417424,4719,0.1597704013
+1,Public Administration,Native American only,7,161,8980,417424,4719,0.0215128982
+1,Public Administration,Asian only,7,103,10024,417424,4719,0.0240139522
+1,Public Administration,Some other race(s),7,214,20526,417424,4719,0.0491730231
+1,Active Duty Military,White only,7,336,31425,40963,436,0.7671557259
+1,Active Duty Military,Black/African American only,7,41,3816,40963,436,0.0931572395
+1,Active Duty Military,Native American only,7,4,141,40963,436,0.0034421307
+1,Active Duty Military,Asian only,7,5,674,40963,436,0.016453873
+1,Active Duty Military,Some other race(s),7,50,4907,40963,436,0.1197910309

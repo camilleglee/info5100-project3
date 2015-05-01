@@ -1,0 +1,351 @@
+Industry21,MajorOcc,Sector7,p_Est,n_Est,Base_pop,Sample,Dis_Type,Dis_TypeL
+,,,0.0567828534,8212333,144626987,1395403,1,Disability
+,,"Private, for profit",0.0531467344,5206102,97957138,906078,1,Disability
+,,Private non-profit,0.0672195801,782244,11637145,122542,1,Disability
+,,Local government,0.057957542,573588,9896693,104853,1,Disability
+,,State government,0.0585476034,399933,6830903,72279,1,Disability
+,,Federal government,0.0646656161,308711,4773959,49171,1,Disability
+,,Self employed,0.0695990414,941755,13531149,140480,1,Disability
+,Management Occupations,,0.0457683168,654411,14298341,146146,1,Disability
+,Business & Financial Operations Occupations,,0.0421354743,294384,6986607,69701,1,Disability
+,Computer & Mathematical Occupations,,0.0365129061,141745,3882052,37981,1,Disability
+,Architecture & Engineering Occupations,,0.0375235623,100369,2674826,27332,1,Disability
+,"Life, Physical, & Social Science Occupations",,0.0384400922,47843,1244612,13108,1,Disability
+,Community & Social Services Occupations,,0.0635436493,151336,2381607,24444,1,Disability
+,Legal Occupations,,0.0424858942,71594,1685124,17509,1,Disability
+,"Education, Training, & Library Occupations",,0.0436875532,384616,8803789,93084,1,Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.0469924961,130321,2773230,27261,1,Disability
+,Healthcare Practitioners & Technical Occupations,,0.0413278867,336241,8135935,82348,1,Disability
+,Healthcare Support Occupations,,0.0632432553,237687,3758298,33949,1,Disability
+,Protective Service Occupations,,0.0586812339,187031,3187237,30663,1,Disability
+,Food Preparation & Serving Related Occupations,,0.0595809827,479162,8042197,66801,1,Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0891257547,514463,5772327,51133,1,Disability
+,Personal Care & Service Occupations,,0.0710919302,376504,5296016,49306,1,Disability
+,Sales & Related Occupations,,0.0542041897,832078,15350806,142111,1,Disability
+,Office & Administrative Support Occupations,,0.060471068,1165886,19280063,190380,1,Disability
+,"Farming, Fishing, & Forestry Occupations",,0.0636546885,63000,989715,9649,1,Disability
+,Construction & Extraction Occupations,,0.0574985918,415467,7225690,64631,1,Disability
+,"Installation, Maintenance, & Repair Occupations",,0.0669445343,316572,4728870,45701,1,Disability
+,Production Occupations,,0.071813092,624966,8702675,83422,1,Disability
+,Transportation & Material Moving Occupations,,0.074485565,662303,8891696,83134,1,Disability
+,Military Specific Occupations,,0.0454981934,24354,535274,5609,1,Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0689773656,195126,2828841,31117,1,Disability
+Utilities,,,0.0527318749,65499,1242114,13130,1,Disability
+Construction         ,,,0.0553036745,491674,8890440,80676,1,Disability
+Manufacturing,,,0.0562560644,857313,15239477,151077,1,Disability
+Wholesale Trade,,,0.049249169,192807,3914929,38133,1,Disability
+Retail Trade,,,0.0634024277,1049201,16548278,152097,1,Disability
+"Transportation, Warehousing & Storage",,,0.0620146774,360644,5815462,55178,1,Disability
+Information,,,0.0483111302,147459,3052278,29604,1,Disability
+"Finance, Insurance",,,0.0388115241,265358,6837093,66657,1,Disability
+"Real Estate, Rental & Leasing",,,0.0662443517,177712,2682674,25333,1,Disability
+"Professional, Scientific, Management",,,0.0409373579,399852,9767411,97480,1,Disability
+Administrative & Waste Management Services,,,0.0708169702,439024,6199418,54026,1,Disability
+Educational Services,,,0.0478993895,642501,13413553,143909,1,Disability
+Health Care,,,0.056029144,926796,16541320,161273,1,Disability
+Social Assistance Services,,,0.0962372811,324139,3368123,33032,1,Disability
+"Arts, Entertainment, Recreation",,,0.0576682194,173798,3013757,28846,1,Disability
+Accommodation and Food Services,,,0.0549337751,566588,10314019,84746,1,Disability
+Other Services (except Public Administration)       ,,,0.0671235896,478455,7127971,68142,1,Disability
+Public Administration,,,0.0609895579,417424,6844188,70390,1,Disability
+Active Duty Military,,,0.0415597565,40963,985641,10557,1,Disability
+,,,0.0117176402,1694687,144626987,1395403,2,Visual Disability
+,,"Private, for profit",0.0113693297,1113707,97957138,906078,2,Visual Disability
+,,Private non-profit,0.012916742,150314,11637145,122542,2,Visual Disability
+,,Local government,0.0122965318,121695,9896693,104853,2,Visual Disability
+,,State government,0.0119477615,81614,6830903,72279,2,Visual Disability
+,,Federal government,0.0108040308,51578,4773959,49171,2,Visual Disability
+,,Self employed,0.0129906928,175779,13531149,140480,2,Visual Disability
+,Management Occupations,,0.0088908916,127125,14298341,146146,2,Visual Disability
+,Business & Financial Operations Occupations,,0.0085838519,59972,6986607,69701,2,Visual Disability
+,Computer & Mathematical Occupations,,0.0083172508,32288,3882052,37981,2,Visual Disability
+,Architecture & Engineering Occupations,,0.0072516867,19397,2674826,27332,2,Visual Disability
+,"Life, Physical, & Social Science Occupations",,0.0069403155,8638,1244612,13108,2,Visual Disability
+,Community & Social Services Occupations,,0.0127783467,30433,2381607,24444,2,Visual Disability
+,Legal Occupations,,0.009351834,15759,1685124,17509,2,Visual Disability
+,"Education, Training, & Library Occupations",,0.0098421259,86648,8803789,93084,2,Visual Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.0084594498,23460,2773230,27261,2,Visual Disability
+,Healthcare Practitioners & Technical Occupations,,0.0091243354,74235,8135935,82348,2,Visual Disability
+,Healthcare Support Occupations,,0.0158941627,59735,3758298,33949,2,Visual Disability
+,Protective Service Occupations,,0.0109380005,34862,3187237,30663,2,Visual Disability
+,Food Preparation & Serving Related Occupations,,0.0129754344,104351,8042197,66801,2,Visual Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0192811322,111297,5772327,51133,2,Visual Disability
+,Personal Care & Service Occupations,,0.0155356404,82277,5296016,49306,2,Visual Disability
+,Sales & Related Occupations,,0.0109878921,168673,15350806,142111,2,Visual Disability
+,Office & Administrative Support Occupations,,0.0124039014,239148,19280063,190380,2,Visual Disability
+,"Farming, Fishing, & Forestry Occupations",,0.0183638724,18175,989715,9649,2,Visual Disability
+,Construction & Extraction Occupations,,0.0117875248,85173,7225690,64631,2,Visual Disability
+,"Installation, Maintenance, & Repair Occupations",,0.0130141027,61542,4728870,45701,2,Visual Disability
+,Production Occupations,,0.0142457348,123976,8702675,83422,2,Visual Disability
+,Transportation & Material Moving Occupations,,0.0139960925,124449,8891696,83134,2,Visual Disability
+,Military Specific Occupations,,0.0057428532,3074,535274,5609,2,Visual Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0153405582,43396,2828841,31117,2,Visual Disability
+Utilities,,,0.009904888,12303,1242114,13130,2,Visual Disability
+Construction         ,,,0.0116861483,103895,8890440,80676,2,Visual Disability
+Manufacturing,,,0.0108287837,165025,15239477,151077,2,Visual Disability
+Wholesale Trade,,,0.0101240661,39635,3914929,38133,2,Visual Disability
+Retail Trade,,,0.0133558912,221017,16548278,152097,2,Visual Disability
+"Transportation, Warehousing & Storage",,,0.0112218083,65260,5815462,55178,2,Visual Disability
+Information,,,0.0101959913,31121,3052278,29604,2,Visual Disability
+"Finance, Insurance",,,0.0083515026,57100,6837093,66657,2,Visual Disability
+"Real Estate, Rental & Leasing",,,0.0124170883,33311,2682674,25333,2,Visual Disability
+"Professional, Scientific, Management",,,0.0084619148,82651,9767411,97480,2,Visual Disability
+Administrative & Waste Management Services,,,0.0155127465,96170,6199418,54026,2,Visual Disability
+Educational Services,,,0.0103086781,138276,13413553,143909,2,Visual Disability
+Health Care,,,0.012214926,202051,16541320,161273,2,Visual Disability
+Social Assistance Services,,,0.0187009204,62987,3368123,33032,2,Visual Disability
+"Arts, Entertainment, Recreation",,,0.010195248,30726,3013757,28846,2,Visual Disability
+Accommodation and Food Services,,,0.0121531675,125348,10314019,84746,2,Visual Disability
+Other Services (except Public Administration)       ,,,0.0139485697,99425,7127971,68142,2,Visual Disability
+Public Administration,,,0.01165456,79766,6844188,70390,2,Visual Disability
+Active Duty Military,,,0.0053001042,5224,985641,10557,2,Visual Disability
+,,,0.0185922078,2688935,144626987,1395403,3,Hearing Disability
+,,"Private, for profit",0.0169159393,1657037,97957138,906078,3,Hearing Disability
+,,Private non-profit,0.0195920907,227996,11637145,122542,3,Hearing Disability
+,,Local government,0.0192895748,190903,9896693,104853,3,Hearing Disability
+,,State government,0.0190207649,129929,6830903,72279,3,Hearing Disability
+,,Federal government,0.0247945154,118368,4773959,49171,3,Hearing Disability
+,,Self employed,0.0269527739,364702,13531149,140480,3,Hearing Disability
+,Management Occupations,,0.0193204233,276250,14298341,146146,3,Hearing Disability
+,Business & Financial Operations Occupations,,0.0146716425,102505,6986607,69701,3,Hearing Disability
+,Computer & Mathematical Occupations,,0.0118844364,46136,3882052,37981,3,Hearing Disability
+,Architecture & Engineering Occupations,,0.0178426559,47726,2674826,27332,3,Hearing Disability
+,"Life, Physical, & Social Science Occupations",,0.0155695108,19378,1244612,13108,3,Hearing Disability
+,Community & Social Services Occupations,,0.0201704143,48038,2381607,24444,3,Hearing Disability
+,Legal Occupations,,0.0141200291,23794,1685124,17509,3,Hearing Disability
+,"Education, Training, & Library Occupations",,0.0141216469,124324,8803789,93084,3,Hearing Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.0146486227,40624,2773230,27261,3,Hearing Disability
+,Healthcare Practitioners & Technical Occupations,,0.0132719841,107980,8135935,82348,3,Hearing Disability
+,Healthcare Support Occupations,,0.0136894413,51449,3758298,33949,3,Hearing Disability
+,Protective Service Occupations,,0.02419933,77129,3187237,30663,3,Hearing Disability
+,Food Preparation & Serving Related Occupations,,0.0137348041,110458,8042197,66801,3,Hearing Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0266372643,153759,5772327,51133,3,Hearing Disability
+,Personal Care & Service Occupations,,0.0167601457,88762,5296016,49306,3,Hearing Disability
+,Sales & Related Occupations,,0.0163771857,251403,15350806,142111,3,Hearing Disability
+,Office & Administrative Support Occupations,,0.0157336104,303345,19280063,190380,3,Hearing Disability
+,"Farming, Fishing, & Forestry Occupations",,0.024138262,23890,989715,9649,3,Hearing Disability
+,Construction & Extraction Occupations,,0.0249188659,180056,7225690,64631,3,Hearing Disability
+,"Installation, Maintenance, & Repair Occupations",,0.0306278244,144835,4728870,45701,3,Hearing Disability
+,Production Occupations,,0.0256655569,223359,8702675,83422,3,Hearing Disability
+,Transportation & Material Moving Occupations,,0.0261883672,232859,8891696,83134,3,Hearing Disability
+,Military Specific Occupations,,0.0203185658,10876,535274,5609,3,Hearing Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0330870487,93598,2828841,31117,3,Hearing Disability
+Utilities,,,0.0242055077,30066,1242114,13130,3,Hearing Disability
+Construction         ,,,0.0235818475,209653,8890440,80676,3,Hearing Disability
+Manufacturing,,,0.0232368867,354118,15239477,151077,3,Hearing Disability
+Wholesale Trade,,,0.0183783665,71950,3914929,38133,3,Hearing Disability
+Retail Trade,,,0.0182798476,302500,16548278,152097,3,Hearing Disability
+"Transportation, Warehousing & Storage",,,0.023024482,133898,5815462,55178,3,Hearing Disability
+Information,,,0.0145930351,44542,3052278,29604,3,Hearing Disability
+"Finance, Insurance",,,0.0120656542,82494,6837093,66657,3,Hearing Disability
+"Real Estate, Rental & Leasing",,,0.0229483717,61563,2682674,25333,3,Hearing Disability
+"Professional, Scientific, Management",,,0.0147531419,144100,9767411,97480,3,Hearing Disability
+Administrative & Waste Management Services,,,0.0201036613,124631,6199418,54026,3,Hearing Disability
+Educational Services,,,0.0155095373,208038,13413553,143909,3,Hearing Disability
+Health Care,,,0.0149902184,247958,16541320,161273,3,Hearing Disability
+Social Assistance Services,,,0.0198460686,66844,3368123,33032,3,Hearing Disability
+"Arts, Entertainment, Recreation",,,0.0209147586,63032,3013757,28846,3,Hearing Disability
+Accommodation and Food Services,,,0.0118208043,121920,10314019,84746,3,Hearing Disability
+Other Services (except Public Administration)       ,,,0.0216050262,154000,7127971,68142,3,Hearing Disability
+Public Administration,,,0.0227967145,156025,6844188,70390,3,Hearing Disability
+Active Duty Military,,,0.0182673002,18005,985641,10557,3,Hearing Disability
+,,,0.0209036022,3023225,144626987,1395403,4,Ambulatory Disability
+,,"Private, for profit",0.0187075086,1832534,97957138,906078,4,Ambulatory Disability
+,,Private non-profit,0.0258904568,301291,11637145,122542,4,Ambulatory Disability
+,,Local government,0.0233926626,231510,9896693,104853,4,Ambulatory Disability
+,,State government,0.0239209955,163402,6830903,72279,4,Ambulatory Disability
+,,Federal government,0.0253033174,120797,4773959,49171,4,Ambulatory Disability
+,,Self employed,0.027617093,373691,13531149,140480,4,Ambulatory Disability
+,Management Occupations,,0.0166748016,238422,14298341,146146,4,Ambulatory Disability
+,Business & Financial Operations Occupations,,0.0166218023,116130,6986607,69701,4,Ambulatory Disability
+,Computer & Mathematical Occupations,,0.0119671246,46457,3882052,37981,4,Ambulatory Disability
+,Architecture & Engineering Occupations,,0.0106844333,28579,2674826,27332,4,Ambulatory Disability
+,"Life, Physical, & Social Science Occupations",,0.0115722812,14403,1244612,13108,4,Ambulatory Disability
+,Community & Social Services Occupations,,0.0270342672,64385,2381607,24444,4,Ambulatory Disability
+,Legal Occupations,,0.0159347324,26852,1685124,17509,4,Ambulatory Disability
+,"Education, Training, & Library Occupations",,0.016766758,147611,8803789,93084,4,Ambulatory Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.01629003,45176,2773230,27261,4,Ambulatory Disability
+,Healthcare Practitioners & Technical Occupations,,0.0161009153,130996,8135935,82348,4,Ambulatory Disability
+,Healthcare Support Occupations,,0.0275313453,103471,3758298,33949,4,Ambulatory Disability
+,Protective Service Occupations,,0.0214791056,68459,3187237,30663,4,Ambulatory Disability
+,Food Preparation & Serving Related Occupations,,0.0173814444,139785,8042197,66801,4,Ambulatory Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0300629192,173533,5772327,51133,4,Ambulatory Disability
+,Personal Care & Service Occupations,,0.0316305691,167516,5296016,49306,4,Ambulatory Disability
+,Sales & Related Occupations,,0.0210566142,323236,15350806,142111,4,Ambulatory Disability
+,Office & Administrative Support Occupations,,0.0261058794,503323,19280063,190380,4,Ambulatory Disability
+,"Farming, Fishing, & Forestry Occupations",,0.0192247263,19027,989715,9649,4,Ambulatory Disability
+,Construction & Extraction Occupations,,0.0178518591,128992,7225690,64631,4,Ambulatory Disability
+,"Installation, Maintenance, & Repair Occupations",,0.0207339174,98048,4728870,45701,4,Ambulatory Disability
+,Production Occupations,,0.0240387007,209201,8702675,83422,4,Ambulatory Disability
+,Transportation & Material Moving Occupations,,0.0249937695,222237,8891696,83134,4,Ambulatory Disability
+,Military Specific Occupations,,0.0137985406,7386,535274,5609,4,Ambulatory Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0213971022,60529,2828841,31117,4,Ambulatory Disability
+Utilities,,,0.0164558165,20440,1242114,13130,4,Ambulatory Disability
+Construction         ,,,0.018019918,160205,8890440,80676,4,Ambulatory Disability
+Manufacturing,,,0.0184803586,281631,15239477,151077,4,Ambulatory Disability
+Wholesale Trade,,,0.0186046797,72836,3914929,38133,4,Ambulatory Disability
+Retail Trade,,,0.0228036416,377361,16548278,152097,4,Ambulatory Disability
+"Transportation, Warehousing & Storage",,,0.02387996,138873,5815462,55178,4,Ambulatory Disability
+Information,,,0.0180760075,55173,3052278,29604,4,Ambulatory Disability
+"Finance, Insurance",,,0.0148175548,101309,6837093,66657,4,Ambulatory Disability
+"Real Estate, Rental & Leasing",,,0.0272452039,73090,2682674,25333,4,Ambulatory Disability
+"Professional, Scientific, Management",,,0.0144215289,140861,9767411,97480,4,Ambulatory Disability
+Administrative & Waste Management Services,,,0.0264421596,163926,6199418,54026,4,Ambulatory Disability
+Educational Services,,,0.018414435,247003,13413553,143909,4,Ambulatory Disability
+Health Care,,,0.0244238066,404002,16541320,161273,4,Ambulatory Disability
+Social Assistance Services,,,0.0418345767,140904,3368123,33032,4,Ambulatory Disability
+"Arts, Entertainment, Recreation",,,0.0189126064,56998,3013757,28846,4,Ambulatory Disability
+Accommodation and Food Services,,,0.0158236086,163205,10314019,84746,4,Ambulatory Disability
+Other Services (except Public Administration)       ,,,0.0257841958,183789,7127971,68142,4,Ambulatory Disability
+Public Administration,,,0.0247376314,169309,6844188,70390,4,Ambulatory Disability
+Active Duty Military,,,0.0119526278,11781,985641,10557,4,Ambulatory Disability
+,,,0.0151120413,2185609,144626987,1395403,5,Cognitive Disability
+,,"Private, for profit",0.0147537896,1445239,97957138,906078,5,Cognitive Disability
+,,Private non-profit,0.0213923604,248946,11637145,122542,5,Cognitive Disability
+,,Local government,0.0118170787,116950,9896693,104853,5,Cognitive Disability
+,,State government,0.0134311672,91747,6830903,72279,5,Cognitive Disability
+,,Federal government,0.0161423674,77063,4773959,49171,5,Cognitive Disability
+,,Self employed,0.0151993005,205664,13531149,140480,5,Cognitive Disability
+,Management Occupations,,0.007893713,112867,14298341,146146,5,Cognitive Disability
+,Business & Financial Operations Occupations,,0.0084975439,59369,6986607,69701,5,Cognitive Disability
+,Computer & Mathematical Occupations,,0.0088715968,34440,3882052,37981,5,Cognitive Disability
+,Architecture & Engineering Occupations,,0.0068004423,18190,2674826,27332,5,Cognitive Disability
+,"Life, Physical, & Social Science Occupations",,0.0088509511,11016,1244612,13108,5,Cognitive Disability
+,Community & Social Services Occupations,,0.0135706689,32320,2381607,24444,5,Cognitive Disability
+,Legal Occupations,,0.0077537321,13066,1685124,17509,5,Cognitive Disability
+,"Education, Training, & Library Occupations",,0.0084211468,74138,8803789,93084,5,Cognitive Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.0150503204,41738,2773230,27261,5,Cognitive Disability
+,Healthcare Practitioners & Technical Occupations,,0.0071009663,57773,8135935,82348,5,Cognitive Disability
+,Healthcare Support Occupations,,0.0178564872,67110,3758298,33949,5,Cognitive Disability
+,Protective Service Occupations,,0.0137809018,43923,3187237,30663,5,Cognitive Disability
+,Food Preparation & Serving Related Occupations,,0.0246920089,198578,8042197,66801,5,Cognitive Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0322689619,186267,5772327,51133,5,Cognitive Disability
+,Personal Care & Service Occupations,,0.0228564264,121048,5296016,49306,5,Cognitive Disability
+,Sales & Related Occupations,,0.0146881538,225475,15350806,142111,5,Cognitive Disability
+,Office & Administrative Support Occupations,,0.0153106346,295190,19280063,190380,5,Cognitive Disability
+,"Farming, Fishing, & Forestry Occupations",,0.0180253911,17840,989715,9649,5,Cognitive Disability
+,Construction & Extraction Occupations,,0.0128606403,92927,7225690,64631,5,Cognitive Disability
+,"Installation, Maintenance, & Repair Occupations",,0.0149894161,70883,4728870,45701,5,Cognitive Disability
+,Production Occupations,,0.0214709845,186855,8702675,83422,5,Cognitive Disability
+,Transportation & Material Moving Occupations,,0.0240316358,213682,8891696,83134,5,Cognitive Disability
+,Military Specific Occupations,,0.0203895575,10914,535274,5609,5,Cognitive Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0146759751,41516,2828841,31117,5,Cognitive Disability
+Utilities,,,0.0081079514,10071,1242114,13130,5,Cognitive Disability
+Construction         ,,,0.0118300107,105174,8890440,80676,5,Cognitive Disability
+Manufacturing,,,0.0128061481,195159,15239477,151077,5,Cognitive Disability
+Wholesale Trade,,,0.009744238,38148,3914929,38133,5,Cognitive Disability
+Retail Trade,,,0.0202333439,334827,16548278,152097,5,Cognitive Disability
+"Transportation, Warehousing & Storage",,,0.0137863509,80174,5815462,55178,5,Cognitive Disability
+Information,,,0.0127055923,38781,3052278,29604,5,Cognitive Disability
+"Finance, Insurance",,,0.008350625,57094,6837093,66657,5,Cognitive Disability
+"Real Estate, Rental & Leasing",,,0.0144840558,38856,2682674,25333,5,Cognitive Disability
+"Professional, Scientific, Management",,,0.0089841617,87752,9767411,97480,5,Cognitive Disability
+Administrative & Waste Management Services,,,0.0231024912,143222,6199418,54026,5,Cognitive Disability
+Educational Services,,,0.0101023196,135508,13413553,143909,5,Cognitive Disability
+Health Care,,,0.0131543311,217590,16541320,161273,5,Cognitive Disability
+Social Assistance Services,,,0.0401452085,135214,3368123,33032,5,Cognitive Disability
+"Arts, Entertainment, Recreation",,,0.0165978876,50022,3013757,28846,5,Cognitive Disability
+Accommodation and Food Services,,,0.0235388358,242780,10314019,84746,5,Cognitive Disability
+Other Services (except Public Administration)       ,,,0.0185206982,132015,7127971,68142,5,Cognitive Disability
+Public Administration,,,0.0122312537,83713,6844188,70390,5,Cognitive Disability
+Active Duty Military,,,0.0182551253,17993,985641,10557,5,Cognitive Disability
+,,,0.0045375764,656256,144626987,1395403,6,Self-Care Disability
+,,"Private, for profit",0.0040264039,394415,97957138,906078,6,Self-Care Disability
+,,Private non-profit,0.0068333771,79521,11637145,122542,6,Self-Care Disability
+,,Local government,0.0048498018,47997,9896693,104853,6,Self-Care Disability
+,,State government,0.0053468773,36524,6830903,72279,6,Self-Care Disability
+,,Federal government,0.0050614176,24163,4773959,49171,6,Self-Care Disability
+,,Self employed,0.0054419621,73636,13531149,140480,6,Self-Care Disability
+,Management Occupations,,0.0032596789,46608,14298341,146146,6,Self-Care Disability
+,Business & Financial Operations Occupations,,0.0038613879,26978,6986607,69701,6,Self-Care Disability
+,Computer & Mathematical Occupations,,0.0029450919,11433,3882052,37981,6,Self-Care Disability
+,Architecture & Engineering Occupations,,0.0024652071,6594,2674826,27332,6,Self-Care Disability
+,"Life, Physical, & Social Science Occupations",,0.0024513664,3051,1244612,13108,6,Self-Care Disability
+,Community & Social Services Occupations,,0.0052019498,12389,2381607,24444,6,Self-Care Disability
+,Legal Occupations,,0.0035783717,6030,1685124,17509,6,Self-Care Disability
+,"Education, Training, & Library Occupations",,0.0032321311,28455,8803789,93084,6,Self-Care Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.0039737058,11020,2773230,27261,6,Self-Care Disability
+,Healthcare Practitioners & Technical Occupations,,0.0034085818,27732,8135935,82348,6,Self-Care Disability
+,Healthcare Support Occupations,,0.0051863902,19492,3758298,33949,6,Self-Care Disability
+,Protective Service Occupations,,0.0038293356,12205,3187237,30663,6,Self-Care Disability
+,Food Preparation & Serving Related Occupations,,0.0044724097,35968,8042197,66801,6,Self-Care Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0064906233,37466,5772327,51133,6,Self-Care Disability
+,Personal Care & Service Occupations,,0.0065751312,34822,5296016,49306,6,Self-Care Disability
+,Sales & Related Occupations,,0.0041974343,64434,15350806,142111,6,Self-Care Disability
+,Office & Administrative Support Occupations,,0.0052406468,101040,19280063,190380,6,Self-Care Disability
+,"Farming, Fishing, & Forestry Occupations",,0.0054177213,5362,989715,9649,6,Self-Care Disability
+,Construction & Extraction Occupations,,0.0037471854,27076,7225690,64631,6,Self-Care Disability
+,"Installation, Maintenance, & Repair Occupations",,0.0047174061,22308,4728870,45701,6,Self-Care Disability
+,Production Occupations,,0.0071461936,62191,8702675,83422,6,Self-Care Disability
+,Transportation & Material Moving Occupations,,0.0057351263,50995,8891696,83134,6,Self-Care Disability
+,Military Specific Occupations,,0.0048704028,2607,535274,5609,6,Self-Care Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0047934826,13560,2828841,31117,6,Self-Care Disability
+Utilities,,,0.0029473945,3661,1242114,13130,6,Self-Care Disability
+Construction         ,,,0.0036914933,32819,8890440,80676,6,Self-Care Disability
+Manufacturing,,,0.0043866335,66850,15239477,151077,6,Self-Care Disability
+Wholesale Trade,,,0.0036386356,14245,3914929,38133,6,Self-Care Disability
+Retail Trade,,,0.0047930667,79317,16548278,152097,6,Self-Care Disability
+"Transportation, Warehousing & Storage",,,0.0050716521,29494,5815462,55178,6,Self-Care Disability
+Information,,,0.0039298517,11995,3052278,29604,6,Self-Care Disability
+"Finance, Insurance",,,0.0033223184,22715,6837093,66657,6,Self-Care Disability
+"Real Estate, Rental & Leasing",,,0.0056503325,15158,2682674,25333,6,Self-Care Disability
+"Professional, Scientific, Management",,,0.0029576927,28889,9767411,97480,6,Self-Care Disability
+Administrative & Waste Management Services,,,0.0060952496,37787,6199418,54026,6,Self-Care Disability
+Educational Services,,,0.0036351293,48760,13413553,143909,6,Self-Care Disability
+Health Care,,,0.004890964,80903,16541320,161273,6,Self-Care Disability
+Social Assistance Services,,,0.0133495719,44963,3368123,33032,6,Self-Care Disability
+"Arts, Entertainment, Recreation",,,0.0040882526,12321,3013757,28846,6,Self-Care Disability
+Accommodation and Food Services,,,0.0039334812,40570,10314019,84746,6,Self-Care Disability
+Other Services (except Public Administration)       ,,,0.0050283594,35842,7127971,68142,6,Self-Care Disability
+Public Administration,,,0.0047996928,32850,6844188,70390,6,Self-Care Disability
+Active Duty Military,,,0.003608819,3557,985641,10557,6,Self-Care Disability
+,,,0.0088040623,1273305,144626987,1395403,7,Independent Living Disability
+,,"Private, for profit",0.0077677341,760905,97957138,906078,7,Independent Living Disability
+,,Private non-profit,0.0166245243,193462,11637145,122542,7,Independent Living Disability
+,,Local government,0.0085694282,84809,9896693,104853,7,Independent Living Disability
+,,State government,0.0091204633,62301,6830903,72279,7,Independent Living Disability
+,,Federal government,0.0084397457,40291,4773959,49171,7,Independent Living Disability
+,,Self employed,0.0097210518,131537,13531149,140480,7,Independent Living Disability
+,Management Occupations,,0.0048655994,69570,14298341,146146,7,Independent Living Disability
+,Business & Financial Operations Occupations,,0.0057378353,40088,6986607,69701,7,Independent Living Disability
+,Computer & Mathematical Occupations,,0.0052624231,20429,3882052,37981,7,Independent Living Disability
+,Architecture & Engineering Occupations,,0.0030521611,8164,2674826,27332,7,Independent Living Disability
+,"Life, Physical, & Social Science Occupations",,0.0045524228,5666,1244612,13108,7,Independent Living Disability
+,Community & Social Services Occupations,,0.0099029773,23585,2381607,24444,7,Independent Living Disability
+,Legal Occupations,,0.0051165374,8622,1685124,17509,7,Independent Living Disability
+,"Education, Training, & Library Occupations",,0.0062654841,55160,8803789,93084,7,Independent Living Disability
+,"Arts, Design, Entertainment, Sports, & Media Occupations",,0.0083988706,23292,2773230,27261,7,Independent Living Disability
+,Healthcare Practitioners & Technical Occupations,,0.0051781387,42129,8135935,82348,7,Independent Living Disability
+,Healthcare Support Occupations,,0.0105491901,39647,3758298,33949,7,Independent Living Disability
+,Protective Service Occupations,,0.0064676709,20614,3187237,30663,7,Independent Living Disability
+,Food Preparation & Serving Related Occupations,,0.0108363424,87148,8042197,66801,7,Independent Living Disability
+,Building & Grounds Cleaning & Maintenance Occupations,,0.0179906648,103848,5772327,51133,7,Independent Living Disability
+,Personal Care & Service Occupations,,0.013009213,68897,5296016,49306,7,Independent Living Disability
+,Sales & Related Occupations,,0.0078902046,121121,15350806,142111,7,Independent Living Disability
+,Office & Administrative Support Occupations,,0.0101194171,195103,19280063,190380,7,Independent Living Disability
+,"Farming, Fishing, & Forestry Occupations",,0.0089490409,8857,989715,9649,7,Independent Living Disability
+,Construction & Extraction Occupations,,0.0064097685,46315,7225690,64631,7,Independent Living Disability
+,"Installation, Maintenance, & Repair Occupations",,0.006586563,31147,4728870,45701,7,Independent Living Disability
+,Production Occupations,,0.0151451134,131803,8702675,83422,7,Independent Living Disability
+,Transportation & Material Moving Occupations,,0.0132547267,117857,8891696,83134,7,Independent Living Disability
+,Military Specific Occupations,,0.0079267814,4243,535274,5609,7,Independent Living Disability
+"Agriculture, Forestry, Fishing, Hunting, Mining/Extraction",,,0.0078042562,22077,2828841,31117,7,Independent Living Disability
+Utilities,,,0.0039408621,4895,1242114,13130,7,Independent Living Disability
+Construction         ,,,0.0059327772,52745,8890440,80676,7,Independent Living Disability
+Manufacturing,,,0.0076172562,116083,15239477,151077,7,Independent Living Disability
+Wholesale Trade,,,0.0059436582,23269,3914929,38133,7,Independent Living Disability
+Retail Trade,,,0.0105557207,174679,16548278,152097,7,Independent Living Disability
+"Transportation, Warehousing & Storage",,,0.0080067585,46563,5815462,55178,7,Independent Living Disability
+Information,,,0.0081886381,24994,3052278,29604,7,Independent Living Disability
+"Finance, Insurance",,,0.0052898213,36167,6837093,66657,7,Independent Living Disability
+"Real Estate, Rental & Leasing",,,0.0094081502,25239,2682674,25333,7,Independent Living Disability
+"Professional, Scientific, Management",,,0.0055045293,53765,9767411,97480,7,Independent Living Disability
+Administrative & Waste Management Services,,,0.0118138509,73239,6199418,54026,7,Independent Living Disability
+Educational Services,,,0.0067445963,90469,13413553,143909,7,Independent Living Disability
+Health Care,,,0.0088747452,146800,16541320,161273,7,Independent Living Disability
+Social Assistance Services,,,0.0332939147,112138,3368123,33032,7,Independent Living Disability
+"Arts, Entertainment, Recreation",,,0.0093497916,28178,3013757,28846,7,Independent Living Disability
+Accommodation and Food Services,,,0.0102394615,105610,10314019,84746,7,Independent Living Disability
+Other Services (except Public Administration)       ,,,0.0104458899,74458,7127971,68142,7,Independent Living Disability
+Public Administration,,,0.0082202593,56261,6844188,70390,7,Independent Living Disability
+Active Duty Military,,,0.005758689,5676,985641,10557,7,Independent Living Disability

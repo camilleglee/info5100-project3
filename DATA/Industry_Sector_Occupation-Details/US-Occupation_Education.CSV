@@ -1,0 +1,289 @@
+Dis1,MajorOcc,Educ,_TYPE_,_FREQ_,n_Est,Base_Pop,Sample,p_est
+,,Less than High School,1,109936,12846916,144626987,1395403,0.0888279308
+,,High School,1,344033,36322013,144626987,1395403,0.2511427069
+,,Some College,1,457608,47701968,144626987,1395403,0.3298275722
+,,Bachelors Degree or more,1,483826,47756090,144626987,1395403,0.3302017901
+,Management Occupations,Less than High School,3,4350,454926,14298341,146146,0.0318166982
+,Management Occupations,High School,3,21165,2087693,14298341,146146,0.1460094566
+,Management Occupations,Some College,3,39267,3877399,14298341,146146,0.2711782437
+,Management Occupations,Bachelors Degree or more,3,81364,7878323,14298341,146146,0.5509956015
+,Business & Financial Operations Occupations,Less than High School,3,688,70830,6986607,69701,0.0101379683
+,Business & Financial Operations Occupations,High School,3,6112,622403,6986607,69701,0.0890851596
+,Business & Financial Operations Occupations,Some College,3,16874,1713701,6986607,69701,0.2452837264
+,Business & Financial Operations Occupations,Bachelors Degree or more,3,46027,4579673,6986607,69701,0.6554931457
+,Computer & Mathematical Occupations,Less than High School,3,233,25874,3882052,37981,0.0066650318
+,Computer & Mathematical Occupations,High School,3,2046,224053,3882052,37981,0.057715095
+,Computer & Mathematical Occupations,Some College,3,10246,1050809,3882052,37981,0.2706839063
+,Computer & Mathematical Occupations,Bachelors Degree or more,3,25456,2581316,3882052,37981,0.6649359669
+,Architecture & Engineering Occupations,Less than High School,3,239,26949,2674826,27332,0.0100750479
+,Architecture & Engineering Occupations,High School,3,1971,195135,2674826,27332,0.0729524089
+,Architecture & Engineering Occupations,Some College,3,6988,665969,2674826,27332,0.2489765689
+,Architecture & Engineering Occupations,Bachelors Degree or more,3,18134,1786773,2674826,27332,0.6679959743
+,"Life, Physical, & Social Science Occupations",Less than High School,3,108,11624,1244612,13108,0.0093394568
+,"Life, Physical, & Social Science Occupations",High School,3,645,62050,1244612,13108,0.0498548945
+,"Life, Physical, & Social Science Occupations",Some College,3,1716,163243,1244612,13108,0.131159751
+,"Life, Physical, & Social Science Occupations",Bachelors Degree or more,3,10639,1007695,1244612,13108,0.8096458977
+,Community & Social Services Occupations,Less than High School,3,387,40325,2381607,24444,0.0169318448
+,Community & Social Services Occupations,High School,3,1755,172020,2381607,24444,0.0722285415
+,Community & Social Services Occupations,Some College,3,4305,445844,2381607,24444,0.1872030104
+,Community & Social Services Occupations,Bachelors Degree or more,3,17997,1723418,2381607,24444,0.7236366034
+,Legal Occupations,Less than High School,3,85,8512,1685124,17509,0.0050512603
+,Legal Occupations,High School,3,844,84935,1685124,17509,0.050402819
+,Legal Occupations,Some College,3,2571,258634,1685124,17509,0.1534806934
+,Legal Occupations,Bachelors Degree or more,3,14009,1333043,1685124,17509,0.7910652272
+,"Education, Training, & Library Occupations",Less than High School,3,828,86567,8803789,93084,0.0098329253
+,"Education, Training, & Library Occupations",High School,3,5361,532183,8803789,93084,0.0604493134
+,"Education, Training, & Library Occupations",Some College,3,14045,1376087,8803789,93084,0.1563062222
+,"Education, Training, & Library Occupations",Bachelors Degree or more,3,72850,6808952,8803789,93084,0.7734115391
+,"Arts, Design, Entertainment, Sports, & Media Occupations",Less than High School,3,577,66324,2773230,27261,0.0239157949
+,"Arts, Design, Entertainment, Sports, & Media Occupations",High School,3,2652,271130,2773230,27261,0.0977668639
+,"Arts, Design, Entertainment, Sports, & Media Occupations",Some College,3,7778,800286,2773230,27261,0.2885754157
+,"Arts, Design, Entertainment, Sports, & Media Occupations",Bachelors Degree or more,3,16254,1635490,2773230,27261,0.5897419255
+,Healthcare Practitioners & Technical Occupations,Less than High School,3,540,57776,8135935,82348,0.007101335
+,Healthcare Practitioners & Technical Occupations,High School,3,4471,467695,8135935,82348,0.0574850954
+,Healthcare Practitioners & Technical Occupations,Some College,3,29763,2935486,8135935,82348,0.3608049966
+,Healthcare Practitioners & Technical Occupations,Bachelors Degree or more,3,47574,4674978,8135935,82348,0.574608573
+,Healthcare Support Occupations,Less than High School,3,2761,307500,3758298,33949,0.081818951
+,Healthcare Support Occupations,High School,3,10126,1122900,3758298,33949,0.2987788621
+,Healthcare Support Occupations,Some College,3,16973,1894324,3758298,33949,0.504037732
+,Healthcare Support Occupations,Bachelors Degree or more,3,4089,433574,3758298,33949,0.1153644549
+,Protective Service Occupations,Less than High School,3,972,99303,3187237,30663,0.0311564531
+,Protective Service Occupations,High School,3,7279,762078,3187237,30663,0.2391030225
+,Protective Service Occupations,Some College,3,14847,1549044,3187237,30663,0.4860146892
+,Protective Service Occupations,Bachelors Degree or more,3,7565,776812,3187237,30663,0.2437258353
+,Food Preparation & Serving Related Occupations,Less than High School,3,11875,1530809,8042197,66801,0.1903471153
+,Food Preparation & Serving Related Occupations,High School,3,23498,2791041,8042197,66801,0.3470495687
+,Food Preparation & Serving Related Occupations,Some College,3,25465,3028177,8042197,66801,0.3765360386
+,Food Preparation & Serving Related Occupations,Bachelors Degree or more,3,5963,692170,8042197,66801,0.0860672774
+,Building & Grounds Cleaning & Maintenance Occupations,Less than High School,3,14137,1749803,5772327,51133,0.3031364994
+,Building & Grounds Cleaning & Maintenance Occupations,High School,3,20806,2304865,5772327,51133,0.3992956393
+,Building & Grounds Cleaning & Maintenance Occupations,Some College,3,12843,1367155,5772327,51133,0.2368464226
+,Building & Grounds Cleaning & Maintenance Occupations,Bachelors Degree or more,3,3347,350504,5772327,51133,0.0607214387
+,Personal Care & Service Occupations,Less than High School,3,5097,556788,5296016,49306,0.1051333682
+,Personal Care & Service Occupations,High School,3,16092,1737908,5296016,49306,0.3281538424
+,Personal Care & Service Occupations,Some College,3,20104,2157367,5296016,49306,0.4073565865
+,Personal Care & Service Occupations,Bachelors Degree or more,3,8013,843953,5296016,49306,0.1593562029
+,Sales & Related Occupations,Less than High School,3,8967,1021458,15350806,142111,0.0665410012
+,Sales & Related Occupations,High School,3,37568,4091688,15350806,142111,0.266545483
+,Sales & Related Occupations,Some College,3,54302,5965413,15350806,142111,0.3886058491
+,Sales & Related Occupations,Bachelors Degree or more,3,41274,4272247,15350806,142111,0.2783076667
+,Office & Administrative Support Occupations,Less than High School,3,7746,838419,19280063,190380,0.0434863206
+,Office & Administrative Support Occupations,High School,3,56453,5701651,19280063,190380,0.29572782
+,Office & Administrative Support Occupations,Some College,3,86330,8769175,19280063,190380,0.454831242
+,Office & Administrative Support Occupations,Bachelors Degree or more,3,39851,3970818,19280063,190380,0.2059546175
+,"Farming, Fishing, & Forestry Occupations",Less than High School,3,4173,473779,989715,9649,0.4787024547
+,"Farming, Fishing, & Forestry Occupations",High School,3,3125,298372,989715,9649,0.3014726462
+,"Farming, Fishing, & Forestry Occupations",Some College,3,1723,162025,989715,9649,0.1637087444
+,"Farming, Fishing, & Forestry Occupations",Bachelors Degree or more,3,628,55539,989715,9649,0.0561161547
+,Construction & Extraction Occupations,Less than High School,3,13439,1720791,7225690,64631,0.2381490211
+,Construction & Extraction Occupations,High School,3,28031,3081322,7225690,64631,0.4264398279
+,Construction & Extraction Occupations,Some College,3,18891,1986226,7225690,64631,0.2748839211
+,Construction & Extraction Occupations,Bachelors Degree or more,3,4270,437351,7225690,64631,0.0605272299
+,"Installation, Maintenance, & Repair Occupations",Less than High School,3,4857,542587,4728870,45701,0.1147392506
+,"Installation, Maintenance, & Repair Occupations",High School,3,18086,1853335,4728870,45701,0.3919192111
+,"Installation, Maintenance, & Repair Occupations",Some College,3,19346,1975233,4728870,45701,0.4176966167
+,"Installation, Maintenance, & Repair Occupations",Bachelors Degree or more,3,3412,357715,4728870,45701,0.0756449215
+,Production Occupations,Less than High School,3,14015,1589737,8702675,83422,0.1826722243
+,Production Occupations,High School,3,36635,3728580,8702675,83422,0.4284406806
+,Production Occupations,Some College,3,25944,2688927,8702675,83422,0.3089770674
+,Production Occupations,Bachelors Degree or more,3,6828,695431,8702675,83422,0.0799100277
+,Transportation & Material Moving Occupations,Less than High School,3,13812,1560897,8891696,83134,0.1755454752
+,Transportation & Material Moving Occupations,High School,3,37677,3976851,8891696,83134,0.4472544945
+,Transportation & Material Moving Occupations,Some College,3,24728,2624342,8891696,83134,0.2951452681
+,Transportation & Material Moving Occupations,Bachelors Degree or more,3,6917,729606,8891696,83134,0.0820547621
+,Military Specific Occupations,Less than High School,3,50,5338,535274,5609,0.0099724627
+,Military Specific Occupations,High School,3,1635,152125,535274,5609,0.2842002414
+,Military Specific Occupations,Some College,3,2559,247102,535274,5609,0.4616364703
+,Military Specific Occupations,Bachelors Degree or more,3,1365,130709,535274,5609,0.2441908256
+0,,Less than High School,5,98743,11732325,136414654,1309165,0.0860048731
+0,,High School,5,317406,33806415,136414654,1309165,0.2478209929
+0,,Some College,5,428265,44872557,136414654,1309165,0.328942351
+0,,Bachelors Degree or more,5,464751,46003357,136414654,1309165,0.337231783
+0,Management Occupations,Less than High School,7,3890,412160,13643930,138847,0.0302083051
+0,Management Occupations,High School,7,19594,1950698,13643930,138847,0.1429718563
+0,Management Occupations,Some College,7,36878,3660097,13643930,138847,0.2682582658
+0,Management Occupations,Bachelors Degree or more,7,78485,7620975,13643930,138847,0.5585615728
+0,Business & Financial Operations Occupations,Less than High School,7,620,64943,6692223,66527,0.0097042492
+0,Business & Financial Operations Occupations,High School,7,5683,582413,6692223,66527,0.0870283312
+0,Business & Financial Operations Occupations,Some College,7,15808,1610379,6692223,66527,0.2406343901
+0,Business & Financial Operations Occupations,Bachelors Degree or more,7,44416,4434488,6692223,66527,0.6626330294
+0,Computer & Mathematical Occupations,Less than High School,7,210,23441,3740307,36503,0.0062671326
+0,Computer & Mathematical Occupations,High School,7,1935,213408,3740307,36503,0.0570562791
+0,Computer & Mathematical Occupations,Some College,7,9666,992762,3740307,36503,0.2654225977
+0,Computer & Mathematical Occupations,Bachelors Degree or more,7,24692,2510696,3740307,36503,0.6712539906
+0,Architecture & Engineering Occupations,Less than High School,7,219,24860,2574457,26216,0.0096564052
+0,Architecture & Engineering Occupations,High School,7,1857,185014,2574457,26216,0.0718652516
+0,Architecture & Engineering Occupations,Some College,7,6557,628527,2574457,26216,0.244139638
+0,Architecture & Engineering Occupations,Bachelors Degree or more,7,17583,1736056,2574457,26216,0.6743387052
+0,"Life, Physical, & Social Science Occupations",Less than High School,7,96,9481,1196769,12578,0.0079221638
+0,"Life, Physical, & Social Science Occupations",High School,7,598,57513,1196769,12578,0.0480568932
+0,"Life, Physical, & Social Science Occupations",Some College,7,1621,155224,1196769,12578,0.1297025575
+0,"Life, Physical, & Social Science Occupations",Bachelors Degree or more,7,10263,974551,1196769,12578,0.8143183856
+0,Community & Social Services Occupations,Less than High School,7,317,34982,2230271,22750,0.0156850894
+0,Community & Social Services Occupations,High School,7,1569,155550,2230271,22750,0.0697448875
+0,Community & Social Services Occupations,Some College,7,3895,407604,2230271,22750,0.182759853
+0,Community & Social Services Occupations,Bachelors Degree or more,7,16969,1632135,2230271,22750,0.7318101702
+0,Legal Occupations,Less than High School,7,75,7355,1613530,16704,0.0045583286
+0,Legal Occupations,High School,7,786,80179,1613530,16704,0.0496916698
+0,Legal Occupations,Some College,7,2420,244489,1613530,16704,0.1515242977
+0,Legal Occupations,Bachelors Degree or more,7,13423,1281507,1613530,16704,0.7942257039
+0,"Education, Training, & Library Occupations",Less than High School,7,732,78463,8419173,88784,0.0093195614
+0,"Education, Training, & Library Occupations",High School,7,4948,495014,8419173,88784,0.0587960361
+0,"Education, Training, & Library Occupations",Some College,7,13175,1294142,8419173,88784,0.1537136724
+0,"Education, Training, & Library Occupations",Bachelors Degree or more,7,69929,6551554,8419173,88784,0.7781707301
+0,"Arts, Design, Entertainment, Sports, & Media Occupations",Less than High School,7,518,60413,2642909,25894,0.0228585245
+0,"Arts, Design, Entertainment, Sports, & Media Occupations",High School,7,2428,250734,2642909,25894,0.0948704628
+0,"Arts, Design, Entertainment, Sports, & Media Occupations",Some College,7,7313,754531,2642909,25894,0.2854926144
+0,"Arts, Design, Entertainment, Sports, & Media Occupations",Bachelors Degree or more,7,15635,1577231,2642909,25894,0.5967783983
+0,Healthcare Practitioners & Technical Occupations,Less than High School,7,477,51800,7799694,78794,0.0066412862
+0,Healthcare Practitioners & Technical Occupations,High School,7,4159,438611,7799694,78794,0.0562343856
+0,Healthcare Practitioners & Technical Occupations,Some College,7,28205,2784811,7799694,78794,0.3570410583
+0,Healthcare Practitioners & Technical Occupations,Bachelors Degree or more,7,45953,4524472,7799694,78794,0.5800832699
+0,Healthcare Support Occupations,Less than High School,7,2410,272298,3520611,31604,0.077343961
+0,Healthcare Support Occupations,High School,7,9367,1045143,3520611,31604,0.2968640955
+0,Healthcare Support Occupations,Some College,7,15925,1788324,3520611,31604,0.5079584197
+0,Healthcare Support Occupations,Bachelors Degree or more,7,3902,414846,3520611,31604,0.1178335238
+0,Protective Service Occupations,Less than High School,7,821,85279,3000206,28719,0.0284243815
+0,Protective Service Occupations,High School,7,6735,709073,3000206,28719,0.2363414379
+0,Protective Service Occupations,Some College,7,13912,1458698,3000206,28719,0.486199281
+0,Protective Service Occupations,Bachelors Degree or more,7,7251,747156,3000206,28719,0.2490348996
+0,Food Preparation & Serving Related Occupations,Less than High School,7,10883,1418149,7563035,62409,0.1875105695
+0,Food Preparation & Serving Related Occupations,High School,7,21708,2599198,7563035,62409,0.3436712907
+0,Food Preparation & Serving Related Occupations,Some College,7,24081,2878502,7563035,62409,0.3806014384
+0,Food Preparation & Serving Related Occupations,Bachelors Degree or more,7,5737,667186,7563035,62409,0.0882167014
+0,Building & Grounds Cleaning & Maintenance Occupations,Less than High School,7,12521,1582935,5257864,45851,0.3010604687
+0,Building & Grounds Cleaning & Maintenance Occupations,High School,7,18555,2088657,5257864,45851,0.3972443943
+0,Building & Grounds Cleaning & Maintenance Occupations,Some College,7,11687,1261144,5257864,45851,0.2398586194
+0,Building & Grounds Cleaning & Maintenance Occupations,Bachelors Degree or more,7,3088,325128,5257864,45851,0.0618365176
+0,Personal Care & Service Occupations,Less than High School,7,4475,494799,4919512,45545,0.1005788786
+0,Personal Care & Service Occupations,High School,7,14759,1606237,4919512,45545,0.3265033198
+0,Personal Care & Service Occupations,Some College,7,18691,2014414,4919512,45545,0.4094743544
+0,Personal Care & Service Occupations,Bachelors Degree or more,7,7620,804062,4919512,45545,0.1634434472
+0,Sales & Related Occupations,Less than High School,7,8120,938840,14518728,133531,0.064664067
+0,Sales & Related Occupations,High School,7,34847,3830180,14518728,133531,0.263809612
+0,Sales & Related Occupations,Some College,7,50891,5625554,14518728,133531,0.387468792
+0,Sales & Related Occupations,Bachelors Degree or more,7,39673,4124154,14518728,133531,0.284057529
+0,Office & Administrative Support Occupations,Less than High School,7,6906,754965,18114177,178128,0.0416781287
+0,Office & Administrative Support Occupations,High School,7,52385,5318399,18114177,178128,0.2936042305
+0,Office & Administrative Support Occupations,Some College,7,80885,8250978,18114177,178128,0.4554983646
+0,Office & Administrative Support Occupations,Bachelors Degree or more,7,37952,3789835,18114177,178128,0.2092192762
+0,"Farming, Fishing, & Forestry Occupations",Less than High School,7,3840,442337,926715,8917,0.4773171903
+0,"Farming, Fishing, & Forestry Occupations",High School,7,2894,280088,926715,8917,0.3022374732
+0,"Farming, Fishing, & Forestry Occupations",Some College,7,1586,150726,926715,8917,0.1626454735
+0,"Farming, Fishing, & Forestry Occupations",Bachelors Degree or more,7,597,53564,926715,8917,0.057799863
+0,Construction & Extraction Occupations,Less than High School,7,12501,1618023,6810223,60481,0.2375873742
+0,Construction & Extraction Occupations,High School,7,26280,2915122,6810223,60481,0.4280508876
+0,Construction & Extraction Occupations,Some College,7,17662,1862805,6810223,60481,0.2735306906
+0,Construction & Extraction Occupations,Bachelors Degree or more,7,4038,414273,6810223,60481,0.0608310477
+0,"Installation, Maintenance, & Repair Occupations",Less than High School,7,4398,497053,4412298,42429,0.1126517293
+0,"Installation, Maintenance, & Repair Occupations",High School,7,16789,1729440,4412298,42429,0.39195902
+0,"Installation, Maintenance, & Repair Occupations",Some College,7,18033,1847751,4412298,42429,0.4187729387
+0,"Installation, Maintenance, & Repair Occupations",Bachelors Degree or more,7,3209,338054,4412298,42429,0.076616312
+0,Production Occupations,Less than High School,7,12366,1441894,8077709,76484,0.1785028403
+0,Production Occupations,High School,7,33530,3451958,8077709,76484,0.4273436936
+0,Production Occupations,Some College,7,24103,2520015,8077709,76484,0.3119715008
+0,Production Occupations,Bachelors Degree or more,7,6485,663842,8077709,76484,0.0821819652
+0,Transportation & Material Moving Occupations,Less than High School,7,12301,1413198,8229393,76108,0.1717256668
+0,Transportation & Material Moving Occupations,High School,7,34431,3677717,8229393,76108,0.4469001541
+0,Transportation & Material Moving Occupations,Some College,7,22849,2446789,8229393,76108,0.297323144
+0,Transportation & Material Moving Occupations,Bachelors Degree or more,7,6527,691689,8229393,76108,0.0840510351
+0,Military Specific Occupations,Less than High School,7,47,4657,510920,5362,0.0091149299
+0,Military Specific Occupations,High School,7,1569,146069,510920,5362,0.2858940734
+0,Military Specific Occupations,Some College,7,2422,234291,510920,5362,0.4585668989
+0,Military Specific Occupations,Bachelors Degree or more,7,1324,125903,510920,5362,0.2464240977
+1,,Less than High School,5,11193,1114591,8212333,86238,0.1357216031
+1,,High School,5,26627,2515598,8212333,86238,0.3063195319
+1,,Some College,5,29343,2829411,8212333,86238,0.3445319375
+1,,Bachelors Degree or more,5,19075,1752733,8212333,86238,0.2134269275
+1,Management Occupations,Less than High School,7,460,42766,654411,7299,0.0653503685
+1,Management Occupations,High School,7,1571,136995,654411,7299,0.2093409188
+1,Management Occupations,Some College,7,2389,217302,654411,7299,0.3320573768
+1,Management Occupations,Bachelors Degree or more,7,2879,257348,654411,7299,0.3932513359
+1,Business & Financial Operations Occupations,Less than High School,7,68,5887,294384,3174,0.0199976901
+1,Business & Financial Operations Occupations,High School,7,429,39990,294384,3174,0.1358429806
+1,Business & Financial Operations Occupations,Some College,7,1066,103322,294384,3174,0.3509769553
+1,Business & Financial Operations Occupations,Bachelors Degree or more,7,1611,145185,294384,3174,0.493182374
+1,Computer & Mathematical Occupations,Less than High School,7,23,2433,141745,1478,0.0171646266
+1,Computer & Mathematical Occupations,High School,7,111,10645,141745,1478,0.0750996508
+1,Computer & Mathematical Occupations,Some College,7,580,58047,141745,1478,0.4095170905
+1,Computer & Mathematical Occupations,Bachelors Degree or more,7,764,70620,141745,1478,0.4982186321
+1,Architecture & Engineering Occupations,Less than High School,7,20,2089,100369,1116,0.0208131993
+1,Architecture & Engineering Occupations,High School,7,114,10121,100369,1116,0.1008379081
+1,Architecture & Engineering Occupations,Some College,7,431,37442,100369,1116,0.3730434696
+1,Architecture & Engineering Occupations,Bachelors Degree or more,7,551,50717,100369,1116,0.505305423
+1,"Life, Physical, & Social Science Occupations",Less than High School,7,12,2143,47843,530,0.0447923416
+1,"Life, Physical, & Social Science Occupations",High School,7,47,4537,47843,530,0.0948310098
+1,"Life, Physical, & Social Science Occupations",Some College,7,95,8019,47843,530,0.1676107268
+1,"Life, Physical, & Social Science Occupations",Bachelors Degree or more,7,376,33144,47843,530,0.6927659219
+1,Community & Social Services Occupations,Less than High School,7,70,5343,151336,1694,0.0353055453
+1,Community & Social Services Occupations,High School,7,186,16470,151336,1694,0.1088306814
+1,Community & Social Services Occupations,Some College,7,410,38240,151336,1694,0.2526827721
+1,Community & Social Services Occupations,Bachelors Degree or more,7,1028,91283,151336,1694,0.6031810012
+1,Legal Occupations,Less than High School,7,10,1157,71594,805,0.0161605721
+1,Legal Occupations,High School,7,58,4756,71594,805,0.0664301478
+1,Legal Occupations,Some College,7,151,14145,71594,805,0.1975724223
+1,Legal Occupations,Bachelors Degree or more,7,586,51536,71594,805,0.7198368578
+1,"Education, Training, & Library Occupations",Less than High School,7,96,8104,384616,4300,0.0210703663
+1,"Education, Training, & Library Occupations",High School,7,413,37169,384616,4300,0.0966392454
+1,"Education, Training, & Library Occupations",Some College,7,870,81945,384616,4300,0.2130566591
+1,"Education, Training, & Library Occupations",Bachelors Degree or more,7,2921,257398,384616,4300,0.6692337292
+1,"Arts, Design, Entertainment, Sports, & Media Occupations",Less than High School,7,59,5911,130321,1367,0.0453572333
+1,"Arts, Design, Entertainment, Sports, & Media Occupations",High School,7,224,20396,130321,1367,0.1565058586
+1,"Arts, Design, Entertainment, Sports, & Media Occupations",Some College,7,465,45755,130321,1367,0.3510946049
+1,"Arts, Design, Entertainment, Sports, & Media Occupations",Bachelors Degree or more,7,619,58259,130321,1367,0.4470423032
+1,Healthcare Practitioners & Technical Occupations,Less than High School,7,63,5976,336241,3554,0.0177729664
+1,Healthcare Practitioners & Technical Occupations,High School,7,312,29084,336241,3554,0.0864974825
+1,Healthcare Practitioners & Technical Occupations,Some College,7,1558,150675,336241,3554,0.4481160834
+1,Healthcare Practitioners & Technical Occupations,Bachelors Degree or more,7,1621,150506,336241,3554,0.4476134677
+1,Healthcare Support Occupations,Less than High School,7,351,35202,237687,2345,0.1481023363
+1,Healthcare Support Occupations,High School,7,759,77757,237687,2345,0.3271403148
+1,Healthcare Support Occupations,Some College,7,1048,106000,237687,2345,0.445964651
+1,Healthcare Support Occupations,Bachelors Degree or more,7,187,18728,237687,2345,0.078792698
+1,Protective Service Occupations,Less than High School,7,151,14024,187031,1944,0.0749822222
+1,Protective Service Occupations,High School,7,544,53005,187031,1944,0.2834022167
+1,Protective Service Occupations,Some College,7,935,90346,187031,1944,0.4830536114
+1,Protective Service Occupations,Bachelors Degree or more,7,314,29656,187031,1944,0.1585619496
+1,Food Preparation & Serving Related Occupations,Less than High School,7,992,112660,479162,4392,0.2351188116
+1,Food Preparation & Serving Related Occupations,High School,7,1790,191843,479162,4392,0.4003718993
+1,Food Preparation & Serving Related Occupations,Some College,7,1384,149675,479162,4392,0.3123682596
+1,Food Preparation & Serving Related Occupations,Bachelors Degree or more,7,226,24984,479162,4392,0.0521410295
+1,Building & Grounds Cleaning & Maintenance Occupations,Less than High School,7,1616,166868,514463,5282,0.3243537436
+1,Building & Grounds Cleaning & Maintenance Occupations,High School,7,2251,216208,514463,5282,0.4202595716
+1,Building & Grounds Cleaning & Maintenance Occupations,Some College,7,1156,106011,514463,5282,0.206061466
+1,Building & Grounds Cleaning & Maintenance Occupations,Bachelors Degree or more,7,259,25376,514463,5282,0.0493252187
+1,Personal Care & Service Occupations,Less than High School,7,622,61989,376504,3761,0.1646436691
+1,Personal Care & Service Occupations,High School,7,1333,131671,376504,3761,0.3497200561
+1,Personal Care & Service Occupations,Some College,7,1413,142953,376504,3761,0.3796852092
+1,Personal Care & Service Occupations,Bachelors Degree or more,7,393,39891,376504,3761,0.1059510656
+1,Sales & Related Occupations,Less than High School,7,847,82618,832078,8580,0.0992911722
+1,Sales & Related Occupations,High School,7,2721,261508,832078,8580,0.314283036
+1,Sales & Related Occupations,Some College,7,3411,339859,832078,8580,0.4084460832
+1,Sales & Related Occupations,Bachelors Degree or more,7,1601,148093,832078,8580,0.1779797086
+1,Office & Administrative Support Occupations,Less than High School,7,840,83454,1165886,12252,0.0715798972
+1,Office & Administrative Support Occupations,High School,7,4068,383252,1165886,12252,0.328721676
+1,Office & Administrative Support Occupations,Some College,7,5445,518197,1165886,12252,0.4444662686
+1,Office & Administrative Support Occupations,Bachelors Degree or more,7,1899,180983,1165886,12252,0.1552321582
+1,"Farming, Fishing, & Forestry Occupations",Less than High School,7,333,31442,63000,732,0.4990793651
+1,"Farming, Fishing, & Forestry Occupations",High School,7,231,18284,63000,732,0.2902222222
+1,"Farming, Fishing, & Forestry Occupations",Some College,7,137,11299,63000,732,0.1793492063
+1,"Farming, Fishing, & Forestry Occupations",Bachelors Degree or more,7,31,1975,63000,732,0.0313492063
+1,Construction & Extraction Occupations,Less than High School,7,938,102768,415467,4150,0.2473553856
+1,Construction & Extraction Occupations,High School,7,1751,166200,415467,4150,0.4000317715
+1,Construction & Extraction Occupations,Some College,7,1229,123421,415467,4150,0.2970657116
+1,Construction & Extraction Occupations,Bachelors Degree or more,7,232,23078,415467,4150,0.0555471313
+1,"Installation, Maintenance, & Repair Occupations",Less than High School,7,459,45534,316572,3272,0.1438345779
+1,"Installation, Maintenance, & Repair Occupations",High School,7,1297,123895,316572,3272,0.3913643658
+1,"Installation, Maintenance, & Repair Occupations",Some College,7,1313,127482,316572,3272,0.4026951215
+1,"Installation, Maintenance, & Repair Occupations",Bachelors Degree or more,7,203,19661,316572,3272,0.0621059348
+1,Production Occupations,Less than High School,7,1649,147843,624966,6938,0.236561669
+1,Production Occupations,High School,7,3105,276622,624966,6938,0.4426192785
+1,Production Occupations,Some College,7,1841,168912,624966,6938,0.2702739029
+1,Production Occupations,Bachelors Degree or more,7,343,31589,624966,6938,0.0505451497
+1,Transportation & Material Moving Occupations,Less than High School,7,1511,147699,662303,7026,0.2230082002
+1,Transportation & Material Moving Occupations,High School,7,3246,299134,662303,7026,0.451657323
+1,Transportation & Material Moving Occupations,Some College,7,1879,177553,662303,7026,0.2680842454
+1,Transportation & Material Moving Occupations,Bachelors Degree or more,7,390,37917,662303,7026,0.0572502314
+1,Military Specific Occupations,Less than High School,7,3,681,24354,247,0.0279625524
+1,Military Specific Occupations,High School,7,66,6056,24354,247,0.248665517
+1,Military Specific Occupations,Some College,7,137,12811,24354,247,0.5260326846
+1,Military Specific Occupations,Bachelors Degree or more,7,41,4806,24354,247,0.1973392461
