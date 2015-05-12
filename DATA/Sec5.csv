@@ -1,0 +1,1126 @@
+Sector,Dis1,Men,raceX,Educ,_TYPE_,_FREQ_,n_Est,Sample
+,,,,,0,1395403,144626987,1395403
+,,,,Less than High School,1,109936,12846916,109936
+,,,,High School,1,344033,36322013,344033
+,,,,Some College,1,457608,47701968,457608
+,,,,Bachelors Degree or more,1,483826,47756090,483826
+,,,White only,,2,1105177,109859119,1105177
+,,,Black/African American only,,2,125849,16105257,125849
+,,,Asian only,,2,73809,7881315,73809
+,,,Some other race(s),,2,90568,10781296,90568
+,,,White only,Less than High School,3,72744,8236760,72744
+,,,White only,High School,3,274486,27593767,274486
+,,,White only,Some College,3,363496,36274718,363496
+,,,White only,Bachelors Degree or more,3,394451,37753874,394451
+,,,Black/African American only,Less than High School,3,10921,1315930,10921
+,,,Black/African American only,High School,3,35525,4663054,35525
+,,,Black/African American only,Some College,3,48658,6358026,48658
+,,,Black/African American only,Bachelors Degree or more,3,30745,3768247,30745
+,,,Asian only,Less than High School,3,6263,666246,6263
+,,,Asian only,High School,3,9478,1088077,9478
+,,,Asian only,Some College,3,16284,1744858,16284
+,,,Asian only,Bachelors Degree or more,3,41784,4382134,41784
+,,,Some other race(s),Less than High School,3,20008,2627980,20008
+,,,Some other race(s),High School,3,24544,2977115,24544
+,,,Some other race(s),Some College,3,29170,3324366,29170
+,,,Some other race(s),Bachelors Degree or more,3,16846,1851835,16846
+,,0,,,4,669299,68369419,669299
+,,1,,,4,726104,76257568,726104
+,,0,,Less than High School,5,41539,4738092,41539
+,,0,,High School,5,150624,15593780,150624
+,,0,,Some College,5,234401,24217299,234401
+,,0,,Bachelors Degree or more,5,242735,23820248,242735
+,,1,,Less than High School,5,68397,8108824,68397
+,,1,,High School,5,193409,20728233,193409
+,,1,,Some College,5,223207,23484669,223207
+,,1,,Bachelors Degree or more,5,241091,23935842,241091
+,,0,White only,,6,522058,51092407,522058
+,,0,Black/African American only,,6,69863,8755567,69863
+,,0,Asian only,,6,35872,3782244,35872
+,,0,Some other race(s),,6,41506,4739201,41506
+,,1,White only,,6,583119,58766712,583119
+,,1,Black/African American only,,6,55986,7349690,55986
+,,1,Asian only,,6,37937,4099071,37937
+,,1,Some other race(s),,6,49062,6042095,49062
+,,0,White only,Less than High School,7,25962,2886294,25962
+,,0,White only,High School,7,118294,11662908,118294
+,,0,White only,Some College,7,182754,18014621,182754
+,,0,White only,Bachelors Degree or more,7,195048,18528584,195048
+,,0,Black/African American only,Less than High School,7,5229,624418,5229
+,,0,Black/African American only,High School,7,17399,2210264,17399
+,,0,Black/African American only,Some College,7,28406,3658448,28406
+,,0,Black/African American only,Bachelors Degree or more,7,18829,2262437,18829
+,,0,Asian only,Less than High School,7,3200,331956,3200
+,,0,Asian only,High School,7,4719,530191,4719
+,,0,Asian only,Some College,7,8177,866018,8177
+,,0,Asian only,Bachelors Degree or more,7,19776,2054079,19776
+,,0,Some other race(s),Less than High School,7,7148,895424,7148
+,,0,Some other race(s),High School,7,10212,1190417,10212
+,,0,Some other race(s),Some College,7,15064,1678212,15064
+,,0,Some other race(s),Bachelors Degree or more,7,9082,975148,9082
+,,1,White only,Less than High School,7,46782,5350466,46782
+,,1,White only,High School,7,156192,15930859,156192
+,,1,White only,Some College,7,180742,18260097,180742
+,,1,White only,Bachelors Degree or more,7,199403,19225290,199403
+,,1,Black/African American only,Less than High School,7,5692,691512,5692
+,,1,Black/African American only,High School,7,18126,2452790,18126
+,,1,Black/African American only,Some College,7,20252,2699578,20252
+,,1,Black/African American only,Bachelors Degree or more,7,11916,1505810,11916
+,,1,Asian only,Less than High School,7,3063,334290,3063
+,,1,Asian only,High School,7,4759,557886,4759
+,,1,Asian only,Some College,7,8107,878840,8107
+,,1,Asian only,Bachelors Degree or more,7,22008,2328055,22008
+,,1,Some other race(s),Less than High School,7,12860,1732556,12860
+,,1,Some other race(s),High School,7,14332,1786698,14332
+,,1,Some other race(s),Some College,7,14106,1646154,14106
+,,1,Some other race(s),Bachelors Degree or more,7,7764,876687,7764
+,0,,,,8,1309165,136414654,1309165
+,1,,,,8,86238,8212333,86238
+,0,,,Less than High School,9,98743,11732325,98743
+,0,,,High School,9,317406,33806415,317406
+,0,,,Some College,9,428265,44872557,428265
+,0,,,Bachelors Degree or more,9,464751,46003357,464751
+,1,,,Less than High School,9,11193,1114591,11193
+,1,,,High School,9,26627,2515598,26627
+,1,,,Some College,9,29343,2829411,29343
+,1,,,Bachelors Degree or more,9,19075,1752733,19075
+,0,,White only,,10,1036171,103452749,1036171
+,0,,Black/African American only,,10,116819,15133406,116819
+,0,,Asian only,,10,71491,7655352,71491
+,0,,Some other race(s),,10,84684,10173147,84684
+,1,,White only,,10,69006,6406370,69006
+,1,,Black/African American only,,10,9030,971851,9030
+,1,,Asian only,,10,2318,225963,2318
+,1,,Some other race(s),,10,5884,608149,5884
+,0,,White only,Less than High School,11,64818,7464794,64818
+,0,,White only,High School,11,252828,25605553,252828
+,0,,White only,Some College,11,340048,34068045,340048
+,0,,White only,Bachelors Degree or more,11,378477,36314357,378477
+,0,,Black/African American only,Less than High School,11,9434,1167530,9434
+,0,,Black/African American only,High School,11,32616,4348183,32616
+,0,,Black/African American only,Some College,11,45430,5997744,45430
+,0,,Black/African American only,Bachelors Degree or more,11,29339,3619949,29339
+,0,,Asian only,Less than High School,11,5907,630222,5907
+,0,,Asian only,High School,11,9047,1043502,9047
+,0,,Asian only,Some College,11,15625,1680870,15625
+,0,,Asian only,Bachelors Degree or more,11,40912,4300758,40912
+,0,,Some other race(s),Less than High School,11,18584,2469779,18584
+,0,,Some other race(s),High School,11,22915,2809177,22915
+,0,,Some other race(s),Some College,11,27162,3125898,27162
+,0,,Some other race(s),Bachelors Degree or more,11,16023,1768293,16023
+,1,,White only,Less than High School,11,7926,771966,7926
+,1,,White only,High School,11,21658,1988214,21658
+,1,,White only,Some College,11,23448,2206673,23448
+,1,,White only,Bachelors Degree or more,11,15974,1439517,15974
+,1,,Black/African American only,Less than High School,11,1487,148400,1487
+,1,,Black/African American only,High School,11,2909,314871,2909
+,1,,Black/African American only,Some College,11,3228,360282,3228
+,1,,Black/African American only,Bachelors Degree or more,11,1406,148298,1406
+,1,,Asian only,Less than High School,11,356,36024,356
+,1,,Asian only,High School,11,431,44575,431
+,1,,Asian only,Some College,11,659,63988,659
+,1,,Asian only,Bachelors Degree or more,11,872,81376,872
+,1,,Some other race(s),Less than High School,11,1424,158201,1424
+,1,,Some other race(s),High School,11,1629,167938,1629
+,1,,Some other race(s),Some College,11,2008,198468,2008
+,1,,Some other race(s),Bachelors Degree or more,11,823,83542,823
+,0,0,,,12,630002,64627404,630002
+,0,1,,,12,679163,71787250,679163
+,1,0,,,12,39297,3742015,39297
+,1,1,,,12,46941,4470318,46941
+,0,0,,Less than High School,13,37003,4288737,37003
+,0,0,,High School,13,139030,14503714,139030
+,0,0,,Some College,13,220005,22826066,220005
+,0,0,,Bachelors Degree or more,13,233964,23008887,233964
+,0,1,,Less than High School,13,61740,7443588,61740
+,0,1,,High School,13,178376,19302701,178376
+,0,1,,Some College,13,208260,22046491,208260
+,0,1,,Bachelors Degree or more,13,230787,22994470,230787
+,1,0,,Less than High School,13,4536,449355,4536
+,1,0,,High School,13,11594,1090066,11594
+,1,0,,Some College,13,14396,1391233,14396
+,1,0,,Bachelors Degree or more,13,8771,811361,8771
+,1,1,,Less than High School,13,6657,665236,6657
+,1,1,,High School,13,15033,1425532,15033
+,1,1,,Some College,13,14947,1438178,14947
+,1,1,,Bachelors Degree or more,13,10304,941372,10304
+,0,0,White only,,14,491796,48286010,491796
+,0,0,Black/African American only,,14,64721,8207543,64721
+,0,0,Asian only,,14,34756,3675288,34756
+,0,0,Some other race(s),,14,38729,4458563,38729
+,0,1,White only,,14,544375,55166739,544375
+,0,1,Black/African American only,,14,52098,6925863,52098
+,0,1,Asian only,,14,36735,3980064,36735
+,0,1,Some other race(s),,14,45955,5714584,45955
+,1,0,White only,,14,30262,2806397,30262
+,1,0,Black/African American only,,14,5142,548024,5142
+,1,0,Asian only,,14,1116,106956,1116
+,1,0,Some other race(s),,14,2777,280638,2777
+,1,1,White only,,14,38744,3599973,38744
+,1,1,Black/African American only,,14,3888,423827,3888
+,1,1,Asian only,,14,1202,119007,1202
+,1,1,Some other race(s),,14,3107,327511,3107
+,0,0,White only,Less than High School,15,22959,2593551,22959
+,0,0,White only,High School,15,109132,10828896,109132
+,0,0,White only,Some College,15,171739,16977753,171739
+,0,0,White only,Bachelors Degree or more,15,187966,17885810,187966
+,0,0,Black/African American only,Less than High School,15,4484,550104,4484
+,0,0,Black/African American only,High School,15,15875,2048529,15875
+,0,0,Black/African American only,Some College,15,26430,3440205,26430
+,0,0,Black/African American only,Bachelors Degree or more,15,17932,2168705,17932
+,0,0,Asian only,Less than High School,15,3005,312926,3005
+,0,0,Asian only,High School,15,4512,507933,4512
+,0,0,Asian only,Some College,15,7852,836012,7852
+,0,0,Asian only,Bachelors Degree or more,15,19387,2018417,19387
+,0,0,Some other race(s),Less than High School,15,6555,832156,6555
+,0,0,Some other race(s),High School,15,9511,1118356,9511
+,0,0,Some other race(s),Some College,15,13984,1572096,13984
+,0,0,Some other race(s),Bachelors Degree or more,15,8679,935955,8679
+,0,1,White only,Less than High School,15,41859,4871243,41859
+,0,1,White only,High School,15,143696,14776657,143696
+,0,1,White only,Some College,15,168309,17090292,168309
+,0,1,White only,Bachelors Degree or more,15,190511,18428547,190511
+,0,1,Black/African American only,Less than High School,15,4950,617426,4950
+,0,1,Black/African American only,High School,15,16741,2299654,16741
+,0,1,Black/African American only,Some College,15,19000,2557539,19000
+,0,1,Black/African American only,Bachelors Degree or more,15,11407,1451244,11407
+,0,1,Asian only,Less than High School,15,2902,317296,2902
+,0,1,Asian only,High School,15,4535,535569,4535
+,0,1,Asian only,Some College,15,7773,844858,7773
+,0,1,Asian only,Bachelors Degree or more,15,21525,2282341,21525
+,0,1,Some other race(s),Less than High School,15,12029,1637623,12029
+,0,1,Some other race(s),High School,15,13404,1690821,13404
+,0,1,Some other race(s),Some College,15,13178,1553802,13178
+,0,1,Some other race(s),Bachelors Degree or more,15,7344,832338,7344
+,1,0,White only,Less than High School,15,3003,292743,3003
+,1,0,White only,High School,15,9162,834012,9162
+,1,0,White only,Some College,15,11015,1036868,11015
+,1,0,White only,Bachelors Degree or more,15,7082,642774,7082
+,1,0,Black/African American only,Less than High School,15,745,74314,745
+,1,0,Black/African American only,High School,15,1524,161735,1524
+,1,0,Black/African American only,Some College,15,1976,218243,1976
+,1,0,Black/African American only,Bachelors Degree or more,15,897,93732,897
+,1,0,Asian only,Less than High School,15,195,19030,195
+,1,0,Asian only,High School,15,207,22258,207
+,1,0,Asian only,Some College,15,325,30006,325
+,1,0,Asian only,Bachelors Degree or more,15,389,35662,389
+,1,0,Some other race(s),Less than High School,15,593,63268,593
+,1,0,Some other race(s),High School,15,701,72061,701
+,1,0,Some other race(s),Some College,15,1080,106116,1080
+,1,0,Some other race(s),Bachelors Degree or more,15,403,39193,403
+,1,1,White only,Less than High School,15,4923,479223,4923
+,1,1,White only,High School,15,12496,1154202,12496
+,1,1,White only,Some College,15,12433,1169805,12433
+,1,1,White only,Bachelors Degree or more,15,8892,796743,8892
+,1,1,Black/African American only,Less than High School,15,742,74086,742
+,1,1,Black/African American only,High School,15,1385,153136,1385
+,1,1,Black/African American only,Some College,15,1252,142039,1252
+,1,1,Black/African American only,Bachelors Degree or more,15,509,54566,509
+,1,1,Asian only,Less than High School,15,161,16994,161
+,1,1,Asian only,High School,15,224,22317,224
+,1,1,Asian only,Some College,15,334,33982,334
+,1,1,Asian only,Bachelors Degree or more,15,483,45714,483
+,1,1,Some other race(s),Less than High School,15,831,94933,831
+,1,1,Some other race(s),High School,15,928,95877,928
+,1,1,Some other race(s),Some College,15,928,92352,928
+,1,1,Some other race(s),Bachelors Degree or more,15,420,44349,420
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,,,16,906078,97957138,906078
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,,,16,122542,11637145,122542
+"Local, State or Federal (city, county, etc.) government employee",,,,,16,226303,21501555,226303
+Self employed,,,,,16,140480,13531149,140480
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,,Less than High School,17,85354,10290027,85354
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,,High School,17,251059,27435486,251059
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,,Some College,17,311894,33632658,311894
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,,Bachelors Degree or more,17,257771,26598967,257771
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,,Less than High School,17,5083,504099,5083
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,,High School,17,18279,1757260,18279
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,,Some College,17,36128,3490492,36128
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,,Bachelors Degree or more,17,63052,5885294,63052
+"Local, State or Federal (city, county, etc.) government employee",,,,Less than High School,17,6511,634515,6511
+"Local, State or Federal (city, county, etc.) government employee",,,,High School,17,40090,3755784,40090
+"Local, State or Federal (city, county, etc.) government employee",,,,Some College,17,68887,6691859,68887
+"Local, State or Federal (city, county, etc.) government employee",,,,Bachelors Degree or more,17,110815,10419397,110815
+Self employed,,,,Less than High School,17,12988,1418275,12988
+Self employed,,,,High School,17,34605,3373483,34605
+Self employed,,,,Some College,17,40699,3886959,40699
+Self employed,,,,Bachelors Degree or more,17,52188,4852432,52188
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,White only,,18,710571,73492351,710571
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Black/African American only,,18,80564,10830655,80564
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Asian only,,18,51136,5613845,51136
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Some other race(s),,18,63807,8020287,63807
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,White only,,18,99280,9084589,99280
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Black/African American only,,18,11335,1340611,11335
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Asian only,,18,5998,587902,5998
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Some other race(s),,18,5929,624043,5929
+"Local, State or Federal (city, county, etc.) government employee",,,White only,,18,175292,16116970,175292
+"Local, State or Federal (city, county, etc.) government employee",,,Black/African American only,,18,27711,3162898,27711
+"Local, State or Federal (city, county, etc.) government employee",,,Asian only,,18,9484,917380,9484
+"Local, State or Federal (city, county, etc.) government employee",,,Some other race(s),,18,13816,1304307,13816
+Self employed,,,White only,,18,120034,11165209,120034
+Self employed,,,Black/African American only,,18,6239,771093,6239
+Self employed,,,Asian only,,18,7191,762188,7191
+Self employed,,,Some other race(s),,18,7016,832659,7016
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,White only,Less than High School,19,56271,6572597,56271
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,White only,High School,19,199665,20716702,199665
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,White only,Some College,19,248310,25573042,248310
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,White only,Bachelors Degree or more,19,206325,20630010,206325
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Black/African American only,Less than High School,19,8104,1015242,8104
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Black/African American only,High School,19,25640,3493086,25640
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Black/African American only,Some College,19,32128,4396638,32128
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Black/African American only,Bachelors Degree or more,19,14692,1925689,14692
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Asian only,Less than High School,19,4837,523770,4837
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Asian only,High School,19,7134,845624,7134
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Asian only,Some College,19,11461,1256465,11461
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Asian only,Bachelors Degree or more,19,27704,2987986,27704
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Some other race(s),Less than High School,19,16142,2178418,16142
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Some other race(s),High School,19,18620,2380074,18620
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Some other race(s),Some College,19,19995,2406513,19995
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,,Some other race(s),Bachelors Degree or more,19,9050,1055282,9050
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,White only,Less than High School,19,3351,320786,3351
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,White only,High School,19,14365,1314217,14365
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,White only,Some College,19,28743,2654715,28743
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,White only,Bachelors Degree or more,19,52821,4794871,52821
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Black/African American only,Less than High School,19,809,83968,809
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Black/African American only,High School,19,2341,279284,2341
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Black/African American only,Some College,19,4276,519215,4276
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Black/African American only,Bachelors Degree or more,19,3909,458144,3909
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Asian only,Less than High School,19,215,23472,215
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Asian only,High School,19,400,39527,400
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Asian only,Some College,19,1097,105481,1097
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Asian only,Bachelors Degree or more,19,4286,419422,4286
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Some other race(s),Less than High School,19,708,75873,708
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Some other race(s),High School,19,1173,124232,1173
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Some other race(s),Some College,19,2012,211081,2012
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,,Some other race(s),Bachelors Degree or more,19,2036,212857,2036
+"Local, State or Federal (city, county, etc.) government employee",,,White only,Less than High School,19,3831,367558,3831
+"Local, State or Federal (city, county, etc.) government employee",,,White only,High School,19,30476,2745350,30476
+"Local, State or Federal (city, county, etc.) government employee",,,White only,Some College,19,51275,4804128,51275
+"Local, State or Federal (city, county, etc.) government employee",,,White only,Bachelors Degree or more,19,89710,8199934,89710
+"Local, State or Federal (city, county, etc.) government employee",,,Black/African American only,Less than High School,19,1307,136102,1307
+"Local, State or Federal (city, county, etc.) government employee",,,Black/African American only,High School,19,5818,670795,5818
+"Local, State or Federal (city, county, etc.) government employee",,,Black/African American only,Some College,19,10094,1169391,10094
+"Local, State or Federal (city, county, etc.) government employee",,,Black/African American only,Bachelors Degree or more,19,10492,1186610,10492
+"Local, State or Federal (city, county, etc.) government employee",,,Asian only,Less than High School,19,345,33333,345
+"Local, State or Federal (city, county, etc.) government employee",,,Asian only,High School,19,779,74261,779
+"Local, State or Federal (city, county, etc.) government employee",,,Asian only,Some College,19,2193,213632,2193
+"Local, State or Federal (city, county, etc.) government employee",,,Asian only,Bachelors Degree or more,19,6167,596154,6167
+"Local, State or Federal (city, county, etc.) government employee",,,Some other race(s),Less than High School,19,1028,97522,1028
+"Local, State or Federal (city, county, etc.) government employee",,,Some other race(s),High School,19,3017,265378,3017
+"Local, State or Federal (city, county, etc.) government employee",,,Some other race(s),Some College,19,5325,504708,5325
+"Local, State or Federal (city, county, etc.) government employee",,,Some other race(s),Bachelors Degree or more,19,4446,436699,4446
+Self employed,,,White only,Less than High School,19,9291,975819,9291
+Self employed,,,White only,High School,19,29980,2817498,29980
+Self employed,,,White only,Some College,19,35168,3242833,35168
+Self employed,,,White only,Bachelors Degree or more,19,45595,4129059,45595
+Self employed,,,Black/African American only,Less than High School,19,701,80618,701
+Self employed,,,Black/African American only,High School,19,1726,219889,1726
+Self employed,,,Black/African American only,Some College,19,2160,272782,2160
+Self employed,,,Black/African American only,Bachelors Degree or more,19,1652,197804,1652
+Self employed,,,Asian only,Less than High School,19,866,85671,866
+Self employed,,,Asian only,High School,19,1165,128665,1165
+Self employed,,,Asian only,Some College,19,1533,169280,1533
+Self employed,,,Asian only,Bachelors Degree or more,19,3627,378572,3627
+Self employed,,,Some other race(s),Less than High School,19,2130,276167,2130
+Self employed,,,Some other race(s),High School,19,1734,207431,1734
+Self employed,,,Some other race(s),Some College,19,1838,202064,1838
+Self employed,,,Some other race(s),Bachelors Degree or more,19,1314,146997,1314
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,,,20,414073,44279813,414073
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,,,20,492005,53677325,492005
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,,,20,80424,7602874,80424
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,,,20,42118,4034271,42118
+"Local, State or Federal (city, county, etc.) government employee",,0,,,20,124011,11642579,124011
+"Local, State or Federal (city, county, etc.) government employee",,1,,,20,102292,9858976,102292
+Self employed,,0,,,20,50791,4844153,50791
+Self employed,,1,,,20,89689,8686996,89689
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,,Less than High School,21,31663,3717580,31663
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,,High School,21,107844,11550246,107844
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,,Some College,21,157511,16897019,157511
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,,Bachelors Degree or more,21,117055,12114968,117055
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,,Less than High School,21,53691,6572447,53691
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,,High School,21,143215,15885240,143215
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,,Some College,21,154383,16735639,154383
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,,Bachelors Degree or more,21,140716,14483999,140716
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,,Less than High School,21,2544,254629,2544
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,,High School,21,11676,1110165,11676
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,,Some College,21,25853,2468255,25853
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,,Bachelors Degree or more,21,40351,3769825,40351
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,,Less than High School,21,2539,249470,2539
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,,High School,21,6603,647095,6603
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,,Some College,21,10275,1022237,10275
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,,Bachelors Degree or more,21,22701,2115469,22701
+"Local, State or Federal (city, county, etc.) government employee",,0,,Less than High School,21,3404,336328,3404
+"Local, State or Federal (city, county, etc.) government employee",,0,,High School,21,19688,1827489,19688
+"Local, State or Federal (city, county, etc.) government employee",,0,,Some College,21,35035,3334188,35035
+"Local, State or Federal (city, county, etc.) government employee",,0,,Bachelors Degree or more,21,65884,6144574,65884
+"Local, State or Federal (city, county, etc.) government employee",,1,,Less than High School,21,3107,298187,3107
+"Local, State or Federal (city, county, etc.) government employee",,1,,High School,21,20402,1928295,20402
+"Local, State or Federal (city, county, etc.) government employee",,1,,Some College,21,33852,3357671,33852
+"Local, State or Federal (city, county, etc.) government employee",,1,,Bachelors Degree or more,21,44931,4274823,44931
+Self employed,,0,,Less than High School,21,3928,429555,3928
+Self employed,,0,,High School,21,11416,1105880,11416
+Self employed,,0,,Some College,21,16002,1517837,16002
+Self employed,,0,,Bachelors Degree or more,21,19445,1790881,19445
+Self employed,,1,,Less than High School,21,9060,988720,9060
+Self employed,,1,,High School,21,23189,2267603,23189
+Self employed,,1,,Some College,21,24697,2369122,24697
+Self employed,,1,,Bachelors Degree or more,21,32743,3061551,32743
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,White only,,22,319064,32596556,319064
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Black/African American only,,22,43085,5695121,43085
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Asian only,,22,24423,2654589,24423
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Some other race(s),,22,27501,3333547,27501
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,White only,,22,391507,40895795,391507
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Black/African American only,,22,37479,5135534,37479
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Asian only,,22,26713,2959256,26713
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Some other race(s),,22,36306,4686740,36306
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,White only,,22,65672,5991191,65672
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Black/African American only,,22,7502,882308,7502
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Asian only,,22,3533,344522,3533
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Some other race(s),,22,3717,384853,3717
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,White only,,22,33608,3093398,33608
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Black/African American only,,22,3833,458303,3833
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Asian only,,22,2465,243380,2465
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Some other race(s),,22,2212,239190,2212
+"Local, State or Federal (city, county, etc.) government employee",,0,White only,,22,94934,8602129,94934
+"Local, State or Federal (city, county, etc.) government employee",,0,Black/African American only,,22,16656,1871988,16656
+"Local, State or Federal (city, county, etc.) government employee",,0,Asian only,,22,4912,470574,4912
+"Local, State or Federal (city, county, etc.) government employee",,0,Some other race(s),,22,7509,697888,7509
+"Local, State or Federal (city, county, etc.) government employee",,1,White only,,22,80358,7514841,80358
+"Local, State or Federal (city, county, etc.) government employee",,1,Black/African American only,,22,11055,1290910,11055
+"Local, State or Federal (city, county, etc.) government employee",,1,Asian only,,22,4572,446806,4572
+"Local, State or Federal (city, county, etc.) government employee",,1,Some other race(s),,22,6307,606419,6307
+Self employed,,0,White only,,22,42388,3902531,42388
+Self employed,,0,Black/African American only,,22,2620,306150,2620
+Self employed,,0,Asian only,,22,3004,312559,3004
+Self employed,,0,Some other race(s),,22,2779,322913,2779
+Self employed,,1,White only,,22,77646,7262678,77646
+Self employed,,1,Black/African American only,,22,3619,464943,3619
+Self employed,,1,Asian only,,22,4187,449629,4187
+Self employed,,1,Some other race(s),,22,4237,509746,4237
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,White only,Less than High School,23,19860,2273065,19860
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,White only,High School,23,84538,8598797,84538
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,White only,Some College,23,123244,12578720,123244
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,White only,Bachelors Degree or more,23,91422,9145974,91422
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Black/African American only,Less than High School,23,3851,476685,3851
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Black/African American only,High School,23,12302,1623466,12302
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Black/African American only,Some College,23,18451,2498526,18451
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Black/African American only,Bachelors Degree or more,23,8481,1096444,8481
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Asian only,Less than High School,23,2477,260882,2477
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Asian only,High School,23,3566,412550,3566
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Asian only,Some College,23,5729,625027,5729
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Asian only,Bachelors Degree or more,23,12651,1356130,12651
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Some other race(s),Less than High School,23,5475,706948,5475
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Some other race(s),High School,23,7438,915433,7438
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Some other race(s),Some College,23,10087,1194746,10087
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,0,Some other race(s),Bachelors Degree or more,23,4501,516420,4501
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,White only,Less than High School,23,36411,4299532,36411
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,White only,High School,23,115127,12117905,115127
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,White only,Some College,23,125066,12994322,125066
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,White only,Bachelors Degree or more,23,114903,11484036,114903
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Black/African American only,Less than High School,23,4253,538557,4253
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Black/African American only,High School,23,13338,1869620,13338
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Black/African American only,Some College,23,13677,1898112,13677
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Black/African American only,Bachelors Degree or more,23,6211,829245,6211
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Asian only,Less than High School,23,2360,262888,2360
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Asian only,High School,23,3568,433074,3568
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Asian only,Some College,23,5732,631438,5732
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Asian only,Bachelors Degree or more,23,15053,1631856,15053
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Some other race(s),Less than High School,23,10667,1471470,10667
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Some other race(s),High School,23,11182,1464641,11182
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Some other race(s),Some College,23,9908,1211767,9908
+"Private, for profit business or of an individual, for wages,.salary, or commissions",,1,Some other race(s),Bachelors Degree or more,23,4549,538862,4549
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,White only,Less than High School,23,1658,158279,1658
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,White only,High School,23,9395,855333,9395
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,White only,Some College,23,20758,1896738,20758
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,White only,Bachelors Degree or more,23,33861,3080841,33861
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Black/African American only,Less than High School,23,423,47211,423
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Black/African American only,High School,23,1368,161199,1368
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Black/African American only,Some College,23,3009,363932,3009
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Black/African American only,Bachelors Degree or more,23,2702,309966,2702
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Asian only,Less than High School,23,125,13464,125
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Asian only,High School,23,235,23756,235
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Asian only,Some College,23,708,67035,708
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Asian only,Bachelors Degree or more,23,2465,240267,2465
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Some other race(s),Less than High School,23,338,35675,338
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Some other race(s),High School,23,678,69877,678
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Some other race(s),Some College,23,1378,140550,1378
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,0,Some other race(s),Bachelors Degree or more,23,1323,138751,1323
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,White only,Less than High School,23,1693,162507,1693
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,White only,High School,23,4970,458884,4970
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,White only,Some College,23,7985,757977,7985
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,White only,Bachelors Degree or more,23,18960,1714030,18960
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Black/African American only,Less than High School,23,386,36757,386
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Black/African American only,High School,23,973,118085,973
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Black/African American only,Some College,23,1267,155283,1267
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Black/African American only,Bachelors Degree or more,23,1207,148178,1207
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Asian only,Less than High School,23,90,10008,90
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Asian only,High School,23,165,15771,165
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Asian only,Some College,23,389,38446,389
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Asian only,Bachelors Degree or more,23,1821,179155,1821
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Some other race(s),Less than High School,23,370,40198,370
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Some other race(s),High School,23,495,54355,495
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Some other race(s),Some College,23,634,70531,634
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",,1,Some other race(s),Bachelors Degree or more,23,713,74106,713
+"Local, State or Federal (city, county, etc.) government employee",,0,White only,Less than High School,23,1921,190821,1921
+"Local, State or Federal (city, county, etc.) government employee",,0,White only,High School,23,14785,1312957,14785
+"Local, State or Federal (city, county, etc.) government employee",,0,White only,Some College,23,25222,2297286,25222
+"Local, State or Federal (city, county, etc.) government employee",,0,White only,Bachelors Degree or more,23,53006,4801065,53006
+"Local, State or Federal (city, county, etc.) government employee",,0,Black/African American only,Less than High School,23,717,73328,717
+"Local, State or Federal (city, county, etc.) government employee",,0,Black/African American only,High School,23,3073,349180,3073
+"Local, State or Federal (city, county, etc.) government employee",,0,Black/African American only,Some College,23,5940,676878,5940
+"Local, State or Federal (city, county, etc.) government employee",,0,Black/African American only,Bachelors Degree or more,23,6926,772602,6926
+"Local, State or Federal (city, county, etc.) government employee",,0,Asian only,Less than High School,23,209,19068,209
+"Local, State or Federal (city, county, etc.) government employee",,0,Asian only,High School,23,376,35756,376
+"Local, State or Federal (city, county, etc.) government employee",,0,Asian only,Some College,23,1072,103322,1072
+"Local, State or Federal (city, county, etc.) government employee",,0,Asian only,Bachelors Degree or more,23,3255,312428,3255
+"Local, State or Federal (city, county, etc.) government employee",,0,Some other race(s),Less than High School,23,557,53111,557
+"Local, State or Federal (city, county, etc.) government employee",,0,Some other race(s),High School,23,1454,129596,1454
+"Local, State or Federal (city, county, etc.) government employee",,0,Some other race(s),Some College,23,2801,256702,2801
+"Local, State or Federal (city, county, etc.) government employee",,0,Some other race(s),Bachelors Degree or more,23,2697,258479,2697
+"Local, State or Federal (city, county, etc.) government employee",,1,White only,Less than High School,23,1910,176737,1910
+"Local, State or Federal (city, county, etc.) government employee",,1,White only,High School,23,15691,1432393,15691
+"Local, State or Federal (city, county, etc.) government employee",,1,White only,Some College,23,26053,2506842,26053
+"Local, State or Federal (city, county, etc.) government employee",,1,White only,Bachelors Degree or more,23,36704,3398869,36704
+"Local, State or Federal (city, county, etc.) government employee",,1,Black/African American only,Less than High School,23,590,62774,590
+"Local, State or Federal (city, county, etc.) government employee",,1,Black/African American only,High School,23,2745,321615,2745
+"Local, State or Federal (city, county, etc.) government employee",,1,Black/African American only,Some College,23,4154,492513,4154
+"Local, State or Federal (city, county, etc.) government employee",,1,Black/African American only,Bachelors Degree or more,23,3566,414008,3566
+"Local, State or Federal (city, county, etc.) government employee",,1,Asian only,Less than High School,23,136,14265,136
+"Local, State or Federal (city, county, etc.) government employee",,1,Asian only,High School,23,403,38505,403
+"Local, State or Federal (city, county, etc.) government employee",,1,Asian only,Some College,23,1121,110310,1121
+"Local, State or Federal (city, county, etc.) government employee",,1,Asian only,Bachelors Degree or more,23,2912,283726,2912
+"Local, State or Federal (city, county, etc.) government employee",,1,Some other race(s),Less than High School,23,471,44411,471
+"Local, State or Federal (city, county, etc.) government employee",,1,Some other race(s),High School,23,1563,135782,1563
+"Local, State or Federal (city, county, etc.) government employee",,1,Some other race(s),Some College,23,2524,248006,2524
+"Local, State or Federal (city, county, etc.) government employee",,1,Some other race(s),Bachelors Degree or more,23,1749,178220,1749
+Self employed,,0,White only,Less than High School,23,2523,264129,2523
+Self employed,,0,White only,High School,23,9576,895821,9576
+Self employed,,0,White only,Some College,23,13530,1241877,13530
+Self employed,,0,White only,Bachelors Degree or more,23,16759,1500704,16759
+Self employed,,0,Black/African American only,Less than High School,23,238,27194,238
+Self employed,,0,Black/African American only,High School,23,656,76419,656
+Self employed,,0,Black/African American only,Some College,23,1006,119112,1006
+Self employed,,0,Black/African American only,Bachelors Degree or more,23,720,83425,720
+Self employed,,0,Asian only,Less than High School,23,389,38542,389
+Self employed,,0,Asian only,High School,23,542,58129,542
+Self employed,,0,Asian only,Some College,23,668,70634,668
+Self employed,,0,Asian only,Bachelors Degree or more,23,1405,145254,1405
+Self employed,,0,Some other race(s),Less than High School,23,778,99690,778
+Self employed,,0,Some other race(s),High School,23,642,75511,642
+Self employed,,0,Some other race(s),Some College,23,798,86214,798
+Self employed,,0,Some other race(s),Bachelors Degree or more,23,561,61498,561
+Self employed,,1,White only,Less than High School,23,6768,711690,6768
+Self employed,,1,White only,High School,23,20404,1921677,20404
+Self employed,,1,White only,Some College,23,21638,2000956,21638
+Self employed,,1,White only,Bachelors Degree or more,23,28836,2628355,28836
+Self employed,,1,Black/African American only,Less than High School,23,463,53424,463
+Self employed,,1,Black/African American only,High School,23,1070,143470,1070
+Self employed,,1,Black/African American only,Some College,23,1154,153670,1154
+Self employed,,1,Black/African American only,Bachelors Degree or more,23,932,114379,932
+Self employed,,1,Asian only,Less than High School,23,477,47129,477
+Self employed,,1,Asian only,High School,23,623,70536,623
+Self employed,,1,Asian only,Some College,23,865,98646,865
+Self employed,,1,Asian only,Bachelors Degree or more,23,2222,233318,2222
+Self employed,,1,Some other race(s),Less than High School,23,1352,176477,1352
+Self employed,,1,Some other race(s),High School,23,1092,131920,1092
+Self employed,,1,Some other race(s),Some College,23,1040,115850,1040
+Self employed,,1,Some other race(s),Bachelors Degree or more,23,753,85499,753
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,,,24,853641,92751036,853641
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,,,24,52437,5206102,52437
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,,,24,113622,10854901,113622
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,,,24,8920,782244,8920
+"Local, State or Federal (city, county, etc.) government employee",0,,,,24,211891,20219323,211891
+"Local, State or Federal (city, county, etc.) government employee",1,,,,24,14412,1282232,14412
+Self employed,0,,,,24,130011,12589394,130011
+Self employed,1,,,,24,10469,941755,10469
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,,Less than High School,25,77814,9499860,77814
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,,High School,25,233257,25681522,233257
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,,Some College,25,293382,31791306,293382
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,,Bachelors Degree or more,25,249188,25778348,249188
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,,Less than High School,25,7540,790167,7540
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,,High School,25,17802,1753964,17802
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,,Some College,25,18512,1841352,18512
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,,Bachelors Degree or more,25,8583,820619,8583
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,,Less than High School,25,3857,407093,3857
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,,High School,25,15841,1547534,15841
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,,Some College,25,33481,3246324,33481
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,,Bachelors Degree or more,25,60443,5653950,60443
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,,Less than High School,25,1226,97006,1226
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,,High School,25,2438,209726,2438
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,,Some College,25,2647,244168,2647
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,,Bachelors Degree or more,25,2609,231344,2609
+"Local, State or Federal (city, county, etc.) government employee",0,,,Less than High School,25,5492,544460,5492
+"Local, State or Federal (city, county, etc.) government employee",0,,,High School,25,36624,3457656,36624
+"Local, State or Federal (city, county, etc.) government employee",0,,,Some College,25,63927,6240381,63927
+"Local, State or Federal (city, county, etc.) government employee",0,,,Bachelors Degree or more,25,105848,9976826,105848
+"Local, State or Federal (city, county, etc.) government employee",1,,,Less than High School,25,1019,90055,1019
+"Local, State or Federal (city, county, etc.) government employee",1,,,High School,25,3466,298128,3466
+"Local, State or Federal (city, county, etc.) government employee",1,,,Some College,25,4960,451478,4960
+"Local, State or Federal (city, county, etc.) government employee",1,,,Bachelors Degree or more,25,4967,442571,4967
+Self employed,0,,,Less than High School,25,11580,1280912,11580
+Self employed,0,,,High School,25,31684,3119703,31684
+Self employed,0,,,Some College,25,37475,3594546,37475
+Self employed,0,,,Bachelors Degree or more,25,49272,4594233,49272
+Self employed,1,,,Less than High School,25,1408,137363,1408
+Self employed,1,,,High School,25,2921,253780,2921
+Self employed,1,,,Some College,25,3224,292413,3224
+Self employed,1,,,Bachelors Degree or more,25,2916,258199,2916
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,White only,,26,668674,69440570,668674
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Black/African American only,,26,75244,10232843,75244
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Asian only,,26,49656,5464919,49656
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Some other race(s),,26,60067,7612704,60067
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,White only,,26,41897,4051781,41897
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Black/African American only,,26,5320,597812,5320
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Asian only,,26,1480,148926,1480
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Some other race(s),,26,3740,407583,3740
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,White only,,26,92156,8478611,92156
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Black/African American only,,26,10285,1233555,10285
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Asian only,,26,5765,568442,5765
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Some other race(s),,26,5416,574293,5416
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,White only,,26,7124,605978,7124
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Black/African American only,,26,1050,107056,1050
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Asian only,,26,233,19460,233
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Some other race(s),,26,513,49750,513
+"Local, State or Federal (city, county, etc.) government employee",0,,White only,,26,164385,15166385,164385
+"Local, State or Federal (city, county, etc.) government employee",0,,Black/African American only,,26,25618,2955832,25618
+"Local, State or Federal (city, county, etc.) government employee",0,,Asian only,,26,9149,886393,9149
+"Local, State or Federal (city, county, etc.) government employee",0,,Some other race(s),,26,12739,1210713,12739
+"Local, State or Federal (city, county, etc.) government employee",1,,White only,,26,10907,950585,10907
+"Local, State or Federal (city, county, etc.) government employee",1,,Black/African American only,,26,2093,207066,2093
+"Local, State or Federal (city, county, etc.) government employee",1,,Asian only,,26,335,30987,335
+"Local, State or Federal (city, county, etc.) government employee",1,,Some other race(s),,26,1077,93594,1077
+Self employed,0,,White only,,26,110956,10367183,110956
+Self employed,0,,Black/African American only,,26,5672,711176,5672
+Self employed,0,,Asian only,,26,6921,735598,6921
+Self employed,0,,Some other race(s),,26,6462,775437,6462
+Self employed,1,,White only,,26,9078,798026,9078
+Self employed,1,,Black/African American only,,26,567,59917,567
+Self employed,1,,Asian only,,26,270,26590,270
+Self employed,1,,Some other race(s),,26,554,57222,554
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,White only,Less than High School,27,51010,6033650,51010
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,White only,High School,27,185185,19334005,185185
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,White only,Some College,27,233337,24118629,233337
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,White only,Bachelors Degree or more,27,199142,19954286,199142
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Black/African American only,Less than High School,27,7124,910446,7124
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Black/African American only,High School,27,23734,3276371,23734
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Black/African American only,Some College,27,30240,4179633,30240
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Black/African American only,Bachelors Degree or more,27,14146,1866393,14146
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Asian only,Less than High School,27,4583,498112,4583
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Asian only,High School,27,6839,813689,6839
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Asian only,Some College,27,11039,1214713,11039
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Asian only,Bachelors Degree or more,27,27195,2938405,27195
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Some other race(s),Less than High School,27,15097,2057652,15097
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Some other race(s),High School,27,17499,2257457,17499
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Some other race(s),Some College,27,18766,2278331,18766
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,,Some other race(s),Bachelors Degree or more,27,8705,1019264,8705
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,White only,Less than High School,27,5261,538947,5261
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,White only,High School,27,14480,1382697,14480
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,White only,Some College,27,14973,1454413,14973
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,White only,Bachelors Degree or more,27,7183,675724,7183
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Black/African American only,Less than High School,27,980,104796,980
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Black/African American only,High School,27,1906,216715,1906
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Black/African American only,Some College,27,1888,217005,1888
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Black/African American only,Bachelors Degree or more,27,546,59296,546
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Asian only,Less than High School,27,254,25658,254
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Asian only,High School,27,295,31935,295
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Asian only,Some College,27,422,41752,422
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Asian only,Bachelors Degree or more,27,509,49581,509
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Some other race(s),Less than High School,27,1045,120766,1045
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Some other race(s),High School,27,1121,122617,1121
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Some other race(s),Some College,27,1229,128182,1229
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,,Some other race(s),Bachelors Degree or more,27,345,36018,345
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,White only,Less than High School,27,2445,252945,2445
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,White only,High School,27,12402,1151979,12402
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,White only,Some College,27,26700,2471524,26700
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,White only,Bachelors Degree or more,27,50609,4602163,50609
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Black/African American only,Less than High School,27,614,67783,614
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Black/African American only,High School,27,2047,248997,2047
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Black/African American only,Some College,27,3902,477484,3902
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Black/African American only,Bachelors Degree or more,27,3722,439291,3722
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Asian only,Less than High School,27,183,19937,183
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Asian only,High School,27,358,36148,358
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Asian only,Some College,27,1028,100643,1028
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Asian only,Bachelors Degree or more,27,4196,411714,4196
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Some other race(s),Less than High School,27,615,66428,615
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Some other race(s),High School,27,1034,110410,1034
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Some other race(s),Some College,27,1851,196673,1851
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,,Some other race(s),Bachelors Degree or more,27,1916,200782,1916
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,White only,Less than High School,27,906,67841,906
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,White only,High School,27,1963,162238,1963
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,White only,Some College,27,2043,183191,2043
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,White only,Bachelors Degree or more,27,2212,192708,2212
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Black/African American only,Less than High School,27,195,16185,195
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Black/African American only,High School,27,294,30287,294
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Black/African American only,Some College,27,374,41731,374
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Black/African American only,Bachelors Degree or more,27,187,18853,187
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Asian only,Less than High School,27,32,3535,32
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Asian only,High School,27,42,3379,42
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Asian only,Some College,27,69,4838,69
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Asian only,Bachelors Degree or more,27,90,7708,90
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Some other race(s),Less than High School,27,93,9445,93
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Some other race(s),High School,27,139,13822,139
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Some other race(s),Some College,27,161,14408,161
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,,Some other race(s),Bachelors Degree or more,27,120,12075,120
+"Local, State or Federal (city, county, etc.) government employee",0,,White only,Less than High School,27,3171,307343,3171
+"Local, State or Federal (city, county, etc.) government employee",0,,White only,High School,27,27813,2519831,27813
+"Local, State or Federal (city, county, etc.) government employee",0,,White only,Some College,27,47647,4483020,47647
+"Local, State or Federal (city, county, etc.) government employee",0,,White only,Bachelors Degree or more,27,85754,7856191,85754
+"Local, State or Federal (city, county, etc.) government employee",0,,Black/African American only,Less than High School,27,1103,119984,1103
+"Local, State or Federal (city, county, etc.) government employee",0,,Black/African American only,High School,27,5278,620236,5278
+"Local, State or Federal (city, county, etc.) government employee",0,,Black/African American only,Some College,27,9321,1088707,9321
+"Local, State or Federal (city, county, etc.) government employee",0,,Black/African American only,Bachelors Degree or more,27,9916,1126905,9916
+"Local, State or Federal (city, county, etc.) government employee",0,,Asian only,Less than High School,27,318,30657,318
+"Local, State or Federal (city, county, etc.) government employee",0,,Asian only,High School,27,741,70407,741
+"Local, State or Federal (city, county, etc.) government employee",0,,Asian only,Some College,27,2095,204049,2095
+"Local, State or Federal (city, county, etc.) government employee",0,,Asian only,Bachelors Degree or more,27,5995,581280,5995
+"Local, State or Federal (city, county, etc.) government employee",0,,Some other race(s),Less than High School,27,900,86476,900
+"Local, State or Federal (city, county, etc.) government employee",0,,Some other race(s),High School,27,2792,247182,2792
+"Local, State or Federal (city, county, etc.) government employee",0,,Some other race(s),Some College,27,4864,464605,4864
+"Local, State or Federal (city, county, etc.) government employee",0,,Some other race(s),Bachelors Degree or more,27,4183,412450,4183
+"Local, State or Federal (city, county, etc.) government employee",1,,White only,Less than High School,27,660,60215,660
+"Local, State or Federal (city, county, etc.) government employee",1,,White only,High School,27,2663,225519,2663
+"Local, State or Federal (city, county, etc.) government employee",1,,White only,Some College,27,3628,321108,3628
+"Local, State or Federal (city, county, etc.) government employee",1,,White only,Bachelors Degree or more,27,3956,343743,3956
+"Local, State or Federal (city, county, etc.) government employee",1,,Black/African American only,Less than High School,27,204,16118,204
+"Local, State or Federal (city, county, etc.) government employee",1,,Black/African American only,High School,27,540,50559,540
+"Local, State or Federal (city, county, etc.) government employee",1,,Black/African American only,Some College,27,773,80684,773
+"Local, State or Federal (city, county, etc.) government employee",1,,Black/African American only,Bachelors Degree or more,27,576,59705,576
+"Local, State or Federal (city, county, etc.) government employee",1,,Asian only,Less than High School,27,27,2676,27
+"Local, State or Federal (city, county, etc.) government employee",1,,Asian only,High School,27,38,3854,38
+"Local, State or Federal (city, county, etc.) government employee",1,,Asian only,Some College,27,98,9583,98
+"Local, State or Federal (city, county, etc.) government employee",1,,Asian only,Bachelors Degree or more,27,172,14874,172
+"Local, State or Federal (city, county, etc.) government employee",1,,Some other race(s),Less than High School,27,128,11046,128
+"Local, State or Federal (city, county, etc.) government employee",1,,Some other race(s),High School,27,225,18196,225
+"Local, State or Federal (city, county, etc.) government employee",1,,Some other race(s),Some College,27,461,40103,461
+"Local, State or Federal (city, county, etc.) government employee",1,,Some other race(s),Bachelors Degree or more,27,263,24249,263
+Self employed,0,,White only,Less than High School,27,8192,870856,8192
+Self employed,0,,White only,High School,27,27428,2599738,27428
+Self employed,0,,White only,Some College,27,32364,2994872,32364
+Self employed,0,,White only,Bachelors Degree or more,27,42972,3901717,42972
+Self employed,0,,Black/African American only,Less than High School,27,593,69317,593
+Self employed,0,,Black/African American only,High School,27,1557,202579,1557
+Self employed,0,,Black/African American only,Some College,27,1967,251920,1967
+Self employed,0,,Black/African American only,Bachelors Degree or more,27,1555,187360,1555
+Self employed,0,,Asian only,Less than High School,27,823,81516,823
+Self employed,0,,Asian only,High School,27,1109,123258,1109
+Self employed,0,,Asian only,Some College,27,1463,161465,1463
+Self employed,0,,Asian only,Bachelors Degree or more,27,3526,369359,3526
+Self employed,0,,Some other race(s),Less than High School,27,1972,259223,1972
+Self employed,0,,Some other race(s),High School,27,1590,194128,1590
+Self employed,0,,Some other race(s),Some College,27,1681,186289,1681
+Self employed,0,,Some other race(s),Bachelors Degree or more,27,1219,135797,1219
+Self employed,1,,White only,Less than High School,27,1099,104963,1099
+Self employed,1,,White only,High School,27,2552,217760,2552
+Self employed,1,,White only,Some College,27,2804,247961,2804
+Self employed,1,,White only,Bachelors Degree or more,27,2623,227342,2623
+Self employed,1,,Black/African American only,Less than High School,27,108,11301,108
+Self employed,1,,Black/African American only,High School,27,169,17310,169
+Self employed,1,,Black/African American only,Some College,27,193,20862,193
+Self employed,1,,Black/African American only,Bachelors Degree or more,27,97,10444,97
+Self employed,1,,Asian only,Less than High School,27,43,4155,43
+Self employed,1,,Asian only,High School,27,56,5407,56
+Self employed,1,,Asian only,Some College,27,70,7815,70
+Self employed,1,,Asian only,Bachelors Degree or more,27,101,9213,101
+Self employed,1,,Some other race(s),Less than High School,27,158,16944,158
+Self employed,1,,Some other race(s),High School,27,144,13303,144
+Self employed,1,,Some other race(s),Some College,27,157,15775,157
+Self employed,1,,Some other race(s),Bachelors Degree or more,27,95,11200,95
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,,,28,390834,41980847,390834
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,,,28,462807,50770189,462807
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,,,28,23239,2298966,23239
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,,,28,29198,2907136,29198
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,,,28,75335,7146282,75335
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,,,28,38287,3708619,38287
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,,,28,5089,456592,5089
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,,,28,3831,325652,3831
+"Local, State or Federal (city, county, etc.) government employee",0,0,,,28,116581,10982888,116581
+"Local, State or Federal (city, county, etc.) government employee",0,1,,,28,95310,9236435,95310
+"Local, State or Federal (city, county, etc.) government employee",1,0,,,28,7430,659691,7430
+"Local, State or Federal (city, county, etc.) government employee",1,1,,,28,6982,622541,6982
+Self employed,0,0,,,28,47252,4517387,47252
+Self employed,0,1,,,28,82759,8072007,82759
+Self employed,1,0,,,28,3539,326766,3539
+Self employed,1,1,,,28,6930,614989,6930
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,,Less than High School,29,28610,3402455,28610
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,,High School,29,100197,10801276,100197
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,,Some College,29,148548,16007805,148548
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,,Bachelors Degree or more,29,113479,11769311,113479
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,,Less than High School,29,49204,6097405,49204
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,,High School,29,133060,14880246,133060
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,,Some College,29,144834,15783501,144834
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,,Bachelors Degree or more,29,135709,14009037,135709
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,,Less than High School,29,3053,315125,3053
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,,High School,29,7647,748970,7647
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,,Some College,29,8963,889214,8963
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,,Bachelors Degree or more,29,3576,345657,3576
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,,Less than High School,29,4487,475042,4487
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,,High School,29,10155,1004994,10155
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,,Some College,29,9549,952138,9549
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,,Bachelors Degree or more,29,5007,474962,5007
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,,Less than High School,29,2016,209455,2016
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,,High School,29,10402,1001973,10402
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,,Some College,29,24095,2301683,24095
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,,Bachelors Degree or more,29,38822,3633171,38822
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,,Less than High School,29,1841,197638,1841
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,,High School,29,5439,545561,5439
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,,Some College,29,9386,944641,9386
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,,Bachelors Degree or more,29,21621,2020779,21621
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,,Less than High School,29,528,45174,528
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,,High School,29,1274,108192,1274
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,,Some College,29,1758,166572,1758
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,,Bachelors Degree or more,29,1529,136654,1529
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,,Less than High School,29,698,51832,698
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,,High School,29,1164,101534,1164
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,,Some College,29,889,77596,889
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,,Bachelors Degree or more,29,1080,94690,1080
+"Local, State or Federal (city, county, etc.) government employee",0,0,,Less than High School,29,2889,289844,2889
+"Local, State or Federal (city, county, etc.) government employee",0,0,,High School,29,17965,1680688,17965
+"Local, State or Federal (city, county, etc.) government employee",0,0,,Some College,29,32589,3113812,32589
+"Local, State or Federal (city, county, etc.) government employee",0,0,,Bachelors Degree or more,29,63138,5898544,63138
+"Local, State or Federal (city, county, etc.) government employee",0,1,,Less than High School,29,2603,254616,2603
+"Local, State or Federal (city, county, etc.) government employee",0,1,,High School,29,18659,1776968,18659
+"Local, State or Federal (city, county, etc.) government employee",0,1,,Some College,29,31338,3126569,31338
+"Local, State or Federal (city, county, etc.) government employee",0,1,,Bachelors Degree or more,29,42710,4078282,42710
+"Local, State or Federal (city, county, etc.) government employee",1,0,,Less than High School,29,515,46484,515
+"Local, State or Federal (city, county, etc.) government employee",1,0,,High School,29,1723,146801,1723
+"Local, State or Federal (city, county, etc.) government employee",1,0,,Some College,29,2446,220376,2446
+"Local, State or Federal (city, county, etc.) government employee",1,0,,Bachelors Degree or more,29,2746,246030,2746
+"Local, State or Federal (city, county, etc.) government employee",1,1,,Less than High School,29,504,43571,504
+"Local, State or Federal (city, county, etc.) government employee",1,1,,High School,29,1743,151327,1743
+"Local, State or Federal (city, county, etc.) government employee",1,1,,Some College,29,2514,231102,2514
+"Local, State or Federal (city, county, etc.) government employee",1,1,,Bachelors Degree or more,29,2221,196541,2221
+Self employed,0,0,,Less than High School,29,3488,386983,3488
+Self employed,0,0,,High School,29,10466,1019777,10466
+Self employed,0,0,,Some College,29,14773,1402766,14773
+Self employed,0,0,,Bachelors Degree or more,29,18525,1707861,18525
+Self employed,0,1,,Less than High School,29,8092,893929,8092
+Self employed,0,1,,High School,29,21218,2099926,21218
+Self employed,0,1,,Some College,29,22702,2191780,22702
+Self employed,0,1,,Bachelors Degree or more,29,30747,2886372,30747
+Self employed,1,0,,Less than High School,29,440,42572,440
+Self employed,1,0,,High School,29,950,86103,950
+Self employed,1,0,,Some College,29,1229,115071,1229
+Self employed,1,0,,Bachelors Degree or more,29,920,83020,920
+Self employed,1,1,,Less than High School,29,968,94791,968
+Self employed,1,1,,High School,29,1971,167677,1971
+Self employed,1,1,,Some College,29,1995,177342,1995
+Self employed,1,1,,Bachelors Degree or more,29,1996,175179,1996
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,White only,,30,301148,30874168,301148
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Black/African American only,,30,40117,5366308,40117
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Asian only,,30,23725,2584690,23725
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Some other race(s),,30,25844,3155681,25844
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,White only,,30,367526,38566402,367526
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Black/African American only,,30,35127,4866535,35127
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Asian only,,30,25931,2880229,25931
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Some other race(s),,30,34223,4457023,34223
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,White only,,30,17916,1722388,17916
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Black/African American only,,30,2968,328813,2968
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Asian only,,30,698,69899,698
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Some other race(s),,30,1657,177866,1657
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,White only,,30,23981,2329393,23981
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Black/African American only,,30,2352,268999,2352
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Asian only,,30,782,79027,782
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Some other race(s),,30,2083,229717,2083
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,White only,,30,61665,5640778,61665
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Black/African American only,,30,6866,815808,6866
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Asian only,,30,3396,333448,3396
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Some other race(s),,30,3408,356248,3408
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,White only,,30,30491,2837833,30491
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Black/African American only,,30,3419,417747,3419
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Asian only,,30,2369,234994,2369
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Some other race(s),,30,2008,218045,2008
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,White only,,30,4007,350413,4007
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Black/African American only,,30,636,66500,636
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Asian only,,30,137,11074,137
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Some other race(s),,30,309,28605,309
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,White only,,30,3117,255565,3117
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Black/African American only,,30,414,40556,414
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Asian only,,30,96,8386,96
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Some other race(s),,30,204,21145,204
+"Local, State or Federal (city, county, etc.) government employee",0,0,White only,,30,89514,8130910,89514
+"Local, State or Federal (city, county, etc.) government employee",0,0,Black/African American only,,30,15389,1747045,15389
+"Local, State or Federal (city, county, etc.) government employee",0,0,Asian only,,30,4745,455633,4745
+"Local, State or Federal (city, county, etc.) government employee",0,0,Some other race(s),,30,6933,649300,6933
+"Local, State or Federal (city, county, etc.) government employee",0,1,White only,,30,74871,7035475,74871
+"Local, State or Federal (city, county, etc.) government employee",0,1,Black/African American only,,30,10229,1208787,10229
+"Local, State or Federal (city, county, etc.) government employee",0,1,Asian only,,30,4404,430760,4404
+"Local, State or Federal (city, county, etc.) government employee",0,1,Some other race(s),,30,5806,561413,5806
+"Local, State or Federal (city, county, etc.) government employee",1,0,White only,,30,5420,471219,5420
+"Local, State or Federal (city, county, etc.) government employee",1,0,Black/African American only,,30,1267,124943,1267
+"Local, State or Federal (city, county, etc.) government employee",1,0,Asian only,,30,167,14941,167
+"Local, State or Federal (city, county, etc.) government employee",1,0,Some other race(s),,30,576,48588,576
+"Local, State or Federal (city, county, etc.) government employee",1,1,White only,,30,5487,479366,5487
+"Local, State or Federal (city, county, etc.) government employee",1,1,Black/African American only,,30,826,82123,826
+"Local, State or Federal (city, county, etc.) government employee",1,1,Asian only,,30,168,16046,168
+"Local, State or Federal (city, county, etc.) government employee",1,1,Some other race(s),,30,501,45006,501
+Self employed,0,0,White only,,30,39469,3640154,39469
+Self employed,0,0,Black/African American only,,30,2349,278382,2349
+Self employed,0,0,Asian only,,30,2890,301517,2890
+Self employed,0,0,Some other race(s),,30,2544,297334,2544
+Self employed,0,1,White only,,30,71487,6727029,71487
+Self employed,0,1,Black/African American only,,30,3323,432794,3323
+Self employed,0,1,Asian only,,30,4031,434081,4031
+Self employed,0,1,Some other race(s),,30,3918,478103,3918
+Self employed,1,0,White only,,30,2919,262377,2919
+Self employed,1,0,Black/African American only,,30,271,27768,271
+Self employed,1,0,Asian only,,30,114,11042,114
+Self employed,1,0,Some other race(s),,30,235,25579,235
+Self employed,1,1,White only,,30,6159,535649,6159
+Self employed,1,1,Black/African American only,,30,296,32149,296
+Self employed,1,1,Asian only,,30,156,15548,156
+Self employed,1,1,Some other race(s),,30,319,31643,319
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,White only,Less than High School,31,17865,2070649,17865
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,White only,High School,31,78490,8028143,78490
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,White only,Some College,31,116242,11901971,116242
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,White only,Bachelors Degree or more,31,88551,8873405,88551
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Black/African American only,Less than High School,31,3340,423823,3340
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Black/African American only,High School,31,11301,1511974,11301
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Black/African American only,Some College,31,17326,2370622,17326
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Black/African American only,Bachelors Degree or more,31,8150,1059889,8150
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Asian only,Less than High School,31,2334,247049,2334
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Asian only,High School,31,3417,395665,3417
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Asian only,Some College,31,5543,606437,5543
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Asian only,Bachelors Degree or more,31,12431,1335539,12431
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Some other race(s),Less than High School,31,5071,660934,5071
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Some other race(s),High School,31,6989,865494,6989
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Some other race(s),Some College,31,9437,1128775,9437
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,0,Some other race(s),Bachelors Degree or more,31,4347,500478,4347
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,White only,Less than High School,31,33145,3963001,33145
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,White only,High School,31,106695,11305862,106695
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,White only,Some College,31,117095,12216658,117095
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,White only,Bachelors Degree or more,31,110591,11080881,110591
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Black/African American only,Less than High School,31,3784,486623,3784
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Black/African American only,High School,31,12433,1764397,12433
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Black/African American only,Some College,31,12914,1809011,12914
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Black/African American only,Bachelors Degree or more,31,5996,806504,5996
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Asian only,Less than High School,31,2249,251063,2249
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Asian only,High School,31,3422,418024,3422
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Asian only,Some College,31,5496,608276,5496
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Asian only,Bachelors Degree or more,31,14764,1602866,14764
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Some other race(s),Less than High School,31,10026,1396718,10026
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Some other race(s),High School,31,10510,1391963,10510
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Some other race(s),Some College,31,9329,1149556,9329
+"Private, for profit business or of an individual, for wages,.salary, or commissions",0,1,Some other race(s),Bachelors Degree or more,31,4358,518786,4358
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,White only,Less than High School,31,1995,202416,1995
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,White only,High School,31,6048,570654,6048
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,White only,Some College,31,7002,676749,7002
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,White only,Bachelors Degree or more,31,2871,272569,2871
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Black/African American only,Less than High School,31,511,52862,511
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Black/African American only,High School,31,1001,111492,1001
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Black/African American only,Some College,31,1125,127904,1125
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Black/African American only,Bachelors Degree or more,31,331,36555,331
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Asian only,Less than High School,31,143,13833,143
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Asian only,High School,31,149,16885,149
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Asian only,Some College,31,186,18590,186
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Asian only,Bachelors Degree or more,31,220,20591,220
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Some other race(s),Less than High School,31,404,46014,404
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Some other race(s),High School,31,449,49939,449
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Some other race(s),Some College,31,650,65971,650
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,0,Some other race(s),Bachelors Degree or more,31,154,15942,154
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,White only,Less than High School,31,3266,336531,3266
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,White only,High School,31,8432,812043,8432
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,White only,Some College,31,7971,777664,7971
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,White only,Bachelors Degree or more,31,4312,403155,4312
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Black/African American only,Less than High School,31,469,51934,469
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Black/African American only,High School,31,905,105223,905
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Black/African American only,Some College,31,763,89101,763
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Black/African American only,Bachelors Degree or more,31,215,22741,215
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Asian only,Less than High School,31,111,11825,111
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Asian only,High School,31,146,15050,146
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Asian only,Some College,31,236,23162,236
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Asian only,Bachelors Degree or more,31,289,28990,289
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Some other race(s),Less than High School,31,641,74752,641
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Some other race(s),High School,31,672,72678,672
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Some other race(s),Some College,31,579,62211,579
+"Private, for profit business or of an individual, for wages,.salary, or commissions",1,1,Some other race(s),Bachelors Degree or more,31,191,20076,191
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,White only,Less than High School,31,1281,127928,1281
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,White only,High School,31,8365,770762,8365
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,White only,Some College,31,19436,1774925,19436
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,White only,Bachelors Degree or more,31,32583,2967163,32583
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Black/African American only,Less than High School,31,341,39165,341
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Black/African American only,High School,31,1223,147200,1223
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Black/African American only,Some College,31,2733,332054,2733
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Black/African American only,Bachelors Degree or more,31,2569,297389,2569
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Asian only,Less than High School,31,110,11614,110
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Asian only,High School,31,219,22303,219
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Asian only,Some College,31,655,63653,655
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Asian only,Bachelors Degree or more,31,2412,235878,2412
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Some other race(s),Less than High School,31,284,30748,284
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Some other race(s),High School,31,595,61708,595
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Some other race(s),Some College,31,1271,131051,1271
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,0,Some other race(s),Bachelors Degree or more,31,1258,132741,1258
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,White only,Less than High School,31,1164,125017,1164
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,White only,High School,31,4037,381217,4037
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,White only,Some College,31,7264,696599,7264
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,White only,Bachelors Degree or more,31,18026,1635000,18026
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Black/African American only,Less than High School,31,273,28618,273
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Black/African American only,High School,31,824,101797,824
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Black/African American only,Some College,31,1169,145430,1169
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Black/African American only,Bachelors Degree or more,31,1153,141902,1153
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Asian only,Less than High School,31,73,8323,73
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Asian only,High School,31,139,13845,139
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Asian only,Some College,31,373,36990,373
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Asian only,Bachelors Degree or more,31,1784,175836,1784
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Some other race(s),Less than High School,31,331,35680,331
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Some other race(s),High School,31,439,48702,439
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Some other race(s),Some College,31,580,65622,580
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",0,1,Some other race(s),Bachelors Degree or more,31,658,68041,658
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,White only,Less than High School,31,377,30351,377
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,White only,High School,31,1030,84571,1030
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,White only,Some College,31,1322,121813,1322
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,White only,Bachelors Degree or more,31,1278,113678,1278
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Black/African American only,Less than High School,31,82,8046,82
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Black/African American only,High School,31,145,13999,145
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Black/African American only,Some College,31,276,31878,276
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Black/African American only,Bachelors Degree or more,31,133,12577,133
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Asian only,Less than High School,31,15,1850,15
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Asian only,High School,31,16,1453,16
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Asian only,Some College,31,53,3382,53
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Asian only,Bachelors Degree or more,31,53,4389,53
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Some other race(s),Less than High School,31,54,4927,54
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Some other race(s),High School,31,83,8169,83
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Some other race(s),Some College,31,107,9499,107
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,0,Some other race(s),Bachelors Degree or more,31,65,6010,65
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,White only,Less than High School,31,529,37490,529
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,White only,High School,31,933,77667,933
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,White only,Some College,31,721,61378,721
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,White only,Bachelors Degree or more,31,934,79030,934
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Black/African American only,Less than High School,31,113,8139,113
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Black/African American only,High School,31,149,16288,149
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Black/African American only,Some College,31,98,9853,98
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Black/African American only,Bachelors Degree or more,31,54,6276,54
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Asian only,Less than High School,31,17,1685,17
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Asian only,High School,31,26,1926,26
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Asian only,Some College,31,16,1456,16
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Asian only,Bachelors Degree or more,31,37,3319,37
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Some other race(s),Less than High School,31,39,4518,39
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Some other race(s),High School,31,56,5653,56
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Some other race(s),Some College,31,54,4909,54
+"Employee of a private not-for-profit, tax-exempt, or charitable organization",1,1,Some other race(s),Bachelors Degree or more,31,55,6065,55
+"Local, State or Federal (city, county, etc.) government employee",0,0,White only,Less than High School,31,1600,159879,1600
+"Local, State or Federal (city, county, etc.) government employee",0,0,White only,High School,31,13500,1205775,13500
+"Local, State or Federal (city, county, etc.) government employee",0,0,White only,Some College,31,23539,2149999,23539
+"Local, State or Federal (city, county, etc.) government employee",0,0,White only,Bachelors Degree or more,31,50875,4615257,50875
+"Local, State or Federal (city, county, etc.) government employee",0,0,Black/African American only,Less than High School,31,616,65351,616
+"Local, State or Federal (city, county, etc.) government employee",0,0,Black/African American only,High School,31,2765,319835,2765
+"Local, State or Federal (city, county, etc.) government employee",0,0,Black/African American only,Some College,31,5473,629781,5473
+"Local, State or Federal (city, county, etc.) government employee",0,0,Black/African American only,Bachelors Degree or more,31,6535,732078,6535
+"Local, State or Federal (city, county, etc.) government employee",0,0,Asian only,Less than High School,31,193,17775,193
+"Local, State or Federal (city, county, etc.) government employee",0,0,Asian only,High School,31,359,34117,359
+"Local, State or Federal (city, county, etc.) government employee",0,0,Asian only,Some College,31,1019,98769,1019
+"Local, State or Federal (city, county, etc.) government employee",0,0,Asian only,Bachelors Degree or more,31,3174,304972,3174
+"Local, State or Federal (city, county, etc.) government employee",0,0,Some other race(s),Less than High School,31,480,46839,480
+"Local, State or Federal (city, county, etc.) government employee",0,0,Some other race(s),High School,31,1341,120961,1341
+"Local, State or Federal (city, county, etc.) government employee",0,0,Some other race(s),Some College,31,2558,235263,2558
+"Local, State or Federal (city, county, etc.) government employee",0,0,Some other race(s),Bachelors Degree or more,31,2554,246237,2554
+"Local, State or Federal (city, county, etc.) government employee",0,1,White only,Less than High School,31,1571,147464,1571
+"Local, State or Federal (city, county, etc.) government employee",0,1,White only,High School,31,14313,1314056,14313
+"Local, State or Federal (city, county, etc.) government employee",0,1,White only,Some College,31,24108,2333021,24108
+"Local, State or Federal (city, county, etc.) government employee",0,1,White only,Bachelors Degree or more,31,34879,3240934,34879
+"Local, State or Federal (city, county, etc.) government employee",0,1,Black/African American only,Less than High School,31,487,54633,487
+"Local, State or Federal (city, county, etc.) government employee",0,1,Black/African American only,High School,31,2513,300401,2513
+"Local, State or Federal (city, county, etc.) government employee",0,1,Black/African American only,Some College,31,3848,458926,3848
+"Local, State or Federal (city, county, etc.) government employee",0,1,Black/African American only,Bachelors Degree or more,31,3381,394827,3381
+"Local, State or Federal (city, county, etc.) government employee",0,1,Asian only,Less than High School,31,125,12882,125
+"Local, State or Federal (city, county, etc.) government employee",0,1,Asian only,High School,31,382,36290,382
+"Local, State or Federal (city, county, etc.) government employee",0,1,Asian only,Some College,31,1076,105280,1076
+"Local, State or Federal (city, county, etc.) government employee",0,1,Asian only,Bachelors Degree or more,31,2821,276308,2821
+"Local, State or Federal (city, county, etc.) government employee",0,1,Some other race(s),Less than High School,31,420,39637,420
+"Local, State or Federal (city, county, etc.) government employee",0,1,Some other race(s),High School,31,1451,126221,1451
+"Local, State or Federal (city, county, etc.) government employee",0,1,Some other race(s),Some College,31,2306,229342,2306
+"Local, State or Federal (city, county, etc.) government employee",0,1,Some other race(s),Bachelors Degree or more,31,1629,166213,1629
+"Local, State or Federal (city, county, etc.) government employee",1,0,White only,Less than High School,31,321,30942,321
+"Local, State or Federal (city, county, etc.) government employee",1,0,White only,High School,31,1285,107182,1285
+"Local, State or Federal (city, county, etc.) government employee",1,0,White only,Some College,31,1683,147287,1683
+"Local, State or Federal (city, county, etc.) government employee",1,0,White only,Bachelors Degree or more,31,2131,185808,2131
+"Local, State or Federal (city, county, etc.) government employee",1,0,Black/African American only,Less than High School,31,101,7977,101
+"Local, State or Federal (city, county, etc.) government employee",1,0,Black/African American only,High School,31,308,29345,308
+"Local, State or Federal (city, county, etc.) government employee",1,0,Black/African American only,Some College,31,467,47097,467
+"Local, State or Federal (city, county, etc.) government employee",1,0,Black/African American only,Bachelors Degree or more,31,391,40524,391
+"Local, State or Federal (city, county, etc.) government employee",1,0,Asian only,Less than High School,31,16,1293,16
+"Local, State or Federal (city, county, etc.) government employee",1,0,Asian only,High School,31,17,1639,17
+"Local, State or Federal (city, county, etc.) government employee",1,0,Asian only,Some College,31,53,4553,53
+"Local, State or Federal (city, county, etc.) government employee",1,0,Asian only,Bachelors Degree or more,31,81,7456,81
+"Local, State or Federal (city, county, etc.) government employee",1,0,Some other race(s),Less than High School,31,77,6272,77
+"Local, State or Federal (city, county, etc.) government employee",1,0,Some other race(s),High School,31,113,8635,113
+"Local, State or Federal (city, county, etc.) government employee",1,0,Some other race(s),Some College,31,243,21439,243
+"Local, State or Federal (city, county, etc.) government employee",1,0,Some other race(s),Bachelors Degree or more,31,143,12242,143
+"Local, State or Federal (city, county, etc.) government employee",1,1,White only,Less than High School,31,339,29273,339
+"Local, State or Federal (city, county, etc.) government employee",1,1,White only,High School,31,1378,118337,1378
+"Local, State or Federal (city, county, etc.) government employee",1,1,White only,Some College,31,1945,173821,1945
+"Local, State or Federal (city, county, etc.) government employee",1,1,White only,Bachelors Degree or more,31,1825,157935,1825
+"Local, State or Federal (city, county, etc.) government employee",1,1,Black/African American only,Less than High School,31,103,8141,103
+"Local, State or Federal (city, county, etc.) government employee",1,1,Black/African American only,High School,31,232,21214,232
+"Local, State or Federal (city, county, etc.) government employee",1,1,Black/African American only,Some College,31,306,33587,306
+"Local, State or Federal (city, county, etc.) government employee",1,1,Black/African American only,Bachelors Degree or more,31,185,19181,185
+"Local, State or Federal (city, county, etc.) government employee",1,1,Asian only,Less than High School,31,11,1383,11
+"Local, State or Federal (city, county, etc.) government employee",1,1,Asian only,High School,31,21,2215,21
+"Local, State or Federal (city, county, etc.) government employee",1,1,Asian only,Some College,31,45,5030,45
+"Local, State or Federal (city, county, etc.) government employee",1,1,Asian only,Bachelors Degree or more,31,91,7418,91
+"Local, State or Federal (city, county, etc.) government employee",1,1,Some other race(s),Less than High School,31,51,4774,51
+"Local, State or Federal (city, county, etc.) government employee",1,1,Some other race(s),High School,31,112,9561,112
+"Local, State or Federal (city, county, etc.) government employee",1,1,Some other race(s),Some College,31,218,18664,218
+"Local, State or Federal (city, county, etc.) government employee",1,1,Some other race(s),Bachelors Degree or more,31,120,12007,120
+Self employed,0,0,White only,Less than High School,31,2213,235095,2213
+Self employed,0,0,White only,High School,31,8777,824216,8777
+Self employed,0,0,White only,Some College,31,12522,1150858,12522
+Self employed,0,0,White only,Bachelors Degree or more,31,15957,1429985,15957
+Self employed,0,0,Black/African American only,Less than High School,31,187,21765,187
+Self employed,0,0,Black/African American only,High School,31,586,69520,586
+Self employed,0,0,Black/African American only,Some College,31,898,107748,898
+Self employed,0,0,Black/African American only,Bachelors Degree or more,31,678,79349,678
+Self employed,0,0,Asian only,Less than High School,31,368,36488,368
+Self employed,0,0,Asian only,High School,31,517,55848,517
+Self employed,0,0,Asian only,Some College,31,635,67153,635
+Self employed,0,0,Asian only,Bachelors Degree or more,31,1370,142028,1370
+Self employed,0,0,Some other race(s),Less than High School,31,720,93635,720
+Self employed,0,0,Some other race(s),High School,31,586,70193,586
+Self employed,0,0,Some other race(s),Some College,31,718,77007,718
+Self employed,0,0,Some other race(s),Bachelors Degree or more,31,520,56499,520
+Self employed,0,1,White only,Less than High School,31,5979,635761,5979
+Self employed,0,1,White only,High School,31,18651,1775522,18651
+Self employed,0,1,White only,Some College,31,19842,1844014,19842
+Self employed,0,1,White only,Bachelors Degree or more,31,27015,2471732,27015
+Self employed,0,1,Black/African American only,Less than High School,31,406,47552,406
+Self employed,0,1,Black/African American only,High School,31,971,133059,971
+Self employed,0,1,Black/African American only,Some College,31,1069,144172,1069
+Self employed,0,1,Black/African American only,Bachelors Degree or more,31,877,108011,877
+Self employed,0,1,Asian only,Less than High School,31,455,45028,455
+Self employed,0,1,Asian only,High School,31,592,67410,592
+Self employed,0,1,Asian only,Some College,31,828,94312,828
+Self employed,0,1,Asian only,Bachelors Degree or more,31,2156,227331,2156
+Self employed,0,1,Some other race(s),Less than High School,31,1252,165588,1252
+Self employed,0,1,Some other race(s),High School,31,1004,123935,1004
+Self employed,0,1,Some other race(s),Some College,31,963,109282,963
+Self employed,0,1,Some other race(s),Bachelors Degree or more,31,699,79298,699
+Self employed,1,0,White only,Less than High School,31,310,29034,310
+Self employed,1,0,White only,High School,31,799,71605,799
+Self employed,1,0,White only,Some College,31,1008,91019,1008
+Self employed,1,0,White only,Bachelors Degree or more,31,802,70719,802
+Self employed,1,0,Black/African American only,Less than High School,31,51,5429,51
+Self employed,1,0,Black/African American only,High School,31,70,6899,70
+Self employed,1,0,Black/African American only,Some College,31,108,11364,108
+Self employed,1,0,Black/African American only,Bachelors Degree or more,31,42,4076,42
+Self employed,1,0,Asian only,Less than High School,31,21,2054,21
+Self employed,1,0,Asian only,High School,31,25,2281,25
+Self employed,1,0,Asian only,Some College,31,33,3481,33
+Self employed,1,0,Asian only,Bachelors Degree or more,31,35,3226,35
+Self employed,1,0,Some other race(s),Less than High School,31,58,6055,58
+Self employed,1,0,Some other race(s),High School,31,56,5318,56
+Self employed,1,0,Some other race(s),Some College,31,80,9207,80
+Self employed,1,0,Some other race(s),Bachelors Degree or more,31,41,4999,41
+Self employed,1,1,White only,Less than High School,31,789,75929,789
+Self employed,1,1,White only,High School,31,1753,146155,1753
+Self employed,1,1,White only,Some College,31,1796,156942,1796
+Self employed,1,1,White only,Bachelors Degree or more,31,1821,156623,1821
+Self employed,1,1,Black/African American only,Less than High School,31,57,5872,57
+Self employed,1,1,Black/African American only,High School,31,99,10411,99
+Self employed,1,1,Black/African American only,Some College,31,85,9498,85
+Self employed,1,1,Black/African American only,Bachelors Degree or more,31,55,6368,55
+Self employed,1,1,Asian only,Less than High School,31,22,2101,22
+Self employed,1,1,Asian only,High School,31,31,3126,31
+Self employed,1,1,Asian only,Some College,31,37,4334,37
+Self employed,1,1,Asian only,Bachelors Degree or more,31,66,5987,66
+Self employed,1,1,Some other race(s),Less than High School,31,100,10889,100
+Self employed,1,1,Some other race(s),High School,31,88,7985,88
+Self employed,1,1,Some other race(s),Some College,31,77,6568,77
+Self employed,1,1,Some other race(s),Bachelors Degree or more,31,54,6201,54
