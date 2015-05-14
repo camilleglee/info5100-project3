@@ -1,0 +1,262 @@
+<html>
+
+
+<head>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<style>
+html,body {height:100%,width:100%; font-family: "Open Sans"; }
+svg { border: solid black 1px; }
+.bar rect { fill: orange; }
+.axis path { fill: none; stroke: orange;}
+.axis line { stroke: orange; }
+.axis text { font-size: x-small; }
+</style>
+</head>
+
+<body>
+<div id="chart"></div>
+<div id="axesSelect">
+
+
+	<select id="Disability" size="1">
+        
+        
+        <option selected="true" value="1">Disability</option>
+        <option value="0">No Disability</option>
+      </select>
+    VS
+    <select id="Education" size="1">
+        
+        <option selected="true">Less than High School</option>
+        <option>High School</option>
+        <option>Some College</option>
+        <option>Bachelors Degree or more</option>
+    </select>
+    VS
+    <select id="Race" size="1">
+        
+        
+        <option selected="true">White only</option>
+        <option>Black/African American only</option>
+        <option>Asian only</option>
+        <option>Some other race(s)</option>
+    
+    </select>
+     VS
+    <select id="Gender" size="1">
+        
+        
+        <option selected="true" value = "1">Man</option>
+        <option value = "0">Woman</option>
+      
+    
+    </select>
+    <br/>
+
+    <select id="Category" size="1">
+        
+        
+        <option selected="true">Industry</option>
+        <option>Occupation</option>
+         <option>Sector</option>
+    
+    </select>
+    <br/>
+    <select id="Industry" size="1">
+    </select>
+
+    <select id="Occupation" size="1">
+    </select>
+
+    <select id="Sector" size="1">
+    </select>
+
+</div>
+<script>
+
+var industryData;
+var occupationData;
+var sectorData;
+
+
+ 
+
+function populateDropDowns(){
+
+    var industries = {};
+    for(var i=0; i<industryData.length; i++){
+        var row = industryData[i];
+        industries[row['Industry']] = 1;
+    }
+    for(industry in industries){
+        $('#Industry').append("<option>" + industry + "</option>");
+    }
+
+    var occupations = {};
+    for(var i=0; i<occupationData.length; i++){
+        var row = occupationData[i];
+        occupations[row['MajorOcc']] = 1;
+    }
+    for(occupation in occupations){
+        $('#Occupation').append("<option>" + occupation + "</option>");
+    }
+
+    var sectors = {};
+    for(var i=0; i<sectorData.length; i++){
+        var row = sectorData[i];
+        sectors[row['Sector']] = 1;
+    }
+    for(sector in sectors){
+        $('#Sector').append("<option>" + sector + "</option>");
+    }
+    $('#Category').change(showRelevantDropdown)
+    showRelevantDropdown();
+
+    $('select').not("#Category").change(findRelevantRow);
+}
+
+function showRelevantDropdown(){
+    var cat = $('#Category option:selected').text();
+    $('#Industry').hide();
+    $('#Occupation').hide();
+    $('#Sector').hide();
+    $('#' + cat).show();
+}
+
+
+function findRelevantRow(){
+    var disability = $( "#Disability option:selected" ).val();
+    var education = $( "#Education option:selected" ).text();
+    var race = $( "#Race option:selected" ).text();
+    var gender = $( "#Gender option:selected" ).val();
+    var cat = $('#Category option:selected').text();
+    
+    var detail = $( "#" + cat + " option:selected" ).text().trim();
+    
+    if(cat=='Industry'){
+        for(var i=0; i<industryData.length; i++){
+
+            if(industryData[i]['Dis1'] == disability &&
+               industryData[i]['Men'] == gender &&
+               industryData[i]['Educ'] == education &&
+               industryData[i]['raceX'] == race &&
+               industryData[i]['Industry'] == detail){
+                barData(industryData[i]['n_Est'])
+            }
+        }
+
+    }else if(cat=='Occupation'){
+        for(var i=0; i<occupationData.length; i++){
+            if(occupationData[i]['Dis1'] == disability &&
+               occupationData[i]['Men'] == gender &&
+               occupationData[i]['Educ'] == education &&
+               occupationData[i]['raceX'] == race &&
+               occupationData[i]['MajorOcc'] == detail){
+                barData(occupationData[i]['n_Est'])
+            }
+            
+        }
+
+    }else if(cat=='Sector'){
+        for(var i=0; i<sectorData.length; i++){
+            if(sectorData[i]['Dis1'] == disability &&
+               sectorData[i]['Men'] == gender &&
+               sectorData[i]['Educ'] == education &&
+               sectorData[i]['raceX'] == race &&
+               sectorData[i]['Sector'] == detail){
+                barData(sectorData[i]['n_Est'])
+            }
+            
+        }
+
+    }
+
+
+
+
+
+}
+
+function barData(sequence){
+    var height = 400;
+    var width = 400;
+    var padding = 30;
+    
+    var lengthScale = d3.scale.linear().domain([0,100]).range([0,30]);
+
+    $('#chart').html('');
+
+    var svg = d3.select("#chart").append("svg")
+    .attr("height", "40%")
+    .attr("width", "40%")
+    .attr("align","center");
+    var histogram = d3.layout.histogram();
+    
+    var yScale = d3.scale.linear().domain([0,500000]).range([120,0]);
+    var yAxis = d3.svg.axis().scale(yScale).orient("left");
+    var theAxis = svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(" + (svg[0][0].offsetWidth * 0.3) +", 20)")
+
+
+    .call(yAxis);
+
+    window.onresize = function(){
+        
+        theAxis.attr("transform", "translate(" + (svg[0][0].offsetWidth * 0.3) +", 20)");
+    };
+
+
+    var barWidth = 20;
+    console.log(sequence);
+    var bar = svg.append('g');
+                bar.attr("class","bar").append("rect")
+                .attr("x",function(d,i){
+                    return padding+"%";
+                })
+                .attr("y",function(d){
+                    
+                    return 20+yScale(parseFloat(sequence));
+                })
+                .attr('height',function(d){return 120 -yScale(parseFloat(sequence));
+                })
+                .attr("width",barWidth+"%");
+    bar.append('text').text('' + sequence).attr("x",function(d,i){
+                    return (padding+5)+"%";
+                })
+                .attr("y",function(d){
+                    
+                    return 160;
+                });
+        
+
+
+}
+
+function loadData(){
+    d3.csv("Ind5.csv", function(ind){
+        industryData = ind;
+        	
+        d3.csv("Occ5.csv", function(occ){
+            occupationData = occ;
+                    
+            d3.csv("Sec5.csv", function(sec){
+                sectorData = sec;
+
+                populateDropDowns();
+
+            });
+        });
+    });
+}
+
+
+loadData();
+
+
+
+ </script>
+</body>
+</html>
